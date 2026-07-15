@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.Rproj.user/
+.Rhistory

@@ -1,0 +1,3346 @@
+area_code,drug_type,level,episodes,dimension
+40101,Alcohol,Females,65,Sex
+40101,Alcohol,Males,73,Sex
+40101,All drug-related,Females,124,Sex
+40101,All drug-related,Males,166,Sex
+40101,Anaesthetics,Females,1,Sex
+40101,Cannabinoids,Females,10,Sex
+40101,Cannabinoids,Males,13,Sex
+40101,Hallucinogens,Females,3,Sex
+40101,Hallucinogens,Males,2,Sex
+40101,Inhalants,Females,1,Sex
+40101,Inhalants,Males,1,Sex
+40101,Multiple drug use,Females,9,Sex
+40101,Multiple drug use,Males,17,Sex
+40101,Non-opioid analgesic and antirheumatic,Females,4,Sex
+40101,Non-opioid analgesic and antirheumatic,Males,6,Sex
+40101,Opioid,Females,7,Sex
+40101,Opioid,Males,12,Sex
+40101,Other,Females,2,Sex
+40101,Other,Males,3,Sex
+40101,Psychostimulants,Females,11,Sex
+40101,Psychostimulants,Males,25,Sex
+40101,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,1,Sex
+40101,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,3,Sex
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,10,Sex
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,11,Sex
+40102,Alcohol,Females,111,Sex
+40102,Alcohol,Males,159,Sex
+40102,All drug-related,Females,222,Sex
+40102,All drug-related,Males,384,Sex
+40102,Anaesthetics,Males,2,Sex
+40102,Cannabinoids,Females,15,Sex
+40102,Cannabinoids,Males,37,Sex
+40102,Hallucinogens,Males,3,Sex
+40102,Inhalants,Males,5,Sex
+40102,Multiple drug use,Females,17,Sex
+40102,Multiple drug use,Males,25,Sex
+40102,Non-opioid analgesic and antirheumatic,Females,4,Sex
+40102,Non-opioid analgesic and antirheumatic,Males,12,Sex
+40102,Opioid,Females,18,Sex
+40102,Opioid,Males,26,Sex
+40102,Other,Females,2,Sex
+40102,Other,Males,5,Sex
+40102,Psychostimulants,Females,32,Sex
+40102,Psychostimulants,Males,69,Sex
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,6,Sex
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,18,Sex
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,17,Sex
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,23,Sex
+40103,Alcohol,Females,81,Sex
+40103,Alcohol,Males,129,Sex
+40103,All drug-related,Females,175,Sex
+40103,All drug-related,Males,316,Sex
+40103,Anaesthetics,Females,2,Sex
+40103,Anaesthetics,Males,1,Sex
+40103,Analeptics and opioid receptor antagonists,Females,1,Sex
+40103,Androgens and anabolic congeners,Females,1,Sex
+40103,Androgens and anabolic congeners,Males,1,Sex
+40103,Cannabinoids,Females,13,Sex
+40103,Cannabinoids,Males,19,Sex
+40103,Hallucinogens,Females,2,Sex
+40103,Hallucinogens,Males,3,Sex
+40103,Inhalants,Males,1,Sex
+40103,Multiple drug use,Females,12,Sex
+40103,Multiple drug use,Males,25,Sex
+40103,Non-opioid analgesic and antirheumatic,Females,7,Sex
+40103,Non-opioid analgesic and antirheumatic,Males,12,Sex
+40103,Opioid,Females,18,Sex
+40103,Opioid,Males,21,Sex
+40103,Other,Females,3,Sex
+40103,Other,Males,4,Sex
+40103,Psychostimulants,Females,16,Sex
+40103,Psychostimulants,Males,56,Sex
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,10,Sex
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,20,Sex
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,24,Sex
+40104,Alcohol,Females,60,Sex
+40104,Alcohol,Males,125,Sex
+40104,All drug-related,Females,151,Sex
+40104,All drug-related,Males,272,Sex
+40104,Anaesthetics,Males,1,Sex
+40104,Analeptics and opioid receptor antagonists,Males,1,Sex
+40104,Cannabinoids,Females,11,Sex
+40104,Cannabinoids,Males,24,Sex
+40104,Hallucinogens,Females,4,Sex
+40104,Hallucinogens,Males,3,Sex
+40104,Inhalants,Males,2,Sex
+40104,Multiple drug use,Females,7,Sex
+40104,Multiple drug use,Males,18,Sex
+40104,Non-opioid analgesic and antirheumatic,Females,9,Sex
+40104,Non-opioid analgesic and antirheumatic,Males,5,Sex
+40104,Opioid,Females,13,Sex
+40104,Opioid,Males,30,Sex
+40104,Other,Females,3,Sex
+40104,Other,Males,4,Sex
+40104,Psychostimulants,Females,23,Sex
+40104,Psychostimulants,Males,35,Sex
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,6,Sex
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,3,Sex
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,15,Sex
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,21,Sex
+40105,Alcohol,Females,53,Sex
+40105,Alcohol,Males,110,Sex
+40105,All drug-related,Females,144,Sex
+40105,All drug-related,Males,230,Sex
+40105,Anaesthetics,Females,2,Sex
+40105,Analeptics and opioid receptor antagonists,Females,1,Sex
+40105,Analeptics and opioid receptor antagonists,Males,2,Sex
+40105,Androgens and anabolic congeners,Females,1,Sex
+40105,Androgens and anabolic congeners,Males,1,Sex
+40105,Cannabinoids,Females,11,Sex
+40105,Cannabinoids,Males,15,Sex
+40105,Hallucinogens,Females,1,Sex
+40105,Hallucinogens,Males,1,Sex
+40105,Multiple drug use,Females,12,Sex
+40105,Multiple drug use,Males,20,Sex
+40105,Non-opioid analgesic and antirheumatic,Females,7,Sex
+40105,Non-opioid analgesic and antirheumatic,Males,9,Sex
+40105,Opioid,Females,16,Sex
+40105,Opioid,Males,16,Sex
+40105,Other,Females,2,Sex
+40105,Other,Males,3,Sex
+40105,Psychostimulants,Females,23,Sex
+40105,Psychostimulants,Males,33,Sex
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,5,Sex
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,6,Sex
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,10,Sex
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,14,Sex
+40106,Alcohol,Females,128,Sex
+40106,Alcohol,Males,198,Sex
+40106,All drug-related,Females,275,Sex
+40106,All drug-related,Males,465,Sex
+40106,Anaesthetics,Females,1,Sex
+40106,Anaesthetics,Males,1,Sex
+40106,Analeptics and opioid receptor antagonists,Males,2,Sex
+40106,Androgens and anabolic congeners,Females,1,Sex
+40106,Androgens and anabolic congeners,Males,1,Sex
+40106,Cannabinoids,Females,22,Sex
+40106,Cannabinoids,Males,43,Sex
+40106,Hallucinogens,Females,7,Sex
+40106,Hallucinogens,Males,6,Sex
+40106,Inhalants,Males,5,Sex
+40106,Multiple drug use,Females,15,Sex
+40106,Multiple drug use,Males,39,Sex
+40106,Non-opioid analgesic and antirheumatic,Females,12,Sex
+40106,Non-opioid analgesic and antirheumatic,Males,16,Sex
+40106,Opioid,Females,23,Sex
+40106,Opioid,Males,42,Sex
+40106,Other,Females,5,Sex
+40106,Other,Males,4,Sex
+40106,Psychostimulants,Females,40,Sex
+40106,Psychostimulants,Males,62,Sex
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,9,Sex
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,16,Sex
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,12,Sex
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,30,Sex
+40107,Alcohol,Females,142,Sex
+40107,Alcohol,Males,207,Sex
+40107,All drug-related,Females,291,Sex
+40107,All drug-related,Males,490,Sex
+40107,Anaesthetics,Females,3,Sex
+40107,Anaesthetics,Males,3,Sex
+40107,Analeptics and opioid receptor antagonists,Males,1,Sex
+40107,Cannabinoids,Females,23,Sex
+40107,Cannabinoids,Males,45,Sex
+40107,Hallucinogens,Females,1,Sex
+40107,Hallucinogens,Males,7,Sex
+40107,Inhalants,Males,4,Sex
+40107,Multiple drug use,Females,17,Sex
+40107,Multiple drug use,Males,32,Sex
+40107,Non-opioid analgesic and antirheumatic,Females,6,Sex
+40107,Non-opioid analgesic and antirheumatic,Males,13,Sex
+40107,Opioid,Females,31,Sex
+40107,Opioid,Males,43,Sex
+40107,Other,Females,2,Sex
+40107,Other,Males,1,Sex
+40107,Psychostimulants,Females,38,Sex
+40107,Psychostimulants,Males,84,Sex
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,11,Sex
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,14,Sex
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,17,Sex
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,36,Sex
+40201,Alcohol,Females,45,Sex
+40201,Alcohol,Males,71,Sex
+40201,All drug-related,Females,102,Sex
+40201,All drug-related,Males,189,Sex
+40201,Anaesthetics,Males,1,Sex
+40201,Analeptics and opioid receptor antagonists,Females,2,Sex
+40201,Cannabinoids,Females,9,Sex
+40201,Cannabinoids,Males,15,Sex
+40201,Hallucinogens,Females,1,Sex
+40201,Hallucinogens,Males,5,Sex
+40201,Inhalants,Males,1,Sex
+40201,Multiple drug use,Females,6,Sex
+40201,Multiple drug use,Males,12,Sex
+40201,Non-opioid analgesic and antirheumatic,Females,3,Sex
+40201,Non-opioid analgesic and antirheumatic,Males,10,Sex
+40201,Opioid,Females,7,Sex
+40201,Opioid,Males,26,Sex
+40201,Other,Females,2,Sex
+40201,Other,Males,3,Sex
+40201,Psychostimulants,Females,15,Sex
+40201,Psychostimulants,Males,27,Sex
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,4,Sex
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,10,Sex
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,8,Sex
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,8,Sex
+40202,Alcohol,Females,99,Sex
+40202,Alcohol,Males,179,Sex
+40202,All drug-related,Females,256,Sex
+40202,All drug-related,Males,399,Sex
+40202,Anaesthetics,Males,4,Sex
+40202,Analeptics and opioid receptor antagonists,Females,1,Sex
+40202,Cannabinoids,Females,16,Sex
+40202,Cannabinoids,Males,31,Sex
+40202,Hallucinogens,Females,1,Sex
+40202,Hallucinogens,Males,3,Sex
+40202,Inhalants,Females,3,Sex
+40202,Inhalants,Males,5,Sex
+40202,Multiple drug use,Females,20,Sex
+40202,Multiple drug use,Males,27,Sex
+40202,Non-opioid analgesic and antirheumatic,Females,15,Sex
+40202,Non-opioid analgesic and antirheumatic,Males,13,Sex
+40202,Opioid,Females,20,Sex
+40202,Opioid,Males,38,Sex
+40202,Other,Females,3,Sex
+40202,Other,Males,7,Sex
+40202,Psychostimulants,Females,47,Sex
+40202,Psychostimulants,Males,61,Sex
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,10,Sex
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,12,Sex
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,20,Sex
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,19,Sex
+40202,Steroids or hormones,Females,1,Sex
+40203,Alcohol,Females,59,Sex
+40203,Alcohol,Males,115,Sex
+40203,All drug-related,Females,143,Sex
+40203,All drug-related,Males,231,Sex
+40203,Anaesthetics,Females,1,Sex
+40203,Anaesthetics,Males,1,Sex
+40203,Analeptics and opioid receptor antagonists,Females,1,Sex
+40203,Androgens and anabolic congeners,Males,2,Sex
+40203,Cannabinoids,Females,12,Sex
+40203,Cannabinoids,Males,23,Sex
+40203,Hallucinogens,Females,6,Sex
+40203,Hallucinogens,Males,1,Sex
+40203,Inhalants,Females,2,Sex
+40203,Multiple drug use,Females,11,Sex
+40203,Multiple drug use,Males,9,Sex
+40203,Non-opioid analgesic and antirheumatic,Females,5,Sex
+40203,Non-opioid analgesic and antirheumatic,Males,4,Sex
+40203,Opioid,Females,11,Sex
+40203,Opioid,Males,21,Sex
+40203,Other,Females,4,Sex
+40203,Other,Males,3,Sex
+40203,Psychostimulants,Females,21,Sex
+40203,Psychostimulants,Males,36,Sex
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,4,Sex
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,3,Sex
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,6,Sex
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,13,Sex
+40204,Alcohol,Females,152,Sex
+40204,Alcohol,Males,217,Sex
+40204,All drug-related,Females,361,Sex
+40204,All drug-related,Males,493,Sex
+40204,Anaesthetics,Females,3,Sex
+40204,Anaesthetics,Males,1,Sex
+40204,Analeptics and opioid receptor antagonists,Females,1,Sex
+40204,Androgens and anabolic congeners,Females,1,Sex
+40204,Androgens and anabolic congeners,Males,1,Sex
+40204,Cannabinoids,Females,23,Sex
+40204,Cannabinoids,Males,44,Sex
+40204,Hallucinogens,Females,3,Sex
+40204,Hallucinogens,Males,5,Sex
+40204,Inhalants,Females,1,Sex
+40204,Inhalants,Males,6,Sex
+40204,Multiple drug use,Females,32,Sex
+40204,Multiple drug use,Males,50,Sex
+40204,Non-opioid analgesic and antirheumatic,Females,14,Sex
+40204,Non-opioid analgesic and antirheumatic,Males,13,Sex
+40204,Opioid,Females,26,Sex
+40204,Opioid,Males,39,Sex
+40204,Other,Females,5,Sex
+40204,Other,Males,6,Sex
+40204,Psychostimulants,Females,56,Sex
+40204,Psychostimulants,Males,71,Sex
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,14,Sex
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,14,Sex
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,30,Sex
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,26,Sex
+40205,Alcohol,Females,163,Sex
+40205,Alcohol,Males,219,Sex
+40205,All drug-related,Females,342,Sex
+40205,All drug-related,Males,499,Sex
+40205,Anaesthetics,Females,1,Sex
+40205,Anaesthetics,Males,1,Sex
+40205,Analeptics and opioid receptor antagonists,Males,2,Sex
+40205,Androgens and anabolic congeners,Males,2,Sex
+40205,Cannabinoids,Females,20,Sex
+40205,Cannabinoids,Males,33,Sex
+40205,Hallucinogens,Males,2,Sex
+40205,Inhalants,Females,1,Sex
+40205,Inhalants,Males,3,Sex
+40205,Multiple drug use,Females,23,Sex
+40205,Multiple drug use,Males,43,Sex
+40205,Non-opioid analgesic and antirheumatic,Females,5,Sex
+40205,Non-opioid analgesic and antirheumatic,Males,14,Sex
+40205,Opioid,Females,39,Sex
+40205,Opioid,Males,40,Sex
+40205,Other,Females,2,Sex
+40205,Other,Males,9,Sex
+40205,Psychostimulants,Females,54,Sex
+40205,Psychostimulants,Males,84,Sex
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,13,Sex
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,22,Sex
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,21,Sex
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,24,Sex
+40205,Steroids or hormones,Males,1,Sex
+40301,Alcohol,Females,134,Sex
+40301,Alcohol,Males,154,Sex
+40301,All drug-related,Females,278,Sex
+40301,All drug-related,Males,374,Sex
+40301,Anaesthetics,Females,1,Sex
+40301,Anaesthetics,Males,4,Sex
+40301,Analeptics and opioid receptor antagonists,Females,1,Sex
+40301,Androgens and anabolic congeners,Males,1,Sex
+40301,Cannabinoids,Females,21,Sex
+40301,Cannabinoids,Males,25,Sex
+40301,Hallucinogens,Females,2,Sex
+40301,Hallucinogens,Males,3,Sex
+40301,Inhalants,Females,1,Sex
+40301,Inhalants,Males,4,Sex
+40301,Multiple drug use,Females,20,Sex
+40301,Multiple drug use,Males,30,Sex
+40301,Non-opioid analgesic and antirheumatic,Females,9,Sex
+40301,Non-opioid analgesic and antirheumatic,Males,11,Sex
+40301,Opioid,Females,23,Sex
+40301,Opioid,Males,31,Sex
+40301,Other,Females,2,Sex
+40301,Other,Males,4,Sex
+40301,Psychostimulants,Females,36,Sex
+40301,Psychostimulants,Males,61,Sex
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,8,Sex
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,11,Sex
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,20,Sex
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,34,Sex
+40301,Steroids or hormones,Males,1,Sex
+40302,Alcohol,Females,118,Sex
+40302,Alcohol,Males,208,Sex
+40302,All drug-related,Females,274,Sex
+40302,All drug-related,Males,452,Sex
+40302,Anaesthetics,Males,3,Sex
+40302,Analeptics and opioid receptor antagonists,Females,1,Sex
+40302,Androgens and anabolic congeners,Females,1,Sex
+40302,Cannabinoids,Females,25,Sex
+40302,Cannabinoids,Males,44,Sex
+40302,Hallucinogens,Females,3,Sex
+40302,Hallucinogens,Males,6,Sex
+40302,Inhalants,Females,1,Sex
+40302,Inhalants,Males,2,Sex
+40302,Multiple drug use,Females,19,Sex
+40302,Multiple drug use,Males,26,Sex
+40302,Non-opioid analgesic and antirheumatic,Females,10,Sex
+40302,Non-opioid analgesic and antirheumatic,Males,11,Sex
+40302,Opioid,Females,14,Sex
+40302,Opioid,Males,28,Sex
+40302,Other,Females,3,Sex
+40302,Other,Males,2,Sex
+40302,Psychostimulants,Females,52,Sex
+40302,Psychostimulants,Males,79,Sex
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,13,Sex
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,21,Sex
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,14,Sex
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,21,Sex
+40302,Steroids or hormones,Males,1,Sex
+40303,Alcohol,Females,86,Sex
+40303,Alcohol,Males,150,Sex
+40303,All drug-related,Females,203,Sex
+40303,All drug-related,Males,344,Sex
+40303,Anaesthetics,Females,4,Sex
+40303,Anaesthetics,Males,2,Sex
+40303,Analeptics and opioid receptor antagonists,Females,1,Sex
+40303,Analeptics and opioid receptor antagonists,Males,2,Sex
+40303,Androgens and anabolic congeners,Females,1,Sex
+40303,Cannabinoids,Females,14,Sex
+40303,Cannabinoids,Males,33,Sex
+40303,Hallucinogens,Females,2,Sex
+40303,Hallucinogens,Males,3,Sex
+40303,Inhalants,Females,3,Sex
+40303,Inhalants,Males,1,Sex
+40303,Multiple drug use,Females,16,Sex
+40303,Multiple drug use,Males,24,Sex
+40303,Non-opioid analgesic and antirheumatic,Females,2,Sex
+40303,Non-opioid analgesic and antirheumatic,Males,10,Sex
+40303,Opioid,Females,21,Sex
+40303,Opioid,Males,32,Sex
+40303,Other,Females,2,Sex
+40303,Other,Males,3,Sex
+40303,Psychostimulants,Females,35,Sex
+40303,Psychostimulants,Males,49,Sex
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,9,Sex
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,15,Sex
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,7,Sex
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,20,Sex
+40304,Alcohol,Females,138,Sex
+40304,Alcohol,Males,222,Sex
+40304,All drug-related,Females,276,Sex
+40304,All drug-related,Males,488,Sex
+40304,Anaesthetics,Females,1,Sex
+40304,Anaesthetics,Males,1,Sex
+40304,Analeptics and opioid receptor antagonists,Males,4,Sex
+40304,Androgens and anabolic congeners,Males,1,Sex
+40304,Cannabinoids,Females,20,Sex
+40304,Cannabinoids,Males,36,Sex
+40304,Hallucinogens,Females,1,Sex
+40304,Hallucinogens,Males,8,Sex
+40304,Inhalants,Females,1,Sex
+40304,Inhalants,Males,6,Sex
+40304,Multiple drug use,Females,18,Sex
+40304,Multiple drug use,Males,35,Sex
+40304,Non-opioid analgesic and antirheumatic,Females,10,Sex
+40304,Non-opioid analgesic and antirheumatic,Males,17,Sex
+40304,Opioid,Females,19,Sex
+40304,Opioid,Males,36,Sex
+40304,Other,Females,2,Sex
+40304,Other,Males,10,Sex
+40304,Psychostimulants,Females,38,Sex
+40304,Psychostimulants,Males,74,Sex
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,9,Sex
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,16,Sex
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,19,Sex
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,21,Sex
+40304,Steroids or hormones,Males,1,Sex
+40401,Alcohol,Females,94,Sex
+40401,Alcohol,Males,137,Sex
+40401,All drug-related,Females,204,Sex
+40401,All drug-related,Males,302,Sex
+40401,Anaesthetics,Females,1,Sex
+40401,Anaesthetics,Males,3,Sex
+40401,Analeptics and opioid receptor antagonists,Males,2,Sex
+40401,Androgens and anabolic congeners,Males,2,Sex
+40401,Cannabinoids,Females,14,Sex
+40401,Cannabinoids,Males,18,Sex
+40401,Hallucinogens,Females,1,Sex
+40401,Hallucinogens,Males,3,Sex
+40401,Inhalants,Females,1,Sex
+40401,Inhalants,Males,3,Sex
+40401,Multiple drug use,Females,14,Sex
+40401,Multiple drug use,Males,21,Sex
+40401,Non-opioid analgesic and antirheumatic,Females,6,Sex
+40401,Non-opioid analgesic and antirheumatic,Males,6,Sex
+40401,Opioid,Females,21,Sex
+40401,Opioid,Males,27,Sex
+40401,Other,Females,3,Sex
+40401,Other,Males,6,Sex
+40401,Psychostimulants,Females,27,Sex
+40401,Psychostimulants,Males,47,Sex
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,10,Sex
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,11,Sex
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,12,Sex
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,15,Sex
+40401,Steroids or hormones,Males,1,Sex
+40402,Alcohol,Females,75,Sex
+40402,Alcohol,Males,96,Sex
+40402,All drug-related,Females,154,Sex
+40402,All drug-related,Males,232,Sex
+40402,Anaesthetics,Males,3,Sex
+40402,Analeptics and opioid receptor antagonists,Females,1,Sex
+40402,Analeptics and opioid receptor antagonists,Males,1,Sex
+40402,Cannabinoids,Females,14,Sex
+40402,Cannabinoids,Males,17,Sex
+40402,Hallucinogens,Females,1,Sex
+40402,Hallucinogens,Males,1,Sex
+40402,Inhalants,Males,3,Sex
+40402,Multiple drug use,Females,10,Sex
+40402,Multiple drug use,Males,18,Sex
+40402,Non-opioid analgesic and antirheumatic,Females,5,Sex
+40402,Non-opioid analgesic and antirheumatic,Males,11,Sex
+40402,Opioid,Females,9,Sex
+40402,Opioid,Males,16,Sex
+40402,Other,Females,2,Sex
+40402,Other,Males,8,Sex
+40402,Psychostimulants,Females,24,Sex
+40402,Psychostimulants,Males,38,Sex
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,4,Sex
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,9,Sex
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,11,Sex
+40403,Alcohol,Females,57,Sex
+40403,Alcohol,Males,91,Sex
+40403,All drug-related,Females,121,Sex
+40403,All drug-related,Males,195,Sex
+40403,Anaesthetics,Females,2,Sex
+40403,Anaesthetics,Males,1,Sex
+40403,Cannabinoids,Females,3,Sex
+40403,Cannabinoids,Males,13,Sex
+40403,Hallucinogens,Females,1,Sex
+40403,Hallucinogens,Males,1,Sex
+40403,Multiple drug use,Females,7,Sex
+40403,Multiple drug use,Males,10,Sex
+40403,Non-opioid analgesic and antirheumatic,Females,7,Sex
+40403,Non-opioid analgesic and antirheumatic,Males,11,Sex
+40403,Opioid,Females,14,Sex
+40403,Opioid,Males,18,Sex
+40403,Other,Males,1,Sex
+40403,Psychostimulants,Females,15,Sex
+40403,Psychostimulants,Males,29,Sex
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,5,Sex
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,8,Sex
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,10,Sex
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,12,Sex
+40501,Alcohol,Females,41,Sex
+40501,Alcohol,Males,81,Sex
+40501,All drug-related,Females,113,Sex
+40501,All drug-related,Males,182,Sex
+40501,Anaesthetics,Males,1,Sex
+40501,Analeptics and opioid receptor antagonists,Females,1,Sex
+40501,Androgens and anabolic congeners,Males,1,Sex
+40501,Cannabinoids,Females,8,Sex
+40501,Cannabinoids,Males,17,Sex
+40501,Hallucinogens,Females,1,Sex
+40501,Hallucinogens,Males,1,Sex
+40501,Inhalants,Females,2,Sex
+40501,Inhalants,Males,1,Sex
+40501,Multiple drug use,Females,9,Sex
+40501,Multiple drug use,Males,11,Sex
+40501,Non-opioid analgesic and antirheumatic,Females,6,Sex
+40501,Non-opioid analgesic and antirheumatic,Males,10,Sex
+40501,Opioid,Females,9,Sex
+40501,Opioid,Males,12,Sex
+40501,Other,Males,4,Sex
+40501,Psychostimulants,Females,24,Sex
+40501,Psychostimulants,Males,22,Sex
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,5,Sex
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,10,Sex
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,7,Sex
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,11,Sex
+40502,Alcohol,Females,79,Sex
+40502,Alcohol,Males,164,Sex
+40502,All drug-related,Females,191,Sex
+40502,All drug-related,Males,327,Sex
+40502,Anaesthetics,Males,1,Sex
+40502,Androgens and anabolic congeners,Males,1,Sex
+40502,Cannabinoids,Females,15,Sex
+40502,Cannabinoids,Males,26,Sex
+40502,Hallucinogens,Females,1,Sex
+40502,Hallucinogens,Males,8,Sex
+40502,Inhalants,Females,1,Sex
+40502,Inhalants,Males,3,Sex
+40502,Multiple drug use,Females,14,Sex
+40502,Multiple drug use,Males,18,Sex
+40502,Non-opioid analgesic and antirheumatic,Females,4,Sex
+40502,Non-opioid analgesic and antirheumatic,Males,10,Sex
+40502,Opioid,Females,15,Sex
+40502,Opioid,Males,22,Sex
+40502,Other,Females,1,Sex
+40502,Other,Males,3,Sex
+40502,Psychostimulants,Females,29,Sex
+40502,Psychostimulants,Males,40,Sex
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,13,Sex
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,8,Sex
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,19,Sex
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,23,Sex
+40503,Alcohol,Females,101,Sex
+40503,Alcohol,Males,148,Sex
+40503,All drug-related,Females,186,Sex
+40503,All drug-related,Males,314,Sex
+40503,Anaesthetics,Females,2,Sex
+40503,Anaesthetics,Males,1,Sex
+40503,Analeptics and opioid receptor antagonists,Females,1,Sex
+40503,Analeptics and opioid receptor antagonists,Males,1,Sex
+40503,Cannabinoids,Females,12,Sex
+40503,Cannabinoids,Males,33,Sex
+40503,Hallucinogens,Females,3,Sex
+40503,Hallucinogens,Males,1,Sex
+40503,Inhalants,Males,1,Sex
+40503,Multiple drug use,Females,15,Sex
+40503,Multiple drug use,Males,24,Sex
+40503,Non-opioid analgesic and antirheumatic,Females,6,Sex
+40503,Non-opioid analgesic and antirheumatic,Males,5,Sex
+40503,Opioid,Females,11,Sex
+40503,Opioid,Males,23,Sex
+40503,Other,Males,6,Sex
+40503,Psychostimulants,Females,19,Sex
+40503,Psychostimulants,Males,42,Sex
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,7,Sex
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,15,Sex
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,13,Sex
+40503,Steroids or hormones,Males,1,Sex
+40504,Alcohol,Females,103,Sex
+40504,Alcohol,Males,182,Sex
+40504,All drug-related,Females,239,Sex
+40504,All drug-related,Males,410,Sex
+40504,Anaesthetics,Females,3,Sex
+40504,Androgens and anabolic congeners,Females,1,Sex
+40504,Androgens and anabolic congeners,Males,1,Sex
+40504,Cannabinoids,Females,23,Sex
+40504,Cannabinoids,Males,25,Sex
+40504,Hallucinogens,Females,4,Sex
+40504,Inhalants,Females,2,Sex
+40504,Inhalants,Males,1,Sex
+40504,Multiple drug use,Females,18,Sex
+40504,Multiple drug use,Males,19,Sex
+40504,Non-opioid analgesic and antirheumatic,Females,7,Sex
+40504,Non-opioid analgesic and antirheumatic,Males,21,Sex
+40504,Opioid,Females,22,Sex
+40504,Opioid,Males,28,Sex
+40504,Other,Females,3,Sex
+40504,Other,Males,6,Sex
+40504,Psychostimulants,Females,37,Sex
+40504,Psychostimulants,Males,70,Sex
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,7,Sex
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,18,Sex
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,38,Sex
+40504,Steroids or hormones,Males,1,Sex
+40601,Alcohol,Females,37,Sex
+40601,Alcohol,Males,50,Sex
+40601,All drug-related,Females,71,Sex
+40601,All drug-related,Males,111,Sex
+40601,Cannabinoids,Females,5,Sex
+40601,Cannabinoids,Males,15,Sex
+40601,Hallucinogens,Females,1,Sex
+40601,Hallucinogens,Males,1,Sex
+40601,Multiple drug use,Females,5,Sex
+40601,Multiple drug use,Males,6,Sex
+40601,Non-opioid analgesic and antirheumatic,Females,2,Sex
+40601,Non-opioid analgesic and antirheumatic,Males,5,Sex
+40601,Opioid,Females,2,Sex
+40601,Opioid,Males,5,Sex
+40601,Psychostimulants,Females,10,Sex
+40601,Psychostimulants,Males,18,Sex
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,4,Sex
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,8,Sex
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,5,Sex
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,3,Sex
+40602,Alcohol,Females,92,Sex
+40602,Alcohol,Males,140,Sex
+40602,All drug-related,Females,197,Sex
+40602,All drug-related,Males,300,Sex
+40602,Anaesthetics,Males,1,Sex
+40602,Analeptics and opioid receptor antagonists,Males,1,Sex
+40602,Cannabinoids,Females,15,Sex
+40602,Cannabinoids,Males,28,Sex
+40602,Hallucinogens,Females,1,Sex
+40602,Hallucinogens,Males,3,Sex
+40602,Inhalants,Males,1,Sex
+40602,Multiple drug use,Females,8,Sex
+40602,Multiple drug use,Males,34,Sex
+40602,Non-opioid analgesic and antirheumatic,Females,5,Sex
+40602,Non-opioid analgesic and antirheumatic,Males,8,Sex
+40602,Opioid,Females,22,Sex
+40602,Opioid,Males,21,Sex
+40602,Other,Females,2,Sex
+40602,Other,Males,1,Sex
+40602,Psychostimulants,Females,29,Sex
+40602,Psychostimulants,Males,39,Sex
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,8,Sex
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,11,Sex
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,15,Sex
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,12,Sex
+40701,Alcohol,Females,76,Sex
+40701,Alcohol,Males,140,Sex
+40701,All drug-related,Females,167,Sex
+40701,All drug-related,Males,307,Sex
+40701,Anaesthetics,Females,2,Sex
+40701,Anaesthetics,Males,5,Sex
+40701,Analeptics and opioid receptor antagonists,Females,1,Sex
+40701,Cannabinoids,Females,14,Sex
+40701,Cannabinoids,Males,16,Sex
+40701,Hallucinogens,Females,4,Sex
+40701,Hallucinogens,Males,5,Sex
+40701,Inhalants,Males,6,Sex
+40701,Multiple drug use,Females,10,Sex
+40701,Multiple drug use,Males,20,Sex
+40701,Non-opioid analgesic and antirheumatic,Females,4,Sex
+40701,Non-opioid analgesic and antirheumatic,Males,7,Sex
+40701,Opioid,Females,11,Sex
+40701,Opioid,Males,24,Sex
+40701,Other,Females,3,Sex
+40701,Other,Males,4,Sex
+40701,Psychostimulants,Females,23,Sex
+40701,Psychostimulants,Males,49,Sex
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,10,Sex
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,11,Sex
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,19,Sex
+40701,Steroids or hormones,Males,1,Sex
+40702,Alcohol,Females,54,Sex
+40702,Alcohol,Males,85,Sex
+40702,All drug-related,Females,127,Sex
+40702,All drug-related,Males,178,Sex
+40702,Anaesthetics,Females,3,Sex
+40702,Anaesthetics,Males,1,Sex
+40702,Analeptics and opioid receptor antagonists,Females,2,Sex
+40702,Cannabinoids,Females,10,Sex
+40702,Cannabinoids,Males,10,Sex
+40702,Hallucinogens,Males,4,Sex
+40702,Inhalants,Females,1,Sex
+40702,Inhalants,Males,1,Sex
+40702,Multiple drug use,Females,12,Sex
+40702,Multiple drug use,Males,11,Sex
+40702,Non-opioid analgesic and antirheumatic,Females,2,Sex
+40702,Non-opioid analgesic and antirheumatic,Males,2,Sex
+40702,Opioid,Females,9,Sex
+40702,Opioid,Males,25,Sex
+40702,Other,Females,1,Sex
+40702,Psychostimulants,Females,22,Sex
+40702,Psychostimulants,Males,28,Sex
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,2,Sex
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,4,Sex
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,9,Sex
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,7,Sex
+40703,Alcohol,Females,104,Sex
+40703,Alcohol,Males,185,Sex
+40703,All drug-related,Females,232,Sex
+40703,All drug-related,Males,362,Sex
+40703,Anaesthetics,Females,5,Sex
+40703,Anaesthetics,Males,1,Sex
+40703,Analeptics and opioid receptor antagonists,Females,2,Sex
+40703,Analeptics and opioid receptor antagonists,Males,2,Sex
+40703,Androgens and anabolic congeners,Males,1,Sex
+40703,Cannabinoids,Females,11,Sex
+40703,Cannabinoids,Males,24,Sex
+40703,Hallucinogens,Females,4,Sex
+40703,Hallucinogens,Males,2,Sex
+40703,Inhalants,Females,1,Sex
+40703,Inhalants,Males,5,Sex
+40703,Multiple drug use,Females,18,Sex
+40703,Multiple drug use,Males,28,Sex
+40703,Non-opioid analgesic and antirheumatic,Females,7,Sex
+40703,Non-opioid analgesic and antirheumatic,Males,13,Sex
+40703,Opioid,Females,21,Sex
+40703,Opioid,Males,23,Sex
+40703,Other,Females,2,Sex
+40703,Other,Males,1,Sex
+40703,Psychostimulants,Females,35,Sex
+40703,Psychostimulants,Males,46,Sex
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Females,7,Sex
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Males,13,Sex
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",Females,15,Sex
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",Males,18,Sex
+40101,Alcohol,First Nations,6,Indigenous status
+40101,Alcohol,Non-Indigenous,132,Indigenous status
+40101,All drug-related,First Nations,15,Indigenous status
+40101,All drug-related,Non-Indigenous,275,Indigenous status
+40101,Anaesthetics,Non-Indigenous,1,Indigenous status
+40101,Cannabinoids,First Nations,1,Indigenous status
+40101,Cannabinoids,Non-Indigenous,22,Indigenous status
+40101,Hallucinogens,First Nations,1,Indigenous status
+40101,Hallucinogens,Non-Indigenous,4,Indigenous status
+40101,Inhalants,Non-Indigenous,2,Indigenous status
+40101,Multiple drug use,First Nations,1,Indigenous status
+40101,Multiple drug use,Non-Indigenous,25,Indigenous status
+40101,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40101,Non-opioid analgesic and antirheumatic,Non-Indigenous,9,Indigenous status
+40101,Opioid,First Nations,1,Indigenous status
+40101,Opioid,Non-Indigenous,18,Indigenous status
+40101,Other,Non-Indigenous,5,Indigenous status
+40101,Psychostimulants,First Nations,2,Indigenous status
+40101,Psychostimulants,Non-Indigenous,34,Indigenous status
+40101,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,4,Indigenous status
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,19,Indigenous status
+40102,Alcohol,First Nations,29,Indigenous status
+40102,Alcohol,Non-Indigenous,241,Indigenous status
+40102,All drug-related,First Nations,59,Indigenous status
+40102,All drug-related,Non-Indigenous,547,Indigenous status
+40102,Anaesthetics,Non-Indigenous,2,Indigenous status
+40102,Cannabinoids,First Nations,5,Indigenous status
+40102,Cannabinoids,Non-Indigenous,47,Indigenous status
+40102,Hallucinogens,Non-Indigenous,3,Indigenous status
+40102,Inhalants,Non-Indigenous,5,Indigenous status
+40102,Multiple drug use,First Nations,2,Indigenous status
+40102,Multiple drug use,Non-Indigenous,40,Indigenous status
+40102,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40102,Non-opioid analgesic and antirheumatic,Non-Indigenous,15,Indigenous status
+40102,Opioid,First Nations,5,Indigenous status
+40102,Opioid,Non-Indigenous,39,Indigenous status
+40102,Other,First Nations,1,Indigenous status
+40102,Other,Non-Indigenous,6,Indigenous status
+40102,Psychostimulants,First Nations,11,Indigenous status
+40102,Psychostimulants,Non-Indigenous,90,Indigenous status
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,23,Indigenous status
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,4,Indigenous status
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,36,Indigenous status
+40103,Alcohol,First Nations,17,Indigenous status
+40103,Alcohol,Non-Indigenous,193,Indigenous status
+40103,All drug-related,First Nations,38,Indigenous status
+40103,All drug-related,Non-Indigenous,453,Indigenous status
+40103,Anaesthetics,Non-Indigenous,3,Indigenous status
+40103,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40103,Androgens and anabolic congeners,First Nations,1,Indigenous status
+40103,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40103,Cannabinoids,First Nations,4,Indigenous status
+40103,Cannabinoids,Non-Indigenous,28,Indigenous status
+40103,Hallucinogens,Non-Indigenous,5,Indigenous status
+40103,Inhalants,Non-Indigenous,1,Indigenous status
+40103,Multiple drug use,First Nations,1,Indigenous status
+40103,Multiple drug use,Non-Indigenous,36,Indigenous status
+40103,Non-opioid analgesic and antirheumatic,First Nations,2,Indigenous status
+40103,Non-opioid analgesic and antirheumatic,Non-Indigenous,17,Indigenous status
+40103,Opioid,First Nations,4,Indigenous status
+40103,Opioid,Non-Indigenous,35,Indigenous status
+40103,Other,Non-Indigenous,7,Indigenous status
+40103,Psychostimulants,First Nations,3,Indigenous status
+40103,Psychostimulants,Non-Indigenous,69,Indigenous status
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,3,Indigenous status
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,27,Indigenous status
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,3,Indigenous status
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,30,Indigenous status
+40104,Alcohol,First Nations,15,Indigenous status
+40104,Alcohol,Non-Indigenous,170,Indigenous status
+40104,All drug-related,First Nations,28,Indigenous status
+40104,All drug-related,Non-Indigenous,395,Indigenous status
+40104,Anaesthetics,Non-Indigenous,1,Indigenous status
+40104,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40104,Cannabinoids,First Nations,5,Indigenous status
+40104,Cannabinoids,Non-Indigenous,30,Indigenous status
+40104,Hallucinogens,Non-Indigenous,7,Indigenous status
+40104,Inhalants,Non-Indigenous,2,Indigenous status
+40104,Multiple drug use,Non-Indigenous,25,Indigenous status
+40104,Non-opioid analgesic and antirheumatic,Non-Indigenous,14,Indigenous status
+40104,Opioid,First Nations,3,Indigenous status
+40104,Opioid,Non-Indigenous,40,Indigenous status
+40104,Other,Non-Indigenous,7,Indigenous status
+40104,Psychostimulants,First Nations,4,Indigenous status
+40104,Psychostimulants,Non-Indigenous,54,Indigenous status
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,9,Indigenous status
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,1,Indigenous status
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,35,Indigenous status
+40105,Alcohol,First Nations,8,Indigenous status
+40105,Alcohol,Non-Indigenous,155,Indigenous status
+40105,All drug-related,First Nations,34,Indigenous status
+40105,All drug-related,Non-Indigenous,340,Indigenous status
+40105,Anaesthetics,Non-Indigenous,2,Indigenous status
+40105,Analeptics and opioid receptor antagonists,Non-Indigenous,3,Indigenous status
+40105,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40105,Cannabinoids,First Nations,4,Indigenous status
+40105,Cannabinoids,Non-Indigenous,22,Indigenous status
+40105,Hallucinogens,Non-Indigenous,2,Indigenous status
+40105,Multiple drug use,First Nations,4,Indigenous status
+40105,Multiple drug use,Non-Indigenous,28,Indigenous status
+40105,Non-opioid analgesic and antirheumatic,First Nations,3,Indigenous status
+40105,Non-opioid analgesic and antirheumatic,Non-Indigenous,13,Indigenous status
+40105,Opioid,First Nations,5,Indigenous status
+40105,Opioid,Non-Indigenous,27,Indigenous status
+40105,Other,Non-Indigenous,5,Indigenous status
+40105,Psychostimulants,First Nations,2,Indigenous status
+40105,Psychostimulants,Non-Indigenous,54,Indigenous status
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,9,Indigenous status
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,6,Indigenous status
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,18,Indigenous status
+40106,Alcohol,First Nations,37,Indigenous status
+40106,Alcohol,Non-Indigenous,289,Indigenous status
+40106,All drug-related,First Nations,57,Indigenous status
+40106,All drug-related,Non-Indigenous,683,Indigenous status
+40106,Anaesthetics,Non-Indigenous,2,Indigenous status
+40106,Analeptics and opioid receptor antagonists,First Nations,1,Indigenous status
+40106,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40106,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40106,Cannabinoids,First Nations,4,Indigenous status
+40106,Cannabinoids,Non-Indigenous,61,Indigenous status
+40106,Hallucinogens,Non-Indigenous,13,Indigenous status
+40106,Inhalants,Non-Indigenous,5,Indigenous status
+40106,Multiple drug use,First Nations,3,Indigenous status
+40106,Multiple drug use,Non-Indigenous,51,Indigenous status
+40106,Non-opioid analgesic and antirheumatic,Non-Indigenous,28,Indigenous status
+40106,Opioid,First Nations,3,Indigenous status
+40106,Opioid,Non-Indigenous,62,Indigenous status
+40106,Other,Non-Indigenous,9,Indigenous status
+40106,Psychostimulants,First Nations,7,Indigenous status
+40106,Psychostimulants,Non-Indigenous,95,Indigenous status
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,23,Indigenous status
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,42,Indigenous status
+40107,Alcohol,First Nations,29,Indigenous status
+40107,Alcohol,Non-Indigenous,320,Indigenous status
+40107,All drug-related,First Nations,62,Indigenous status
+40107,All drug-related,Non-Indigenous,719,Indigenous status
+40107,Anaesthetics,Non-Indigenous,6,Indigenous status
+40107,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40107,Cannabinoids,First Nations,7,Indigenous status
+40107,Cannabinoids,Non-Indigenous,61,Indigenous status
+40107,Hallucinogens,Non-Indigenous,8,Indigenous status
+40107,Inhalants,First Nations,1,Indigenous status
+40107,Inhalants,Non-Indigenous,3,Indigenous status
+40107,Multiple drug use,First Nations,2,Indigenous status
+40107,Multiple drug use,Non-Indigenous,47,Indigenous status
+40107,Non-opioid analgesic and antirheumatic,Non-Indigenous,19,Indigenous status
+40107,Opioid,First Nations,4,Indigenous status
+40107,Opioid,Non-Indigenous,70,Indigenous status
+40107,Other,Non-Indigenous,3,Indigenous status
+40107,Psychostimulants,First Nations,11,Indigenous status
+40107,Psychostimulants,Non-Indigenous,111,Indigenous status
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,23,Indigenous status
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,6,Indigenous status
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,47,Indigenous status
+40201,Alcohol,First Nations,6,Indigenous status
+40201,Alcohol,Non-Indigenous,110,Indigenous status
+40201,All drug-related,First Nations,20,Indigenous status
+40201,All drug-related,Non-Indigenous,271,Indigenous status
+40201,Anaesthetics,Non-Indigenous,1,Indigenous status
+40201,Analeptics and opioid receptor antagonists,Non-Indigenous,2,Indigenous status
+40201,Cannabinoids,First Nations,4,Indigenous status
+40201,Cannabinoids,Non-Indigenous,20,Indigenous status
+40201,Hallucinogens,First Nations,1,Indigenous status
+40201,Hallucinogens,Non-Indigenous,5,Indigenous status
+40201,Inhalants,Non-Indigenous,1,Indigenous status
+40201,Multiple drug use,Non-Indigenous,18,Indigenous status
+40201,Non-opioid analgesic and antirheumatic,Non-Indigenous,13,Indigenous status
+40201,Opioid,First Nations,1,Indigenous status
+40201,Opioid,Non-Indigenous,32,Indigenous status
+40201,Other,Non-Indigenous,5,Indigenous status
+40201,Psychostimulants,First Nations,4,Indigenous status
+40201,Psychostimulants,Non-Indigenous,38,Indigenous status
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,12,Indigenous status
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,14,Indigenous status
+40202,Alcohol,First Nations,26,Indigenous status
+40202,Alcohol,Non-Indigenous,252,Indigenous status
+40202,All drug-related,First Nations,49,Indigenous status
+40202,All drug-related,Non-Indigenous,606,Indigenous status
+40202,Anaesthetics,First Nations,1,Indigenous status
+40202,Anaesthetics,Non-Indigenous,3,Indigenous status
+40202,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40202,Cannabinoids,First Nations,3,Indigenous status
+40202,Cannabinoids,Non-Indigenous,44,Indigenous status
+40202,Hallucinogens,Non-Indigenous,4,Indigenous status
+40202,Inhalants,First Nations,1,Indigenous status
+40202,Inhalants,Non-Indigenous,7,Indigenous status
+40202,Multiple drug use,First Nations,2,Indigenous status
+40202,Multiple drug use,Non-Indigenous,45,Indigenous status
+40202,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40202,Non-opioid analgesic and antirheumatic,Non-Indigenous,27,Indigenous status
+40202,Opioid,First Nations,4,Indigenous status
+40202,Opioid,Non-Indigenous,54,Indigenous status
+40202,Other,Non-Indigenous,10,Indigenous status
+40202,Psychostimulants,First Nations,5,Indigenous status
+40202,Psychostimulants,Non-Indigenous,103,Indigenous status
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,4,Indigenous status
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,18,Indigenous status
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,37,Indigenous status
+40202,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40203,Alcohol,First Nations,15,Indigenous status
+40203,Alcohol,Non-Indigenous,159,Indigenous status
+40203,All drug-related,First Nations,27,Indigenous status
+40203,All drug-related,Non-Indigenous,347,Indigenous status
+40203,Anaesthetics,Non-Indigenous,2,Indigenous status
+40203,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40203,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40203,Cannabinoids,First Nations,1,Indigenous status
+40203,Cannabinoids,Non-Indigenous,34,Indigenous status
+40203,Hallucinogens,Non-Indigenous,7,Indigenous status
+40203,Inhalants,Non-Indigenous,2,Indigenous status
+40203,Multiple drug use,First Nations,2,Indigenous status
+40203,Multiple drug use,Non-Indigenous,18,Indigenous status
+40203,Non-opioid analgesic and antirheumatic,Non-Indigenous,9,Indigenous status
+40203,Opioid,First Nations,5,Indigenous status
+40203,Opioid,Non-Indigenous,27,Indigenous status
+40203,Other,Non-Indigenous,7,Indigenous status
+40203,Psychostimulants,First Nations,4,Indigenous status
+40203,Psychostimulants,Non-Indigenous,53,Indigenous status
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,7,Indigenous status
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,19,Indigenous status
+40204,Alcohol,First Nations,28,Indigenous status
+40204,Alcohol,Non-Indigenous,341,Indigenous status
+40204,All drug-related,First Nations,65,Indigenous status
+40204,All drug-related,Non-Indigenous,789,Indigenous status
+40204,Anaesthetics,Non-Indigenous,4,Indigenous status
+40204,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40204,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40204,Cannabinoids,First Nations,7,Indigenous status
+40204,Cannabinoids,Non-Indigenous,60,Indigenous status
+40204,Hallucinogens,Non-Indigenous,8,Indigenous status
+40204,Inhalants,Non-Indigenous,7,Indigenous status
+40204,Multiple drug use,First Nations,7,Indigenous status
+40204,Multiple drug use,Non-Indigenous,75,Indigenous status
+40204,Non-opioid analgesic and antirheumatic,Non-Indigenous,27,Indigenous status
+40204,Opioid,First Nations,4,Indigenous status
+40204,Opioid,Non-Indigenous,61,Indigenous status
+40204,Other,First Nations,1,Indigenous status
+40204,Other,Non-Indigenous,10,Indigenous status
+40204,Psychostimulants,First Nations,9,Indigenous status
+40204,Psychostimulants,Non-Indigenous,118,Indigenous status
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,26,Indigenous status
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,7,Indigenous status
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,49,Indigenous status
+40205,Alcohol,First Nations,24,Indigenous status
+40205,Alcohol,Non-Indigenous,358,Indigenous status
+40205,All drug-related,First Nations,60,Indigenous status
+40205,All drug-related,Non-Indigenous,781,Indigenous status
+40205,Anaesthetics,Non-Indigenous,2,Indigenous status
+40205,Analeptics and opioid receptor antagonists,Non-Indigenous,2,Indigenous status
+40205,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40205,Cannabinoids,First Nations,5,Indigenous status
+40205,Cannabinoids,Non-Indigenous,48,Indigenous status
+40205,Hallucinogens,Non-Indigenous,2,Indigenous status
+40205,Inhalants,Non-Indigenous,4,Indigenous status
+40205,Multiple drug use,First Nations,8,Indigenous status
+40205,Multiple drug use,Non-Indigenous,58,Indigenous status
+40205,Non-opioid analgesic and antirheumatic,First Nations,2,Indigenous status
+40205,Non-opioid analgesic and antirheumatic,Non-Indigenous,17,Indigenous status
+40205,Opioid,First Nations,4,Indigenous status
+40205,Opioid,Non-Indigenous,75,Indigenous status
+40205,Other,First Nations,2,Indigenous status
+40205,Other,Non-Indigenous,9,Indigenous status
+40205,Psychostimulants,First Nations,11,Indigenous status
+40205,Psychostimulants,Non-Indigenous,127,Indigenous status
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,3,Indigenous status
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,32,Indigenous status
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,1,Indigenous status
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,44,Indigenous status
+40205,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40301,Alcohol,First Nations,24,Indigenous status
+40301,Alcohol,Non-Indigenous,264,Indigenous status
+40301,All drug-related,First Nations,53,Indigenous status
+40301,All drug-related,Non-Indigenous,599,Indigenous status
+40301,Anaesthetics,First Nations,1,Indigenous status
+40301,Anaesthetics,Non-Indigenous,4,Indigenous status
+40301,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40301,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40301,Cannabinoids,First Nations,3,Indigenous status
+40301,Cannabinoids,Non-Indigenous,43,Indigenous status
+40301,Hallucinogens,First Nations,1,Indigenous status
+40301,Hallucinogens,Non-Indigenous,4,Indigenous status
+40301,Inhalants,Non-Indigenous,5,Indigenous status
+40301,Multiple drug use,First Nations,2,Indigenous status
+40301,Multiple drug use,Non-Indigenous,48,Indigenous status
+40301,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40301,Non-opioid analgesic and antirheumatic,Non-Indigenous,19,Indigenous status
+40301,Opioid,First Nations,6,Indigenous status
+40301,Opioid,Non-Indigenous,48,Indigenous status
+40301,Other,Non-Indigenous,6,Indigenous status
+40301,Psychostimulants,First Nations,7,Indigenous status
+40301,Psychostimulants,Non-Indigenous,90,Indigenous status
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,17,Indigenous status
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,6,Indigenous status
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,48,Indigenous status
+40301,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40302,Alcohol,First Nations,29,Indigenous status
+40302,Alcohol,Non-Indigenous,297,Indigenous status
+40302,All drug-related,First Nations,71,Indigenous status
+40302,All drug-related,Non-Indigenous,655,Indigenous status
+40302,Anaesthetics,Non-Indigenous,3,Indigenous status
+40302,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40302,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40302,Cannabinoids,First Nations,5,Indigenous status
+40302,Cannabinoids,Non-Indigenous,64,Indigenous status
+40302,Hallucinogens,Non-Indigenous,9,Indigenous status
+40302,Inhalants,First Nations,2,Indigenous status
+40302,Inhalants,Non-Indigenous,1,Indigenous status
+40302,Multiple drug use,First Nations,3,Indigenous status
+40302,Multiple drug use,Non-Indigenous,42,Indigenous status
+40302,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40302,Non-opioid analgesic and antirheumatic,Non-Indigenous,20,Indigenous status
+40302,Opioid,First Nations,4,Indigenous status
+40302,Opioid,Non-Indigenous,38,Indigenous status
+40302,Other,First Nations,1,Indigenous status
+40302,Other,Non-Indigenous,4,Indigenous status
+40302,Psychostimulants,First Nations,12,Indigenous status
+40302,Psychostimulants,Non-Indigenous,119,Indigenous status
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,7,Indigenous status
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,27,Indigenous status
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,7,Indigenous status
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,28,Indigenous status
+40302,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40303,Alcohol,First Nations,22,Indigenous status
+40303,Alcohol,Non-Indigenous,214,Indigenous status
+40303,All drug-related,First Nations,43,Indigenous status
+40303,All drug-related,Non-Indigenous,504,Indigenous status
+40303,Anaesthetics,Non-Indigenous,6,Indigenous status
+40303,Analeptics and opioid receptor antagonists,Non-Indigenous,3,Indigenous status
+40303,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40303,Cannabinoids,First Nations,1,Indigenous status
+40303,Cannabinoids,Non-Indigenous,46,Indigenous status
+40303,Hallucinogens,Non-Indigenous,5,Indigenous status
+40303,Inhalants,Non-Indigenous,4,Indigenous status
+40303,Multiple drug use,First Nations,3,Indigenous status
+40303,Multiple drug use,Non-Indigenous,37,Indigenous status
+40303,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40303,Non-opioid analgesic and antirheumatic,Non-Indigenous,11,Indigenous status
+40303,Opioid,First Nations,2,Indigenous status
+40303,Opioid,Non-Indigenous,51,Indigenous status
+40303,Other,First Nations,1,Indigenous status
+40303,Other,Non-Indigenous,4,Indigenous status
+40303,Psychostimulants,First Nations,10,Indigenous status
+40303,Psychostimulants,Non-Indigenous,74,Indigenous status
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,24,Indigenous status
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,3,Indigenous status
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,24,Indigenous status
+40304,Alcohol,First Nations,28,Indigenous status
+40304,Alcohol,Non-Indigenous,332,Indigenous status
+40304,All drug-related,First Nations,69,Indigenous status
+40304,All drug-related,Non-Indigenous,695,Indigenous status
+40304,Anaesthetics,Non-Indigenous,2,Indigenous status
+40304,Analeptics and opioid receptor antagonists,Non-Indigenous,4,Indigenous status
+40304,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40304,Cannabinoids,First Nations,7,Indigenous status
+40304,Cannabinoids,Non-Indigenous,49,Indigenous status
+40304,Hallucinogens,Non-Indigenous,9,Indigenous status
+40304,Inhalants,First Nations,1,Indigenous status
+40304,Inhalants,Non-Indigenous,6,Indigenous status
+40304,Multiple drug use,First Nations,6,Indigenous status
+40304,Multiple drug use,Non-Indigenous,47,Indigenous status
+40304,Non-opioid analgesic and antirheumatic,First Nations,2,Indigenous status
+40304,Non-opioid analgesic and antirheumatic,Non-Indigenous,25,Indigenous status
+40304,Opioid,First Nations,6,Indigenous status
+40304,Opioid,Non-Indigenous,49,Indigenous status
+40304,Other,First Nations,1,Indigenous status
+40304,Other,Non-Indigenous,11,Indigenous status
+40304,Psychostimulants,First Nations,11,Indigenous status
+40304,Psychostimulants,Non-Indigenous,101,Indigenous status
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,24,Indigenous status
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,5,Indigenous status
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,35,Indigenous status
+40304,Steroids or hormones,First Nations,1,Indigenous status
+40401,Alcohol,First Nations,19,Indigenous status
+40401,Alcohol,Non-Indigenous,212,Indigenous status
+40401,All drug-related,First Nations,41,Indigenous status
+40401,All drug-related,Non-Indigenous,465,Indigenous status
+40401,Anaesthetics,Non-Indigenous,4,Indigenous status
+40401,Analeptics and opioid receptor antagonists,First Nations,1,Indigenous status
+40401,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40401,Androgens and anabolic congeners,Non-Indigenous,2,Indigenous status
+40401,Cannabinoids,Non-Indigenous,32,Indigenous status
+40401,Hallucinogens,Non-Indigenous,4,Indigenous status
+40401,Inhalants,Non-Indigenous,4,Indigenous status
+40401,Multiple drug use,First Nations,6,Indigenous status
+40401,Multiple drug use,Non-Indigenous,29,Indigenous status
+40401,Non-opioid analgesic and antirheumatic,Non-Indigenous,12,Indigenous status
+40401,Opioid,First Nations,5,Indigenous status
+40401,Opioid,Non-Indigenous,43,Indigenous status
+40401,Other,First Nations,1,Indigenous status
+40401,Other,Non-Indigenous,8,Indigenous status
+40401,Psychostimulants,First Nations,7,Indigenous status
+40401,Psychostimulants,Non-Indigenous,67,Indigenous status
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,19,Indigenous status
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,27,Indigenous status
+40401,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40402,Alcohol,First Nations,11,Indigenous status
+40402,Alcohol,Non-Indigenous,160,Indigenous status
+40402,All drug-related,First Nations,23,Indigenous status
+40402,All drug-related,Non-Indigenous,363,Indigenous status
+40402,Anaesthetics,Non-Indigenous,3,Indigenous status
+40402,Analeptics and opioid receptor antagonists,Non-Indigenous,2,Indigenous status
+40402,Cannabinoids,First Nations,1,Indigenous status
+40402,Cannabinoids,Non-Indigenous,30,Indigenous status
+40402,Hallucinogens,Non-Indigenous,2,Indigenous status
+40402,Inhalants,Non-Indigenous,3,Indigenous status
+40402,Multiple drug use,First Nations,2,Indigenous status
+40402,Multiple drug use,Non-Indigenous,26,Indigenous status
+40402,Non-opioid analgesic and antirheumatic,First Nations,2,Indigenous status
+40402,Non-opioid analgesic and antirheumatic,Non-Indigenous,14,Indigenous status
+40402,Opioid,Non-Indigenous,25,Indigenous status
+40402,Other,First Nations,1,Indigenous status
+40402,Other,Non-Indigenous,9,Indigenous status
+40402,Psychostimulants,First Nations,2,Indigenous status
+40402,Psychostimulants,Non-Indigenous,60,Indigenous status
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,11,Indigenous status
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,18,Indigenous status
+40403,Alcohol,First Nations,15,Indigenous status
+40403,Alcohol,Non-Indigenous,133,Indigenous status
+40403,All drug-related,First Nations,28,Indigenous status
+40403,All drug-related,Non-Indigenous,288,Indigenous status
+40403,Anaesthetics,Non-Indigenous,3,Indigenous status
+40403,Cannabinoids,First Nations,3,Indigenous status
+40403,Cannabinoids,Non-Indigenous,13,Indigenous status
+40403,Hallucinogens,First Nations,1,Indigenous status
+40403,Hallucinogens,Non-Indigenous,1,Indigenous status
+40403,Multiple drug use,First Nations,1,Indigenous status
+40403,Multiple drug use,Non-Indigenous,16,Indigenous status
+40403,Non-opioid analgesic and antirheumatic,Non-Indigenous,18,Indigenous status
+40403,Opioid,First Nations,3,Indigenous status
+40403,Opioid,Non-Indigenous,29,Indigenous status
+40403,Other,Non-Indigenous,1,Indigenous status
+40403,Psychostimulants,First Nations,2,Indigenous status
+40403,Psychostimulants,Non-Indigenous,42,Indigenous status
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,12,Indigenous status
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,20,Indigenous status
+40501,Alcohol,First Nations,11,Indigenous status
+40501,Alcohol,Non-Indigenous,111,Indigenous status
+40501,All drug-related,First Nations,28,Indigenous status
+40501,All drug-related,Non-Indigenous,267,Indigenous status
+40501,Anaesthetics,First Nations,1,Indigenous status
+40501,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40501,Androgens and anabolic congeners,First Nations,1,Indigenous status
+40501,Cannabinoids,First Nations,3,Indigenous status
+40501,Cannabinoids,Non-Indigenous,22,Indigenous status
+40501,Hallucinogens,Non-Indigenous,2,Indigenous status
+40501,Inhalants,Non-Indigenous,3,Indigenous status
+40501,Multiple drug use,First Nations,2,Indigenous status
+40501,Multiple drug use,Non-Indigenous,18,Indigenous status
+40501,Non-opioid analgesic and antirheumatic,First Nations,3,Indigenous status
+40501,Non-opioid analgesic and antirheumatic,Non-Indigenous,13,Indigenous status
+40501,Opioid,Non-Indigenous,21,Indigenous status
+40501,Other,Non-Indigenous,4,Indigenous status
+40501,Psychostimulants,First Nations,4,Indigenous status
+40501,Psychostimulants,Non-Indigenous,42,Indigenous status
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,13,Indigenous status
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,1,Indigenous status
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,17,Indigenous status
+40502,Alcohol,First Nations,18,Indigenous status
+40502,Alcohol,Non-Indigenous,225,Indigenous status
+40502,All drug-related,First Nations,42,Indigenous status
+40502,All drug-related,Non-Indigenous,476,Indigenous status
+40502,Anaesthetics,Non-Indigenous,1,Indigenous status
+40502,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40502,Cannabinoids,Non-Indigenous,41,Indigenous status
+40502,Hallucinogens,First Nations,1,Indigenous status
+40502,Hallucinogens,Non-Indigenous,8,Indigenous status
+40502,Inhalants,Non-Indigenous,4,Indigenous status
+40502,Multiple drug use,First Nations,2,Indigenous status
+40502,Multiple drug use,Non-Indigenous,30,Indigenous status
+40502,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40502,Non-opioid analgesic and antirheumatic,Non-Indigenous,13,Indigenous status
+40502,Opioid,First Nations,5,Indigenous status
+40502,Opioid,Non-Indigenous,32,Indigenous status
+40502,Other,Non-Indigenous,4,Indigenous status
+40502,Psychostimulants,First Nations,8,Indigenous status
+40502,Psychostimulants,Non-Indigenous,61,Indigenous status
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,3,Indigenous status
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,18,Indigenous status
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,4,Indigenous status
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,38,Indigenous status
+40503,Alcohol,First Nations,25,Indigenous status
+40503,Alcohol,Non-Indigenous,224,Indigenous status
+40503,All drug-related,First Nations,49,Indigenous status
+40503,All drug-related,Non-Indigenous,451,Indigenous status
+40503,Anaesthetics,Non-Indigenous,3,Indigenous status
+40503,Analeptics and opioid receptor antagonists,First Nations,1,Indigenous status
+40503,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40503,Cannabinoids,First Nations,6,Indigenous status
+40503,Cannabinoids,Non-Indigenous,39,Indigenous status
+40503,Hallucinogens,Non-Indigenous,4,Indigenous status
+40503,Inhalants,Non-Indigenous,1,Indigenous status
+40503,Multiple drug use,First Nations,1,Indigenous status
+40503,Multiple drug use,Non-Indigenous,38,Indigenous status
+40503,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40503,Non-opioid analgesic and antirheumatic,Non-Indigenous,10,Indigenous status
+40503,Opioid,First Nations,1,Indigenous status
+40503,Opioid,Non-Indigenous,33,Indigenous status
+40503,Other,First Nations,2,Indigenous status
+40503,Other,Non-Indigenous,4,Indigenous status
+40503,Psychostimulants,First Nations,7,Indigenous status
+40503,Psychostimulants,Non-Indigenous,54,Indigenous status
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,20,Indigenous status
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,3,Indigenous status
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,19,Indigenous status
+40503,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40504,Alcohol,First Nations,23,Indigenous status
+40504,Alcohol,Non-Indigenous,262,Indigenous status
+40504,All drug-related,First Nations,43,Indigenous status
+40504,All drug-related,Non-Indigenous,606,Indigenous status
+40504,Anaesthetics,Non-Indigenous,3,Indigenous status
+40504,Androgens and anabolic congeners,First Nations,1,Indigenous status
+40504,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40504,Cannabinoids,First Nations,3,Indigenous status
+40504,Cannabinoids,Non-Indigenous,45,Indigenous status
+40504,Hallucinogens,Non-Indigenous,4,Indigenous status
+40504,Inhalants,First Nations,1,Indigenous status
+40504,Inhalants,Non-Indigenous,2,Indigenous status
+40504,Multiple drug use,Non-Indigenous,37,Indigenous status
+40504,Non-opioid analgesic and antirheumatic,First Nations,3,Indigenous status
+40504,Non-opioid analgesic and antirheumatic,Non-Indigenous,25,Indigenous status
+40504,Opioid,First Nations,4,Indigenous status
+40504,Opioid,Non-Indigenous,46,Indigenous status
+40504,Other,Non-Indigenous,9,Indigenous status
+40504,Psychostimulants,First Nations,5,Indigenous status
+40504,Psychostimulants,Non-Indigenous,102,Indigenous status
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,24,Indigenous status
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,45,Indigenous status
+40504,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40601,Alcohol,First Nations,7,Indigenous status
+40601,Alcohol,Non-Indigenous,80,Indigenous status
+40601,All drug-related,First Nations,10,Indigenous status
+40601,All drug-related,Non-Indigenous,172,Indigenous status
+40601,Cannabinoids,Non-Indigenous,20,Indigenous status
+40601,Hallucinogens,Non-Indigenous,2,Indigenous status
+40601,Multiple drug use,Non-Indigenous,11,Indigenous status
+40601,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40601,Non-opioid analgesic and antirheumatic,Non-Indigenous,6,Indigenous status
+40601,Opioid,First Nations,1,Indigenous status
+40601,Opioid,Non-Indigenous,6,Indigenous status
+40601,Psychostimulants,Non-Indigenous,28,Indigenous status
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,11,Indigenous status
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,8,Indigenous status
+40602,Alcohol,First Nations,26,Indigenous status
+40602,Alcohol,Non-Indigenous,206,Indigenous status
+40602,All drug-related,First Nations,51,Indigenous status
+40602,All drug-related,Non-Indigenous,446,Indigenous status
+40602,Anaesthetics,First Nations,1,Indigenous status
+40602,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40602,Cannabinoids,First Nations,3,Indigenous status
+40602,Cannabinoids,Non-Indigenous,40,Indigenous status
+40602,Hallucinogens,First Nations,1,Indigenous status
+40602,Hallucinogens,Non-Indigenous,3,Indigenous status
+40602,Inhalants,Non-Indigenous,1,Indigenous status
+40602,Multiple drug use,First Nations,4,Indigenous status
+40602,Multiple drug use,Non-Indigenous,38,Indigenous status
+40602,Non-opioid analgesic and antirheumatic,First Nations,2,Indigenous status
+40602,Non-opioid analgesic and antirheumatic,Non-Indigenous,11,Indigenous status
+40602,Opioid,First Nations,5,Indigenous status
+40602,Opioid,Non-Indigenous,38,Indigenous status
+40602,Other,Non-Indigenous,3,Indigenous status
+40602,Psychostimulants,First Nations,5,Indigenous status
+40602,Psychostimulants,Non-Indigenous,63,Indigenous status
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,3,Indigenous status
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,16,Indigenous status
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,1,Indigenous status
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,26,Indigenous status
+40701,Alcohol,First Nations,17,Indigenous status
+40701,Alcohol,Non-Indigenous,199,Indigenous status
+40701,All drug-related,First Nations,32,Indigenous status
+40701,All drug-related,Non-Indigenous,442,Indigenous status
+40701,Anaesthetics,First Nations,1,Indigenous status
+40701,Anaesthetics,Non-Indigenous,6,Indigenous status
+40701,Analeptics and opioid receptor antagonists,Non-Indigenous,1,Indigenous status
+40701,Cannabinoids,First Nations,2,Indigenous status
+40701,Cannabinoids,Non-Indigenous,28,Indigenous status
+40701,Hallucinogens,First Nations,1,Indigenous status
+40701,Hallucinogens,Non-Indigenous,8,Indigenous status
+40701,Inhalants,Non-Indigenous,6,Indigenous status
+40701,Multiple drug use,First Nations,2,Indigenous status
+40701,Multiple drug use,Non-Indigenous,28,Indigenous status
+40701,Non-opioid analgesic and antirheumatic,Non-Indigenous,11,Indigenous status
+40701,Opioid,First Nations,3,Indigenous status
+40701,Opioid,Non-Indigenous,32,Indigenous status
+40701,Other,Non-Indigenous,7,Indigenous status
+40701,Psychostimulants,First Nations,3,Indigenous status
+40701,Psychostimulants,Non-Indigenous,69,Indigenous status
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,19,Indigenous status
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,1,Indigenous status
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,27,Indigenous status
+40701,Steroids or hormones,Non-Indigenous,1,Indigenous status
+40702,Alcohol,First Nations,10,Indigenous status
+40702,Alcohol,Non-Indigenous,129,Indigenous status
+40702,All drug-related,First Nations,30,Indigenous status
+40702,All drug-related,Non-Indigenous,275,Indigenous status
+40702,Anaesthetics,Non-Indigenous,4,Indigenous status
+40702,Analeptics and opioid receptor antagonists,Non-Indigenous,2,Indigenous status
+40702,Cannabinoids,First Nations,3,Indigenous status
+40702,Cannabinoids,Non-Indigenous,17,Indigenous status
+40702,Hallucinogens,Non-Indigenous,4,Indigenous status
+40702,Inhalants,Non-Indigenous,2,Indigenous status
+40702,Multiple drug use,Non-Indigenous,23,Indigenous status
+40702,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40702,Non-opioid analgesic and antirheumatic,Non-Indigenous,3,Indigenous status
+40702,Opioid,First Nations,4,Indigenous status
+40702,Opioid,Non-Indigenous,30,Indigenous status
+40702,Other,First Nations,1,Indigenous status
+40702,Psychostimulants,First Nations,8,Indigenous status
+40702,Psychostimulants,Non-Indigenous,42,Indigenous status
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,1,Indigenous status
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,5,Indigenous status
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,2,Indigenous status
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,14,Indigenous status
+40703,Alcohol,First Nations,18,Indigenous status
+40703,Alcohol,Non-Indigenous,271,Indigenous status
+40703,All drug-related,First Nations,47,Indigenous status
+40703,All drug-related,Non-Indigenous,547,Indigenous status
+40703,Anaesthetics,First Nations,1,Indigenous status
+40703,Anaesthetics,Non-Indigenous,5,Indigenous status
+40703,Analeptics and opioid receptor antagonists,Non-Indigenous,4,Indigenous status
+40703,Androgens and anabolic congeners,Non-Indigenous,1,Indigenous status
+40703,Cannabinoids,First Nations,4,Indigenous status
+40703,Cannabinoids,Non-Indigenous,31,Indigenous status
+40703,Hallucinogens,Non-Indigenous,6,Indigenous status
+40703,Inhalants,First Nations,2,Indigenous status
+40703,Inhalants,Non-Indigenous,4,Indigenous status
+40703,Multiple drug use,First Nations,7,Indigenous status
+40703,Multiple drug use,Non-Indigenous,39,Indigenous status
+40703,Non-opioid analgesic and antirheumatic,First Nations,1,Indigenous status
+40703,Non-opioid analgesic and antirheumatic,Non-Indigenous,19,Indigenous status
+40703,Opioid,First Nations,2,Indigenous status
+40703,Opioid,Non-Indigenous,42,Indigenous status
+40703,Other,First Nations,1,Indigenous status
+40703,Other,Non-Indigenous,2,Indigenous status
+40703,Psychostimulants,First Nations,5,Indigenous status
+40703,Psychostimulants,Non-Indigenous,76,Indigenous status
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",First Nations,2,Indigenous status
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",Non-Indigenous,18,Indigenous status
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",First Nations,4,Indigenous status
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",Non-Indigenous,29,Indigenous status
+40101,Alcohol,15-24,25,Age group
+40101,Alcohol,25-34,32,Age group
+40101,Alcohol,35-44,42,Age group
+40101,Alcohol,45-54,15,Age group
+40101,Alcohol,55-64,15,Age group
+40101,Alcohol,65+,9,Age group
+40101,All drug-related,0-14,2,Age group
+40101,All drug-related,15-24,54,Age group
+40101,All drug-related,25-34,76,Age group
+40101,All drug-related,35-44,72,Age group
+40101,All drug-related,45-54,33,Age group
+40101,All drug-related,55-64,31,Age group
+40101,All drug-related,65+,22,Age group
+40101,Anaesthetics,15-24,1,Age group
+40101,Cannabinoids,15-24,7,Age group
+40101,Cannabinoids,25-34,5,Age group
+40101,Cannabinoids,35-44,5,Age group
+40101,Cannabinoids,55-64,3,Age group
+40101,Cannabinoids,65+,3,Age group
+40101,Hallucinogens,25-34,2,Age group
+40101,Hallucinogens,35-44,2,Age group
+40101,Hallucinogens,55-64,1,Age group
+40101,Inhalants,25-34,2,Age group
+40101,Multiple drug use,15-24,4,Age group
+40101,Multiple drug use,25-34,9,Age group
+40101,Multiple drug use,35-44,5,Age group
+40101,Multiple drug use,45-54,4,Age group
+40101,Multiple drug use,55-64,2,Age group
+40101,Multiple drug use,65+,2,Age group
+40101,Non-opioid analgesic and antirheumatic,15-24,2,Age group
+40101,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40101,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40101,Non-opioid analgesic and antirheumatic,45-54,2,Age group
+40101,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40101,Opioid,15-24,5,Age group
+40101,Opioid,25-34,8,Age group
+40101,Opioid,35-44,3,Age group
+40101,Opioid,45-54,1,Age group
+40101,Opioid,55-64,2,Age group
+40101,Other,15-24,1,Age group
+40101,Other,35-44,1,Age group
+40101,Other,45-54,1,Age group
+40101,Other,55-64,1,Age group
+40101,Other,65+,1,Age group
+40101,Psychostimulants,0-14,1,Age group
+40101,Psychostimulants,15-24,8,Age group
+40101,Psychostimulants,25-34,8,Age group
+40101,Psychostimulants,35-44,6,Age group
+40101,Psychostimulants,45-54,6,Age group
+40101,Psychostimulants,55-64,4,Age group
+40101,Psychostimulants,65+,3,Age group
+40101,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,3,Age group
+40101,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,1,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,4,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,6,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,4,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40101,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,4,Age group
+40102,Alcohol,0-14,3,Age group
+40102,Alcohol,15-24,57,Age group
+40102,Alcohol,25-34,83,Age group
+40102,Alcohol,35-44,55,Age group
+40102,Alcohol,45-54,35,Age group
+40102,Alcohol,55-64,25,Age group
+40102,Alcohol,65+,12,Age group
+40102,All drug-related,0-14,3,Age group
+40102,All drug-related,15-24,108,Age group
+40102,All drug-related,25-34,176,Age group
+40102,All drug-related,35-44,131,Age group
+40102,All drug-related,45-54,79,Age group
+40102,All drug-related,55-64,55,Age group
+40102,All drug-related,65+,54,Age group
+40102,Anaesthetics,25-34,1,Age group
+40102,Anaesthetics,35-44,1,Age group
+40102,Cannabinoids,15-24,9,Age group
+40102,Cannabinoids,25-34,19,Age group
+40102,Cannabinoids,35-44,11,Age group
+40102,Cannabinoids,45-54,7,Age group
+40102,Cannabinoids,55-64,3,Age group
+40102,Cannabinoids,65+,3,Age group
+40102,Hallucinogens,35-44,2,Age group
+40102,Hallucinogens,45-54,1,Age group
+40102,Inhalants,25-34,1,Age group
+40102,Inhalants,35-44,4,Age group
+40102,Multiple drug use,15-24,4,Age group
+40102,Multiple drug use,25-34,13,Age group
+40102,Multiple drug use,35-44,10,Age group
+40102,Multiple drug use,45-54,5,Age group
+40102,Multiple drug use,55-64,5,Age group
+40102,Multiple drug use,65+,5,Age group
+40102,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40102,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40102,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40102,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40102,Non-opioid analgesic and antirheumatic,55-64,3,Age group
+40102,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40102,Opioid,15-24,8,Age group
+40102,Opioid,25-34,9,Age group
+40102,Opioid,35-44,10,Age group
+40102,Opioid,45-54,7,Age group
+40102,Opioid,55-64,2,Age group
+40102,Opioid,65+,8,Age group
+40102,Other,15-24,1,Age group
+40102,Other,25-34,1,Age group
+40102,Other,35-44,2,Age group
+40102,Other,45-54,1,Age group
+40102,Other,55-64,2,Age group
+40102,Psychostimulants,15-24,15,Age group
+40102,Psychostimulants,25-34,28,Age group
+40102,Psychostimulants,35-44,21,Age group
+40102,Psychostimulants,45-54,13,Age group
+40102,Psychostimulants,55-64,7,Age group
+40102,Psychostimulants,65+,17,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,6,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,7,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,3,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40102,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,4,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,5,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,11,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,9,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,6,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,5,Age group
+40102,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,4,Age group
+40103,Alcohol,0-14,1,Age group
+40103,Alcohol,15-24,44,Age group
+40103,Alcohol,25-34,53,Age group
+40103,Alcohol,35-44,50,Age group
+40103,Alcohol,45-54,31,Age group
+40103,Alcohol,55-64,13,Age group
+40103,Alcohol,65+,18,Age group
+40103,All drug-related,0-14,3,Age group
+40103,All drug-related,15-24,108,Age group
+40103,All drug-related,25-34,128,Age group
+40103,All drug-related,35-44,104,Age group
+40103,All drug-related,45-54,67,Age group
+40103,All drug-related,55-64,42,Age group
+40103,All drug-related,65+,39,Age group
+40103,Anaesthetics,15-24,1,Age group
+40103,Anaesthetics,35-44,1,Age group
+40103,Anaesthetics,45-54,1,Age group
+40103,Analeptics and opioid receptor antagonists,35-44,1,Age group
+40103,Androgens and anabolic congeners,15-24,1,Age group
+40103,Androgens and anabolic congeners,25-34,1,Age group
+40103,Cannabinoids,15-24,4,Age group
+40103,Cannabinoids,25-34,15,Age group
+40103,Cannabinoids,35-44,6,Age group
+40103,Cannabinoids,45-54,3,Age group
+40103,Cannabinoids,55-64,1,Age group
+40103,Cannabinoids,65+,3,Age group
+40103,Hallucinogens,15-24,2,Age group
+40103,Hallucinogens,25-34,2,Age group
+40103,Hallucinogens,45-54,1,Age group
+40103,Inhalants,35-44,1,Age group
+40103,Multiple drug use,15-24,10,Age group
+40103,Multiple drug use,25-34,11,Age group
+40103,Multiple drug use,35-44,4,Age group
+40103,Multiple drug use,45-54,7,Age group
+40103,Multiple drug use,55-64,3,Age group
+40103,Multiple drug use,65+,2,Age group
+40103,Non-opioid analgesic and antirheumatic,15-24,6,Age group
+40103,Non-opioid analgesic and antirheumatic,25-34,4,Age group
+40103,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40103,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40103,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40103,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40103,Opioid,15-24,6,Age group
+40103,Opioid,25-34,12,Age group
+40103,Opioid,35-44,9,Age group
+40103,Opioid,45-54,4,Age group
+40103,Opioid,55-64,4,Age group
+40103,Opioid,65+,4,Age group
+40103,Other,15-24,3,Age group
+40103,Other,25-34,1,Age group
+40103,Other,35-44,1,Age group
+40103,Other,45-54,1,Age group
+40103,Other,55-64,1,Age group
+40103,Psychostimulants,0-14,2,Age group
+40103,Psychostimulants,15-24,19,Age group
+40103,Psychostimulants,25-34,12,Age group
+40103,Psychostimulants,35-44,14,Age group
+40103,Psychostimulants,45-54,11,Age group
+40103,Psychostimulants,55-64,8,Age group
+40103,Psychostimulants,65+,6,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,6,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,7,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,6,Age group
+40103,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,3,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,6,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,11,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,7,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,3,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,4,Age group
+40103,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40104,Alcohol,0-14,4,Age group
+40104,Alcohol,15-24,45,Age group
+40104,Alcohol,25-34,50,Age group
+40104,Alcohol,35-44,38,Age group
+40104,Alcohol,45-54,26,Age group
+40104,Alcohol,55-64,13,Age group
+40104,Alcohol,65+,9,Age group
+40104,All drug-related,0-14,7,Age group
+40104,All drug-related,15-24,99,Age group
+40104,All drug-related,25-34,104,Age group
+40104,All drug-related,35-44,84,Age group
+40104,All drug-related,45-54,56,Age group
+40104,All drug-related,55-64,42,Age group
+40104,All drug-related,65+,31,Age group
+40104,Anaesthetics,45-54,1,Age group
+40104,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40104,Cannabinoids,0-14,2,Age group
+40104,Cannabinoids,15-24,5,Age group
+40104,Cannabinoids,25-34,9,Age group
+40104,Cannabinoids,35-44,5,Age group
+40104,Cannabinoids,45-54,4,Age group
+40104,Cannabinoids,55-64,6,Age group
+40104,Cannabinoids,65+,4,Age group
+40104,Hallucinogens,15-24,3,Age group
+40104,Hallucinogens,25-34,1,Age group
+40104,Hallucinogens,35-44,2,Age group
+40104,Hallucinogens,65+,1,Age group
+40104,Inhalants,15-24,1,Age group
+40104,Inhalants,65+,1,Age group
+40104,Multiple drug use,15-24,4,Age group
+40104,Multiple drug use,25-34,5,Age group
+40104,Multiple drug use,35-44,6,Age group
+40104,Multiple drug use,45-54,3,Age group
+40104,Multiple drug use,55-64,1,Age group
+40104,Multiple drug use,65+,6,Age group
+40104,Non-opioid analgesic and antirheumatic,15-24,4,Age group
+40104,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40104,Non-opioid analgesic and antirheumatic,35-44,1,Age group
+40104,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40104,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40104,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40104,Opioid,15-24,13,Age group
+40104,Opioid,25-34,7,Age group
+40104,Opioid,35-44,10,Age group
+40104,Opioid,45-54,6,Age group
+40104,Opioid,55-64,5,Age group
+40104,Opioid,65+,2,Age group
+40104,Other,15-24,2,Age group
+40104,Other,25-34,4,Age group
+40104,Other,35-44,1,Age group
+40104,Psychostimulants,15-24,7,Age group
+40104,Psychostimulants,25-34,14,Age group
+40104,Psychostimulants,35-44,10,Age group
+40104,Psychostimulants,45-54,11,Age group
+40104,Psychostimulants,55-64,10,Age group
+40104,Psychostimulants,65+,6,Age group
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,2,Age group
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,2,Age group
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40104,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,12,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,6,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,9,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,4,Age group
+40104,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,4,Age group
+40105,Alcohol,0-14,1,Age group
+40105,Alcohol,15-24,31,Age group
+40105,Alcohol,25-34,48,Age group
+40105,Alcohol,35-44,36,Age group
+40105,Alcohol,45-54,24,Age group
+40105,Alcohol,55-64,11,Age group
+40105,Alcohol,65+,12,Age group
+40105,All drug-related,0-14,2,Age group
+40105,All drug-related,15-24,76,Age group
+40105,All drug-related,25-34,104,Age group
+40105,All drug-related,35-44,85,Age group
+40105,All drug-related,45-54,52,Age group
+40105,All drug-related,55-64,31,Age group
+40105,All drug-related,65+,24,Age group
+40105,Anaesthetics,15-24,1,Age group
+40105,Anaesthetics,55-64,1,Age group
+40105,Analeptics and opioid receptor antagonists,15-24,1,Age group
+40105,Analeptics and opioid receptor antagonists,25-34,2,Age group
+40105,Androgens and anabolic congeners,15-24,2,Age group
+40105,Cannabinoids,0-14,1,Age group
+40105,Cannabinoids,15-24,5,Age group
+40105,Cannabinoids,25-34,5,Age group
+40105,Cannabinoids,35-44,7,Age group
+40105,Cannabinoids,45-54,3,Age group
+40105,Cannabinoids,55-64,1,Age group
+40105,Cannabinoids,65+,4,Age group
+40105,Hallucinogens,15-24,1,Age group
+40105,Hallucinogens,35-44,1,Age group
+40105,Multiple drug use,15-24,6,Age group
+40105,Multiple drug use,25-34,10,Age group
+40105,Multiple drug use,35-44,4,Age group
+40105,Multiple drug use,45-54,4,Age group
+40105,Multiple drug use,55-64,7,Age group
+40105,Multiple drug use,65+,1,Age group
+40105,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40105,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40105,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40105,Non-opioid analgesic and antirheumatic,55-64,4,Age group
+40105,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40105,Opioid,15-24,11,Age group
+40105,Opioid,25-34,9,Age group
+40105,Opioid,35-44,6,Age group
+40105,Opioid,45-54,1,Age group
+40105,Opioid,55-64,3,Age group
+40105,Opioid,65+,2,Age group
+40105,Other,25-34,2,Age group
+40105,Other,35-44,1,Age group
+40105,Other,45-54,2,Age group
+40105,Psychostimulants,15-24,11,Age group
+40105,Psychostimulants,25-34,11,Age group
+40105,Psychostimulants,35-44,20,Age group
+40105,Psychostimulants,45-54,11,Age group
+40105,Psychostimulants,55-64,2,Age group
+40105,Psychostimulants,65+,1,Age group
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,3,Age group
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40105,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,4,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,6,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,4,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,7,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40105,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40106,Alcohol,0-14,1,Age group
+40106,Alcohol,15-24,68,Age group
+40106,Alcohol,25-34,88,Age group
+40106,Alcohol,35-44,54,Age group
+40106,Alcohol,45-54,53,Age group
+40106,Alcohol,55-64,30,Age group
+40106,Alcohol,65+,32,Age group
+40106,All drug-related,0-14,2,Age group
+40106,All drug-related,15-24,151,Age group
+40106,All drug-related,25-34,197,Age group
+40106,All drug-related,35-44,139,Age group
+40106,All drug-related,45-54,116,Age group
+40106,All drug-related,55-64,62,Age group
+40106,All drug-related,65+,73,Age group
+40106,Anaesthetics,15-24,1,Age group
+40106,Anaesthetics,55-64,1,Age group
+40106,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40106,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40106,Androgens and anabolic congeners,65+,2,Age group
+40106,Cannabinoids,15-24,15,Age group
+40106,Cannabinoids,25-34,15,Age group
+40106,Cannabinoids,35-44,12,Age group
+40106,Cannabinoids,45-54,10,Age group
+40106,Cannabinoids,55-64,5,Age group
+40106,Cannabinoids,65+,8,Age group
+40106,Hallucinogens,15-24,2,Age group
+40106,Hallucinogens,25-34,3,Age group
+40106,Hallucinogens,35-44,2,Age group
+40106,Hallucinogens,45-54,3,Age group
+40106,Hallucinogens,55-64,2,Age group
+40106,Hallucinogens,65+,1,Age group
+40106,Inhalants,25-34,2,Age group
+40106,Inhalants,35-44,2,Age group
+40106,Inhalants,55-64,1,Age group
+40106,Multiple drug use,0-14,1,Age group
+40106,Multiple drug use,15-24,10,Age group
+40106,Multiple drug use,25-34,17,Age group
+40106,Multiple drug use,35-44,9,Age group
+40106,Multiple drug use,45-54,11,Age group
+40106,Multiple drug use,55-64,2,Age group
+40106,Multiple drug use,65+,4,Age group
+40106,Non-opioid analgesic and antirheumatic,15-24,7,Age group
+40106,Non-opioid analgesic and antirheumatic,25-34,9,Age group
+40106,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40106,Non-opioid analgesic and antirheumatic,45-54,4,Age group
+40106,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40106,Non-opioid analgesic and antirheumatic,65+,4,Age group
+40106,Opioid,15-24,15,Age group
+40106,Opioid,25-34,14,Age group
+40106,Opioid,35-44,18,Age group
+40106,Opioid,45-54,9,Age group
+40106,Opioid,55-64,5,Age group
+40106,Opioid,65+,4,Age group
+40106,Other,15-24,2,Age group
+40106,Other,25-34,2,Age group
+40106,Other,35-44,4,Age group
+40106,Other,45-54,1,Age group
+40106,Psychostimulants,15-24,16,Age group
+40106,Psychostimulants,25-34,29,Age group
+40106,Psychostimulants,35-44,24,Age group
+40106,Psychostimulants,45-54,14,Age group
+40106,Psychostimulants,55-64,8,Age group
+40106,Psychostimulants,65+,11,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,5,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,7,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,4,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,4,Age group
+40106,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,3,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,10,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,10,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,7,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,8,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,3,Age group
+40106,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,4,Age group
+40107,Alcohol,0-14,5,Age group
+40107,Alcohol,15-24,63,Age group
+40107,Alcohol,25-34,83,Age group
+40107,Alcohol,35-44,84,Age group
+40107,Alcohol,45-54,55,Age group
+40107,Alcohol,55-64,23,Age group
+40107,Alcohol,65+,36,Age group
+40107,All drug-related,0-14,7,Age group
+40107,All drug-related,15-24,152,Age group
+40107,All drug-related,25-34,206,Age group
+40107,All drug-related,35-44,160,Age group
+40107,All drug-related,45-54,120,Age group
+40107,All drug-related,55-64,59,Age group
+40107,All drug-related,65+,77,Age group
+40107,Anaesthetics,15-24,1,Age group
+40107,Anaesthetics,35-44,3,Age group
+40107,Anaesthetics,45-54,2,Age group
+40107,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40107,Cannabinoids,15-24,20,Age group
+40107,Cannabinoids,25-34,16,Age group
+40107,Cannabinoids,35-44,11,Age group
+40107,Cannabinoids,45-54,12,Age group
+40107,Cannabinoids,55-64,6,Age group
+40107,Cannabinoids,65+,3,Age group
+40107,Hallucinogens,15-24,1,Age group
+40107,Hallucinogens,25-34,4,Age group
+40107,Hallucinogens,45-54,1,Age group
+40107,Hallucinogens,55-64,2,Age group
+40107,Inhalants,35-44,1,Age group
+40107,Inhalants,45-54,1,Age group
+40107,Inhalants,55-64,1,Age group
+40107,Inhalants,65+,1,Age group
+40107,Multiple drug use,15-24,9,Age group
+40107,Multiple drug use,25-34,19,Age group
+40107,Multiple drug use,35-44,8,Age group
+40107,Multiple drug use,45-54,3,Age group
+40107,Multiple drug use,65+,10,Age group
+40107,Non-opioid analgesic and antirheumatic,0-14,1,Age group
+40107,Non-opioid analgesic and antirheumatic,15-24,6,Age group
+40107,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40107,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40107,Non-opioid analgesic and antirheumatic,45-54,4,Age group
+40107,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40107,Opioid,15-24,14,Age group
+40107,Opioid,25-34,21,Age group
+40107,Opioid,35-44,15,Age group
+40107,Opioid,45-54,10,Age group
+40107,Opioid,55-64,5,Age group
+40107,Opioid,65+,9,Age group
+40107,Other,25-34,1,Age group
+40107,Other,35-44,1,Age group
+40107,Other,65+,1,Age group
+40107,Psychostimulants,0-14,1,Age group
+40107,Psychostimulants,15-24,23,Age group
+40107,Psychostimulants,25-34,37,Age group
+40107,Psychostimulants,35-44,20,Age group
+40107,Psychostimulants,45-54,15,Age group
+40107,Psychostimulants,55-64,14,Age group
+40107,Psychostimulants,65+,12,Age group
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,8,Age group
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,4,Age group
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,6,Age group
+40107,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,7,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,17,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,9,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,11,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,6,Age group
+40107,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,3,Age group
+40201,Alcohol,0-14,1,Age group
+40201,Alcohol,15-24,22,Age group
+40201,Alcohol,25-34,32,Age group
+40201,Alcohol,35-44,24,Age group
+40201,Alcohol,45-54,24,Age group
+40201,Alcohol,55-64,6,Age group
+40201,Alcohol,65+,7,Age group
+40201,All drug-related,0-14,2,Age group
+40201,All drug-related,15-24,62,Age group
+40201,All drug-related,25-34,83,Age group
+40201,All drug-related,35-44,60,Age group
+40201,All drug-related,45-54,52,Age group
+40201,All drug-related,55-64,16,Age group
+40201,All drug-related,65+,16,Age group
+40201,Anaesthetics,45-54,1,Age group
+40201,Analeptics and opioid receptor antagonists,15-24,1,Age group
+40201,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40201,Cannabinoids,15-24,5,Age group
+40201,Cannabinoids,25-34,9,Age group
+40201,Cannabinoids,35-44,4,Age group
+40201,Cannabinoids,45-54,3,Age group
+40201,Cannabinoids,55-64,2,Age group
+40201,Cannabinoids,65+,1,Age group
+40201,Hallucinogens,15-24,3,Age group
+40201,Hallucinogens,25-34,1,Age group
+40201,Hallucinogens,35-44,1,Age group
+40201,Hallucinogens,65+,1,Age group
+40201,Inhalants,35-44,1,Age group
+40201,Multiple drug use,0-14,1,Age group
+40201,Multiple drug use,15-24,4,Age group
+40201,Multiple drug use,25-34,6,Age group
+40201,Multiple drug use,35-44,3,Age group
+40201,Multiple drug use,45-54,2,Age group
+40201,Multiple drug use,55-64,2,Age group
+40201,Non-opioid analgesic and antirheumatic,15-24,2,Age group
+40201,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40201,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40201,Non-opioid analgesic and antirheumatic,45-54,2,Age group
+40201,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40201,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40201,Opioid,15-24,9,Age group
+40201,Opioid,25-34,10,Age group
+40201,Opioid,35-44,7,Age group
+40201,Opioid,45-54,4,Age group
+40201,Opioid,55-64,2,Age group
+40201,Opioid,65+,1,Age group
+40201,Other,25-34,1,Age group
+40201,Other,35-44,1,Age group
+40201,Other,45-54,2,Age group
+40201,Other,55-64,1,Age group
+40201,Psychostimulants,15-24,6,Age group
+40201,Psychostimulants,25-34,12,Age group
+40201,Psychostimulants,35-44,11,Age group
+40201,Psychostimulants,45-54,9,Age group
+40201,Psychostimulants,55-64,1,Age group
+40201,Psychostimulants,65+,3,Age group
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,5,Age group
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,3,Age group
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,4,Age group
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40201,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,5,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,4,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,2,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,3,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40201,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,1,Age group
+40202,Alcohol,0-14,1,Age group
+40202,Alcohol,15-24,55,Age group
+40202,Alcohol,25-34,80,Age group
+40202,Alcohol,35-44,57,Age group
+40202,Alcohol,45-54,44,Age group
+40202,Alcohol,55-64,19,Age group
+40202,Alcohol,65+,22,Age group
+40202,All drug-related,0-14,5,Age group
+40202,All drug-related,15-24,130,Age group
+40202,All drug-related,25-34,172,Age group
+40202,All drug-related,35-44,136,Age group
+40202,All drug-related,45-54,108,Age group
+40202,All drug-related,55-64,50,Age group
+40202,All drug-related,65+,54,Age group
+40202,Anaesthetics,15-24,1,Age group
+40202,Anaesthetics,25-34,1,Age group
+40202,Anaesthetics,55-64,1,Age group
+40202,Anaesthetics,65+,1,Age group
+40202,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40202,Cannabinoids,0-14,1,Age group
+40202,Cannabinoids,15-24,10,Age group
+40202,Cannabinoids,25-34,13,Age group
+40202,Cannabinoids,35-44,9,Age group
+40202,Cannabinoids,45-54,4,Age group
+40202,Cannabinoids,55-64,7,Age group
+40202,Cannabinoids,65+,3,Age group
+40202,Hallucinogens,35-44,1,Age group
+40202,Hallucinogens,45-54,3,Age group
+40202,Inhalants,0-14,1,Age group
+40202,Inhalants,15-24,2,Age group
+40202,Inhalants,25-34,2,Age group
+40202,Inhalants,45-54,2,Age group
+40202,Inhalants,55-64,1,Age group
+40202,Multiple drug use,15-24,9,Age group
+40202,Multiple drug use,25-34,9,Age group
+40202,Multiple drug use,35-44,15,Age group
+40202,Multiple drug use,45-54,4,Age group
+40202,Multiple drug use,55-64,6,Age group
+40202,Multiple drug use,65+,4,Age group
+40202,Non-opioid analgesic and antirheumatic,0-14,1,Age group
+40202,Non-opioid analgesic and antirheumatic,15-24,6,Age group
+40202,Non-opioid analgesic and antirheumatic,25-34,7,Age group
+40202,Non-opioid analgesic and antirheumatic,35-44,7,Age group
+40202,Non-opioid analgesic and antirheumatic,45-54,4,Age group
+40202,Non-opioid analgesic and antirheumatic,65+,3,Age group
+40202,Opioid,15-24,12,Age group
+40202,Opioid,25-34,16,Age group
+40202,Opioid,35-44,8,Age group
+40202,Opioid,45-54,13,Age group
+40202,Opioid,55-64,7,Age group
+40202,Opioid,65+,2,Age group
+40202,Other,15-24,2,Age group
+40202,Other,25-34,3,Age group
+40202,Other,35-44,2,Age group
+40202,Other,45-54,1,Age group
+40202,Other,55-64,1,Age group
+40202,Other,65+,1,Age group
+40202,Psychostimulants,15-24,23,Age group
+40202,Psychostimulants,25-34,23,Age group
+40202,Psychostimulants,35-44,23,Age group
+40202,Psychostimulants,45-54,24,Age group
+40202,Psychostimulants,55-64,4,Age group
+40202,Psychostimulants,65+,11,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,4,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,7,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40202,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,6,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,11,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,9,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,7,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40202,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,4,Age group
+40202,Steroids or hormones,65+,1,Age group
+40203,Alcohol,0-14,1,Age group
+40203,Alcohol,15-24,23,Age group
+40203,Alcohol,25-34,51,Age group
+40203,Alcohol,35-44,39,Age group
+40203,Alcohol,45-54,23,Age group
+40203,Alcohol,55-64,25,Age group
+40203,Alcohol,65+,12,Age group
+40203,All drug-related,0-14,1,Age group
+40203,All drug-related,15-24,60,Age group
+40203,All drug-related,25-34,109,Age group
+40203,All drug-related,35-44,80,Age group
+40203,All drug-related,45-54,52,Age group
+40203,All drug-related,55-64,44,Age group
+40203,All drug-related,65+,28,Age group
+40203,Anaesthetics,15-24,1,Age group
+40203,Anaesthetics,45-54,1,Age group
+40203,Analeptics and opioid receptor antagonists,65+,1,Age group
+40203,Androgens and anabolic congeners,25-34,1,Age group
+40203,Androgens and anabolic congeners,45-54,1,Age group
+40203,Cannabinoids,15-24,6,Age group
+40203,Cannabinoids,25-34,11,Age group
+40203,Cannabinoids,35-44,3,Age group
+40203,Cannabinoids,45-54,6,Age group
+40203,Cannabinoids,55-64,7,Age group
+40203,Cannabinoids,65+,2,Age group
+40203,Hallucinogens,15-24,2,Age group
+40203,Hallucinogens,25-34,1,Age group
+40203,Hallucinogens,35-44,2,Age group
+40203,Hallucinogens,45-54,1,Age group
+40203,Hallucinogens,65+,1,Age group
+40203,Inhalants,25-34,2,Age group
+40203,Multiple drug use,15-24,6,Age group
+40203,Multiple drug use,25-34,4,Age group
+40203,Multiple drug use,35-44,4,Age group
+40203,Multiple drug use,45-54,2,Age group
+40203,Multiple drug use,55-64,3,Age group
+40203,Multiple drug use,65+,1,Age group
+40203,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40203,Non-opioid analgesic and antirheumatic,35-44,1,Age group
+40203,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40203,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40203,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40203,Opioid,15-24,5,Age group
+40203,Opioid,25-34,6,Age group
+40203,Opioid,35-44,6,Age group
+40203,Opioid,45-54,7,Age group
+40203,Opioid,55-64,4,Age group
+40203,Opioid,65+,4,Age group
+40203,Other,15-24,2,Age group
+40203,Other,25-34,3,Age group
+40203,Other,35-44,2,Age group
+40203,Psychostimulants,15-24,10,Age group
+40203,Psychostimulants,25-34,20,Age group
+40203,Psychostimulants,35-44,15,Age group
+40203,Psychostimulants,45-54,6,Age group
+40203,Psychostimulants,55-64,2,Age group
+40203,Psychostimulants,65+,4,Age group
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,1,Age group
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,2,Age group
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,2,Age group
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40203,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,4,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,3,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,6,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,3,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,2,Age group
+40203,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,1,Age group
+40204,Alcohol,0-14,2,Age group
+40204,Alcohol,15-24,77,Age group
+40204,Alcohol,25-34,98,Age group
+40204,Alcohol,35-44,88,Age group
+40204,Alcohol,45-54,48,Age group
+40204,Alcohol,55-64,28,Age group
+40204,Alcohol,65+,28,Age group
+40204,All drug-related,0-14,5,Age group
+40204,All drug-related,15-24,177,Age group
+40204,All drug-related,25-34,230,Age group
+40204,All drug-related,35-44,195,Age group
+40204,All drug-related,45-54,106,Age group
+40204,All drug-related,55-64,71,Age group
+40204,All drug-related,65+,70,Age group
+40204,Anaesthetics,15-24,1,Age group
+40204,Anaesthetics,35-44,2,Age group
+40204,Anaesthetics,65+,1,Age group
+40204,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40204,Androgens and anabolic congeners,15-24,1,Age group
+40204,Androgens and anabolic congeners,35-44,1,Age group
+40204,Cannabinoids,15-24,14,Age group
+40204,Cannabinoids,25-34,18,Age group
+40204,Cannabinoids,35-44,16,Age group
+40204,Cannabinoids,45-54,9,Age group
+40204,Cannabinoids,55-64,4,Age group
+40204,Cannabinoids,65+,6,Age group
+40204,Hallucinogens,25-34,2,Age group
+40204,Hallucinogens,35-44,3,Age group
+40204,Hallucinogens,45-54,2,Age group
+40204,Hallucinogens,65+,1,Age group
+40204,Inhalants,15-24,1,Age group
+40204,Inhalants,25-34,1,Age group
+40204,Inhalants,45-54,2,Age group
+40204,Inhalants,55-64,3,Age group
+40204,Multiple drug use,0-14,1,Age group
+40204,Multiple drug use,15-24,13,Age group
+40204,Multiple drug use,25-34,23,Age group
+40204,Multiple drug use,35-44,20,Age group
+40204,Multiple drug use,45-54,11,Age group
+40204,Multiple drug use,55-64,7,Age group
+40204,Multiple drug use,65+,7,Age group
+40204,Non-opioid analgesic and antirheumatic,15-24,4,Age group
+40204,Non-opioid analgesic and antirheumatic,25-34,4,Age group
+40204,Non-opioid analgesic and antirheumatic,35-44,6,Age group
+40204,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40204,Non-opioid analgesic and antirheumatic,55-64,4,Age group
+40204,Non-opioid analgesic and antirheumatic,65+,6,Age group
+40204,Opioid,0-14,1,Age group
+40204,Opioid,15-24,16,Age group
+40204,Opioid,25-34,24,Age group
+40204,Opioid,35-44,9,Age group
+40204,Opioid,45-54,4,Age group
+40204,Opioid,55-64,7,Age group
+40204,Opioid,65+,4,Age group
+40204,Other,15-24,1,Age group
+40204,Other,25-34,4,Age group
+40204,Other,35-44,2,Age group
+40204,Other,45-54,2,Age group
+40204,Other,55-64,2,Age group
+40204,Psychostimulants,15-24,28,Age group
+40204,Psychostimulants,25-34,33,Age group
+40204,Psychostimulants,35-44,33,Age group
+40204,Psychostimulants,45-54,14,Age group
+40204,Psychostimulants,55-64,8,Age group
+40204,Psychostimulants,65+,11,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",0-14,1,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,7,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,8,Age group
+40204,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,18,Age group
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,16,Age group
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,8,Age group
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,10,Age group
+40204,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,4,Age group
+40205,Alcohol,0-14,5,Age group
+40205,Alcohol,15-24,76,Age group
+40205,Alcohol,25-34,106,Age group
+40205,Alcohol,35-44,71,Age group
+40205,Alcohol,45-54,60,Age group
+40205,Alcohol,55-64,35,Age group
+40205,Alcohol,65+,29,Age group
+40205,All drug-related,0-14,8,Age group
+40205,All drug-related,15-24,172,Age group
+40205,All drug-related,25-34,241,Age group
+40205,All drug-related,35-44,156,Age group
+40205,All drug-related,45-54,138,Age group
+40205,All drug-related,55-64,71,Age group
+40205,All drug-related,65+,55,Age group
+40205,Anaesthetics,45-54,2,Age group
+40205,Analeptics and opioid receptor antagonists,35-44,2,Age group
+40205,Androgens and anabolic congeners,35-44,1,Age group
+40205,Androgens and anabolic congeners,55-64,1,Age group
+40205,Cannabinoids,0-14,1,Age group
+40205,Cannabinoids,15-24,9,Age group
+40205,Cannabinoids,25-34,18,Age group
+40205,Cannabinoids,35-44,7,Age group
+40205,Cannabinoids,45-54,11,Age group
+40205,Cannabinoids,55-64,3,Age group
+40205,Cannabinoids,65+,4,Age group
+40205,Hallucinogens,25-34,1,Age group
+40205,Hallucinogens,35-44,1,Age group
+40205,Inhalants,25-34,1,Age group
+40205,Inhalants,35-44,1,Age group
+40205,Inhalants,45-54,2,Age group
+40205,Multiple drug use,0-14,1,Age group
+40205,Multiple drug use,15-24,15,Age group
+40205,Multiple drug use,25-34,14,Age group
+40205,Multiple drug use,35-44,12,Age group
+40205,Multiple drug use,45-54,10,Age group
+40205,Multiple drug use,55-64,5,Age group
+40205,Multiple drug use,65+,9,Age group
+40205,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40205,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40205,Non-opioid analgesic and antirheumatic,35-44,6,Age group
+40205,Non-opioid analgesic and antirheumatic,45-54,4,Age group
+40205,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40205,Opioid,15-24,16,Age group
+40205,Opioid,25-34,26,Age group
+40205,Opioid,35-44,12,Age group
+40205,Opioid,45-54,16,Age group
+40205,Opioid,55-64,6,Age group
+40205,Opioid,65+,3,Age group
+40205,Other,15-24,3,Age group
+40205,Other,25-34,4,Age group
+40205,Other,35-44,2,Age group
+40205,Other,45-54,1,Age group
+40205,Other,65+,1,Age group
+40205,Psychostimulants,15-24,35,Age group
+40205,Psychostimulants,25-34,41,Age group
+40205,Psychostimulants,35-44,26,Age group
+40205,Psychostimulants,45-54,21,Age group
+40205,Psychostimulants,55-64,12,Age group
+40205,Psychostimulants,65+,3,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,13,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,8,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,4,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40205,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,4,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,11,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,12,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,7,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,7,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,5,Age group
+40205,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40205,Steroids or hormones,15-24,1,Age group
+40301,Alcohol,0-14,2,Age group
+40301,Alcohol,15-24,57,Age group
+40301,Alcohol,25-34,91,Age group
+40301,Alcohol,35-44,62,Age group
+40301,Alcohol,45-54,38,Age group
+40301,Alcohol,55-64,20,Age group
+40301,Alcohol,65+,18,Age group
+40301,All drug-related,0-14,8,Age group
+40301,All drug-related,15-24,129,Age group
+40301,All drug-related,25-34,191,Age group
+40301,All drug-related,35-44,139,Age group
+40301,All drug-related,45-54,81,Age group
+40301,All drug-related,55-64,53,Age group
+40301,All drug-related,65+,51,Age group
+40301,Anaesthetics,25-34,1,Age group
+40301,Anaesthetics,35-44,4,Age group
+40301,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40301,Androgens and anabolic congeners,15-24,1,Age group
+40301,Cannabinoids,15-24,9,Age group
+40301,Cannabinoids,25-34,14,Age group
+40301,Cannabinoids,35-44,10,Age group
+40301,Cannabinoids,45-54,7,Age group
+40301,Cannabinoids,55-64,4,Age group
+40301,Cannabinoids,65+,2,Age group
+40301,Hallucinogens,15-24,2,Age group
+40301,Hallucinogens,45-54,2,Age group
+40301,Hallucinogens,55-64,1,Age group
+40301,Inhalants,15-24,1,Age group
+40301,Inhalants,25-34,3,Age group
+40301,Inhalants,35-44,1,Age group
+40301,Multiple drug use,0-14,2,Age group
+40301,Multiple drug use,15-24,14,Age group
+40301,Multiple drug use,25-34,13,Age group
+40301,Multiple drug use,35-44,7,Age group
+40301,Multiple drug use,45-54,3,Age group
+40301,Multiple drug use,55-64,6,Age group
+40301,Multiple drug use,65+,5,Age group
+40301,Non-opioid analgesic and antirheumatic,0-14,1,Age group
+40301,Non-opioid analgesic and antirheumatic,15-24,5,Age group
+40301,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40301,Non-opioid analgesic and antirheumatic,35-44,8,Age group
+40301,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40301,Non-opioid analgesic and antirheumatic,65+,2,Age group
+40301,Opioid,15-24,10,Age group
+40301,Opioid,25-34,18,Age group
+40301,Opioid,35-44,13,Age group
+40301,Opioid,45-54,4,Age group
+40301,Opioid,55-64,5,Age group
+40301,Opioid,65+,4,Age group
+40301,Other,0-14,1,Age group
+40301,Other,15-24,1,Age group
+40301,Other,25-34,2,Age group
+40301,Other,35-44,1,Age group
+40301,Other,65+,1,Age group
+40301,Psychostimulants,0-14,2,Age group
+40301,Psychostimulants,15-24,18,Age group
+40301,Psychostimulants,25-34,24,Age group
+40301,Psychostimulants,35-44,23,Age group
+40301,Psychostimulants,45-54,14,Age group
+40301,Psychostimulants,55-64,6,Age group
+40301,Psychostimulants,65+,10,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,1,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,5,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,4,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40301,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,3,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,10,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,16,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,5,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,9,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,8,Age group
+40301,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,6,Age group
+40301,Steroids or hormones,35-44,1,Age group
+40302,Alcohol,0-14,2,Age group
+40302,Alcohol,15-24,79,Age group
+40302,Alcohol,25-34,83,Age group
+40302,Alcohol,35-44,68,Age group
+40302,Alcohol,45-54,46,Age group
+40302,Alcohol,55-64,29,Age group
+40302,Alcohol,65+,19,Age group
+40302,All drug-related,0-14,5,Age group
+40302,All drug-related,15-24,166,Age group
+40302,All drug-related,25-34,188,Age group
+40302,All drug-related,35-44,143,Age group
+40302,All drug-related,45-54,113,Age group
+40302,All drug-related,55-64,67,Age group
+40302,All drug-related,65+,44,Age group
+40302,Anaesthetics,15-24,1,Age group
+40302,Anaesthetics,25-34,1,Age group
+40302,Anaesthetics,55-64,1,Age group
+40302,Analeptics and opioid receptor antagonists,35-44,1,Age group
+40302,Androgens and anabolic congeners,25-34,1,Age group
+40302,Cannabinoids,0-14,1,Age group
+40302,Cannabinoids,15-24,21,Age group
+40302,Cannabinoids,25-34,17,Age group
+40302,Cannabinoids,35-44,12,Age group
+40302,Cannabinoids,45-54,12,Age group
+40302,Cannabinoids,55-64,4,Age group
+40302,Cannabinoids,65+,2,Age group
+40302,Hallucinogens,0-14,1,Age group
+40302,Hallucinogens,15-24,2,Age group
+40302,Hallucinogens,25-34,2,Age group
+40302,Hallucinogens,35-44,2,Age group
+40302,Hallucinogens,55-64,1,Age group
+40302,Hallucinogens,65+,1,Age group
+40302,Inhalants,15-24,1,Age group
+40302,Inhalants,25-34,1,Age group
+40302,Inhalants,55-64,1,Age group
+40302,Multiple drug use,15-24,9,Age group
+40302,Multiple drug use,25-34,11,Age group
+40302,Multiple drug use,35-44,10,Age group
+40302,Multiple drug use,45-54,7,Age group
+40302,Multiple drug use,55-64,3,Age group
+40302,Multiple drug use,65+,5,Age group
+40302,Non-opioid analgesic and antirheumatic,15-24,2,Age group
+40302,Non-opioid analgesic and antirheumatic,25-34,8,Age group
+40302,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40302,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40302,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40302,Non-opioid analgesic and antirheumatic,65+,4,Age group
+40302,Opioid,15-24,9,Age group
+40302,Opioid,25-34,13,Age group
+40302,Opioid,35-44,6,Age group
+40302,Opioid,45-54,7,Age group
+40302,Opioid,55-64,5,Age group
+40302,Opioid,65+,2,Age group
+40302,Other,25-34,2,Age group
+40302,Other,35-44,1,Age group
+40302,Other,45-54,1,Age group
+40302,Other,55-64,1,Age group
+40302,Psychostimulants,0-14,1,Age group
+40302,Psychostimulants,15-24,28,Age group
+40302,Psychostimulants,25-34,34,Age group
+40302,Psychostimulants,35-44,22,Age group
+40302,Psychostimulants,45-54,27,Age group
+40302,Psychostimulants,55-64,12,Age group
+40302,Psychostimulants,65+,7,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,6,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,11,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,5,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,4,Age group
+40302,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,8,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,9,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,7,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,5,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,4,Age group
+40302,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40302,Steroids or hormones,35-44,1,Age group
+40303,Alcohol,0-14,2,Age group
+40303,Alcohol,15-24,40,Age group
+40303,Alcohol,25-34,68,Age group
+40303,Alcohol,35-44,52,Age group
+40303,Alcohol,45-54,35,Age group
+40303,Alcohol,55-64,17,Age group
+40303,Alcohol,65+,22,Age group
+40303,All drug-related,0-14,7,Age group
+40303,All drug-related,15-24,100,Age group
+40303,All drug-related,25-34,151,Age group
+40303,All drug-related,35-44,121,Age group
+40303,All drug-related,45-54,76,Age group
+40303,All drug-related,55-64,47,Age group
+40303,All drug-related,65+,45,Age group
+40303,Anaesthetics,15-24,1,Age group
+40303,Anaesthetics,25-34,2,Age group
+40303,Anaesthetics,35-44,1,Age group
+40303,Anaesthetics,45-54,2,Age group
+40303,Analeptics and opioid receptor antagonists,15-24,1,Age group
+40303,Analeptics and opioid receptor antagonists,55-64,1,Age group
+40303,Analeptics and opioid receptor antagonists,65+,1,Age group
+40303,Androgens and anabolic congeners,15-24,1,Age group
+40303,Cannabinoids,0-14,1,Age group
+40303,Cannabinoids,15-24,9,Age group
+40303,Cannabinoids,25-34,9,Age group
+40303,Cannabinoids,35-44,14,Age group
+40303,Cannabinoids,45-54,9,Age group
+40303,Cannabinoids,55-64,5,Age group
+40303,Hallucinogens,15-24,1,Age group
+40303,Hallucinogens,25-34,2,Age group
+40303,Hallucinogens,35-44,2,Age group
+40303,Inhalants,15-24,1,Age group
+40303,Inhalants,25-34,1,Age group
+40303,Inhalants,35-44,1,Age group
+40303,Inhalants,55-64,1,Age group
+40303,Multiple drug use,15-24,9,Age group
+40303,Multiple drug use,25-34,7,Age group
+40303,Multiple drug use,35-44,9,Age group
+40303,Multiple drug use,45-54,8,Age group
+40303,Multiple drug use,55-64,2,Age group
+40303,Multiple drug use,65+,5,Age group
+40303,Non-opioid analgesic and antirheumatic,15-24,5,Age group
+40303,Non-opioid analgesic and antirheumatic,25-34,1,Age group
+40303,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40303,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40303,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40303,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40303,Opioid,15-24,10,Age group
+40303,Opioid,25-34,16,Age group
+40303,Opioid,35-44,12,Age group
+40303,Opioid,45-54,5,Age group
+40303,Opioid,55-64,6,Age group
+40303,Opioid,65+,4,Age group
+40303,Other,25-34,2,Age group
+40303,Other,35-44,1,Age group
+40303,Other,65+,2,Age group
+40303,Psychostimulants,0-14,2,Age group
+40303,Psychostimulants,15-24,14,Age group
+40303,Psychostimulants,25-34,30,Age group
+40303,Psychostimulants,35-44,14,Age group
+40303,Psychostimulants,45-54,12,Age group
+40303,Psychostimulants,55-64,6,Age group
+40303,Psychostimulants,65+,6,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",0-14,1,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,7,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,6,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40303,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,5,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,6,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,6,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,2,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,5,Age group
+40303,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40304,Alcohol,0-14,3,Age group
+40304,Alcohol,15-24,64,Age group
+40304,Alcohol,25-34,122,Age group
+40304,Alcohol,35-44,72,Age group
+40304,Alcohol,45-54,47,Age group
+40304,Alcohol,55-64,32,Age group
+40304,Alcohol,65+,20,Age group
+40304,All drug-related,0-14,6,Age group
+40304,All drug-related,15-24,143,Age group
+40304,All drug-related,25-34,219,Age group
+40304,All drug-related,35-44,160,Age group
+40304,All drug-related,45-54,114,Age group
+40304,All drug-related,55-64,69,Age group
+40304,All drug-related,65+,53,Age group
+40304,Anaesthetics,25-34,1,Age group
+40304,Anaesthetics,35-44,1,Age group
+40304,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40304,Analeptics and opioid receptor antagonists,35-44,1,Age group
+40304,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40304,Analeptics and opioid receptor antagonists,65+,1,Age group
+40304,Androgens and anabolic congeners,35-44,1,Age group
+40304,Cannabinoids,15-24,8,Age group
+40304,Cannabinoids,25-34,12,Age group
+40304,Cannabinoids,35-44,13,Age group
+40304,Cannabinoids,45-54,8,Age group
+40304,Cannabinoids,55-64,8,Age group
+40304,Cannabinoids,65+,7,Age group
+40304,Hallucinogens,25-34,3,Age group
+40304,Hallucinogens,35-44,1,Age group
+40304,Hallucinogens,45-54,2,Age group
+40304,Hallucinogens,55-64,2,Age group
+40304,Hallucinogens,65+,1,Age group
+40304,Inhalants,15-24,4,Age group
+40304,Inhalants,25-34,1,Age group
+40304,Inhalants,35-44,1,Age group
+40304,Inhalants,45-54,1,Age group
+40304,Multiple drug use,15-24,14,Age group
+40304,Multiple drug use,25-34,10,Age group
+40304,Multiple drug use,35-44,11,Age group
+40304,Multiple drug use,45-54,9,Age group
+40304,Multiple drug use,55-64,6,Age group
+40304,Multiple drug use,65+,3,Age group
+40304,Non-opioid analgesic and antirheumatic,15-24,7,Age group
+40304,Non-opioid analgesic and antirheumatic,25-34,6,Age group
+40304,Non-opioid analgesic and antirheumatic,35-44,4,Age group
+40304,Non-opioid analgesic and antirheumatic,45-54,7,Age group
+40304,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40304,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40304,Opioid,15-24,14,Age group
+40304,Opioid,25-34,10,Age group
+40304,Opioid,35-44,17,Age group
+40304,Opioid,45-54,6,Age group
+40304,Opioid,55-64,4,Age group
+40304,Opioid,65+,4,Age group
+40304,Other,15-24,2,Age group
+40304,Other,25-34,3,Age group
+40304,Other,35-44,1,Age group
+40304,Other,45-54,4,Age group
+40304,Other,55-64,2,Age group
+40304,Psychostimulants,15-24,16,Age group
+40304,Psychostimulants,25-34,30,Age group
+40304,Psychostimulants,35-44,25,Age group
+40304,Psychostimulants,45-54,18,Age group
+40304,Psychostimulants,55-64,11,Age group
+40304,Psychostimulants,65+,12,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",0-14,2,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,9,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40304,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,10,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,11,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,7,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,8,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40304,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40304,Steroids or hormones,15-24,1,Age group
+40401,Alcohol,15-24,40,Age group
+40401,Alcohol,25-34,62,Age group
+40401,Alcohol,35-44,55,Age group
+40401,Alcohol,45-54,36,Age group
+40401,Alcohol,55-64,18,Age group
+40401,Alcohol,65+,20,Age group
+40401,All drug-related,0-14,2,Age group
+40401,All drug-related,15-24,95,Age group
+40401,All drug-related,25-34,136,Age group
+40401,All drug-related,35-44,112,Age group
+40401,All drug-related,45-54,78,Age group
+40401,All drug-related,55-64,42,Age group
+40401,All drug-related,65+,41,Age group
+40401,Anaesthetics,25-34,2,Age group
+40401,Anaesthetics,45-54,1,Age group
+40401,Anaesthetics,55-64,1,Age group
+40401,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40401,Analeptics and opioid receptor antagonists,35-44,1,Age group
+40401,Androgens and anabolic congeners,35-44,1,Age group
+40401,Androgens and anabolic congeners,55-64,1,Age group
+40401,Cannabinoids,0-14,1,Age group
+40401,Cannabinoids,15-24,7,Age group
+40401,Cannabinoids,25-34,10,Age group
+40401,Cannabinoids,35-44,6,Age group
+40401,Cannabinoids,45-54,2,Age group
+40401,Cannabinoids,55-64,3,Age group
+40401,Cannabinoids,65+,3,Age group
+40401,Hallucinogens,15-24,1,Age group
+40401,Hallucinogens,35-44,2,Age group
+40401,Hallucinogens,55-64,1,Age group
+40401,Inhalants,35-44,2,Age group
+40401,Inhalants,45-54,2,Age group
+40401,Multiple drug use,15-24,9,Age group
+40401,Multiple drug use,25-34,10,Age group
+40401,Multiple drug use,35-44,8,Age group
+40401,Multiple drug use,45-54,6,Age group
+40401,Multiple drug use,55-64,2,Age group
+40401,Non-opioid analgesic and antirheumatic,15-24,2,Age group
+40401,Non-opioid analgesic and antirheumatic,25-34,5,Age group
+40401,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40401,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40401,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40401,Opioid,15-24,12,Age group
+40401,Opioid,25-34,11,Age group
+40401,Opioid,35-44,7,Age group
+40401,Opioid,45-54,10,Age group
+40401,Opioid,55-64,5,Age group
+40401,Opioid,65+,3,Age group
+40401,Other,15-24,5,Age group
+40401,Other,25-34,1,Age group
+40401,Other,35-44,1,Age group
+40401,Other,45-54,1,Age group
+40401,Other,65+,1,Age group
+40401,Psychostimulants,15-24,12,Age group
+40401,Psychostimulants,25-34,23,Age group
+40401,Psychostimulants,35-44,15,Age group
+40401,Psychostimulants,45-54,10,Age group
+40401,Psychostimulants,55-64,7,Age group
+40401,Psychostimulants,65+,7,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,6,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,2,Age group
+40401,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,4,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,5,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,4,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,6,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,2,Age group
+40401,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,5,Age group
+40401,Steroids or hormones,35-44,1,Age group
+40402,Alcohol,0-14,2,Age group
+40402,Alcohol,15-24,29,Age group
+40402,Alcohol,25-34,53,Age group
+40402,Alcohol,35-44,33,Age group
+40402,Alcohol,45-54,29,Age group
+40402,Alcohol,55-64,13,Age group
+40402,Alcohol,65+,12,Age group
+40402,All drug-related,0-14,3,Age group
+40402,All drug-related,15-24,69,Age group
+40402,All drug-related,25-34,122,Age group
+40402,All drug-related,35-44,75,Age group
+40402,All drug-related,45-54,57,Age group
+40402,All drug-related,55-64,35,Age group
+40402,All drug-related,65+,25,Age group
+40402,Anaesthetics,15-24,1,Age group
+40402,Anaesthetics,35-44,1,Age group
+40402,Anaesthetics,55-64,1,Age group
+40402,Analeptics and opioid receptor antagonists,15-24,1,Age group
+40402,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40402,Cannabinoids,15-24,4,Age group
+40402,Cannabinoids,25-34,12,Age group
+40402,Cannabinoids,35-44,6,Age group
+40402,Cannabinoids,45-54,5,Age group
+40402,Cannabinoids,55-64,1,Age group
+40402,Cannabinoids,65+,3,Age group
+40402,Hallucinogens,15-24,1,Age group
+40402,Hallucinogens,55-64,1,Age group
+40402,Inhalants,25-34,2,Age group
+40402,Inhalants,35-44,1,Age group
+40402,Multiple drug use,15-24,6,Age group
+40402,Multiple drug use,25-34,11,Age group
+40402,Multiple drug use,35-44,4,Age group
+40402,Multiple drug use,45-54,3,Age group
+40402,Multiple drug use,55-64,2,Age group
+40402,Multiple drug use,65+,2,Age group
+40402,Non-opioid analgesic and antirheumatic,25-34,10,Age group
+40402,Non-opioid analgesic and antirheumatic,35-44,5,Age group
+40402,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40402,Opioid,15-24,6,Age group
+40402,Opioid,25-34,7,Age group
+40402,Opioid,35-44,6,Age group
+40402,Opioid,45-54,3,Age group
+40402,Opioid,55-64,3,Age group
+40402,Other,15-24,3,Age group
+40402,Other,25-34,3,Age group
+40402,Other,45-54,1,Age group
+40402,Other,55-64,3,Age group
+40402,Psychostimulants,0-14,1,Age group
+40402,Psychostimulants,15-24,12,Age group
+40402,Psychostimulants,25-34,17,Age group
+40402,Psychostimulants,35-44,13,Age group
+40402,Psychostimulants,45-54,8,Age group
+40402,Psychostimulants,55-64,7,Age group
+40402,Psychostimulants,65+,4,Age group
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,1,Age group
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,4,Age group
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,2,Age group
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,5,Age group
+40402,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,5,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,2,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,4,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,3,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,4,Age group
+40402,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40403,Alcohol,15-24,29,Age group
+40403,Alcohol,25-34,45,Age group
+40403,Alcohol,35-44,30,Age group
+40403,Alcohol,45-54,23,Age group
+40403,Alcohol,55-64,14,Age group
+40403,Alcohol,65+,7,Age group
+40403,All drug-related,0-14,1,Age group
+40403,All drug-related,15-24,59,Age group
+40403,All drug-related,25-34,88,Age group
+40403,All drug-related,35-44,71,Age group
+40403,All drug-related,45-54,40,Age group
+40403,All drug-related,55-64,36,Age group
+40403,All drug-related,65+,21,Age group
+40403,Anaesthetics,35-44,1,Age group
+40403,Anaesthetics,55-64,1,Age group
+40403,Anaesthetics,65+,1,Age group
+40403,Cannabinoids,25-34,8,Age group
+40403,Cannabinoids,35-44,3,Age group
+40403,Cannabinoids,45-54,3,Age group
+40403,Cannabinoids,55-64,2,Age group
+40403,Hallucinogens,25-34,1,Age group
+40403,Hallucinogens,35-44,1,Age group
+40403,Multiple drug use,15-24,4,Age group
+40403,Multiple drug use,25-34,5,Age group
+40403,Multiple drug use,35-44,5,Age group
+40403,Multiple drug use,55-64,1,Age group
+40403,Multiple drug use,65+,2,Age group
+40403,Non-opioid analgesic and antirheumatic,0-14,1,Age group
+40403,Non-opioid analgesic and antirheumatic,15-24,1,Age group
+40403,Non-opioid analgesic and antirheumatic,25-34,4,Age group
+40403,Non-opioid analgesic and antirheumatic,35-44,5,Age group
+40403,Non-opioid analgesic and antirheumatic,45-54,2,Age group
+40403,Non-opioid analgesic and antirheumatic,55-64,3,Age group
+40403,Non-opioid analgesic and antirheumatic,65+,2,Age group
+40403,Opioid,15-24,6,Age group
+40403,Opioid,25-34,8,Age group
+40403,Opioid,35-44,9,Age group
+40403,Opioid,45-54,1,Age group
+40403,Opioid,55-64,5,Age group
+40403,Opioid,65+,3,Age group
+40403,Other,25-34,1,Age group
+40403,Psychostimulants,15-24,11,Age group
+40403,Psychostimulants,25-34,7,Age group
+40403,Psychostimulants,35-44,9,Age group
+40403,Psychostimulants,45-54,8,Age group
+40403,Psychostimulants,55-64,6,Age group
+40403,Psychostimulants,65+,3,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,5,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,2,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40403,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,5,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,4,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,6,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,2,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,3,Age group
+40403,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40501,Alcohol,0-14,2,Age group
+40501,Alcohol,15-24,24,Age group
+40501,Alcohol,25-34,37,Age group
+40501,Alcohol,35-44,28,Age group
+40501,Alcohol,45-54,13,Age group
+40501,Alcohol,55-64,8,Age group
+40501,Alcohol,65+,10,Age group
+40501,All drug-related,0-14,3,Age group
+40501,All drug-related,15-24,63,Age group
+40501,All drug-related,25-34,79,Age group
+40501,All drug-related,35-44,53,Age group
+40501,All drug-related,45-54,51,Age group
+40501,All drug-related,55-64,23,Age group
+40501,All drug-related,65+,23,Age group
+40501,Anaesthetics,65+,1,Age group
+40501,Analeptics and opioid receptor antagonists,35-44,1,Age group
+40501,Androgens and anabolic congeners,25-34,1,Age group
+40501,Cannabinoids,15-24,6,Age group
+40501,Cannabinoids,25-34,2,Age group
+40501,Cannabinoids,35-44,5,Age group
+40501,Cannabinoids,45-54,10,Age group
+40501,Cannabinoids,55-64,2,Age group
+40501,Hallucinogens,25-34,2,Age group
+40501,Inhalants,15-24,2,Age group
+40501,Inhalants,45-54,1,Age group
+40501,Multiple drug use,15-24,5,Age group
+40501,Multiple drug use,25-34,8,Age group
+40501,Multiple drug use,35-44,3,Age group
+40501,Multiple drug use,45-54,1,Age group
+40501,Multiple drug use,55-64,2,Age group
+40501,Multiple drug use,65+,1,Age group
+40501,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40501,Non-opioid analgesic and antirheumatic,25-34,7,Age group
+40501,Non-opioid analgesic and antirheumatic,35-44,3,Age group
+40501,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40501,Opioid,15-24,6,Age group
+40501,Opioid,25-34,8,Age group
+40501,Opioid,35-44,1,Age group
+40501,Opioid,45-54,2,Age group
+40501,Opioid,55-64,2,Age group
+40501,Opioid,65+,2,Age group
+40501,Other,15-24,2,Age group
+40501,Other,35-44,1,Age group
+40501,Other,45-54,1,Age group
+40501,Psychostimulants,15-24,9,Age group
+40501,Psychostimulants,25-34,7,Age group
+40501,Psychostimulants,35-44,5,Age group
+40501,Psychostimulants,45-54,13,Age group
+40501,Psychostimulants,55-64,5,Age group
+40501,Psychostimulants,65+,7,Age group
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,4,Age group
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,3,Age group
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,2,Age group
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40501,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,3,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,2,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,4,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,4,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,4,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,1,Age group
+40501,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40502,Alcohol,0-14,2,Age group
+40502,Alcohol,15-24,39,Age group
+40502,Alcohol,25-34,73,Age group
+40502,Alcohol,35-44,51,Age group
+40502,Alcohol,45-54,36,Age group
+40502,Alcohol,55-64,31,Age group
+40502,Alcohol,65+,11,Age group
+40502,All drug-related,0-14,7,Age group
+40502,All drug-related,15-24,99,Age group
+40502,All drug-related,25-34,151,Age group
+40502,All drug-related,35-44,101,Age group
+40502,All drug-related,45-54,77,Age group
+40502,All drug-related,55-64,51,Age group
+40502,All drug-related,65+,32,Age group
+40502,Anaesthetics,15-24,1,Age group
+40502,Androgens and anabolic congeners,35-44,1,Age group
+40502,Cannabinoids,15-24,10,Age group
+40502,Cannabinoids,25-34,11,Age group
+40502,Cannabinoids,35-44,8,Age group
+40502,Cannabinoids,45-54,5,Age group
+40502,Cannabinoids,55-64,5,Age group
+40502,Cannabinoids,65+,2,Age group
+40502,Hallucinogens,0-14,1,Age group
+40502,Hallucinogens,15-24,4,Age group
+40502,Hallucinogens,25-34,2,Age group
+40502,Hallucinogens,35-44,2,Age group
+40502,Inhalants,15-24,1,Age group
+40502,Inhalants,25-34,2,Age group
+40502,Inhalants,45-54,1,Age group
+40502,Multiple drug use,15-24,8,Age group
+40502,Multiple drug use,25-34,10,Age group
+40502,Multiple drug use,35-44,3,Age group
+40502,Multiple drug use,45-54,4,Age group
+40502,Multiple drug use,55-64,3,Age group
+40502,Multiple drug use,65+,4,Age group
+40502,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40502,Non-opioid analgesic and antirheumatic,25-34,1,Age group
+40502,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40502,Non-opioid analgesic and antirheumatic,45-54,5,Age group
+40502,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40502,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40502,Opioid,0-14,1,Age group
+40502,Opioid,15-24,8,Age group
+40502,Opioid,25-34,7,Age group
+40502,Opioid,35-44,4,Age group
+40502,Opioid,45-54,6,Age group
+40502,Opioid,55-64,5,Age group
+40502,Opioid,65+,6,Age group
+40502,Other,15-24,1,Age group
+40502,Other,25-34,1,Age group
+40502,Other,45-54,1,Age group
+40502,Other,65+,1,Age group
+40502,Psychostimulants,0-14,1,Age group
+40502,Psychostimulants,15-24,15,Age group
+40502,Psychostimulants,25-34,20,Age group
+40502,Psychostimulants,35-44,18,Age group
+40502,Psychostimulants,45-54,11,Age group
+40502,Psychostimulants,55-64,1,Age group
+40502,Psychostimulants,65+,3,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",0-14,2,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,1,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,6,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,2,Age group
+40502,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,8,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,18,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,6,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,5,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,2,Age group
+40502,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,3,Age group
+40503,Alcohol,0-14,1,Age group
+40503,Alcohol,15-24,47,Age group
+40503,Alcohol,25-34,74,Age group
+40503,Alcohol,35-44,56,Age group
+40503,Alcohol,45-54,41,Age group
+40503,Alcohol,55-64,13,Age group
+40503,Alcohol,65+,17,Age group
+40503,All drug-related,0-14,4,Age group
+40503,All drug-related,15-24,86,Age group
+40503,All drug-related,25-34,134,Age group
+40503,All drug-related,35-44,115,Age group
+40503,All drug-related,45-54,90,Age group
+40503,All drug-related,55-64,35,Age group
+40503,All drug-related,65+,36,Age group
+40503,Anaesthetics,25-34,1,Age group
+40503,Anaesthetics,45-54,2,Age group
+40503,Analeptics and opioid receptor antagonists,35-44,2,Age group
+40503,Cannabinoids,15-24,5,Age group
+40503,Cannabinoids,25-34,14,Age group
+40503,Cannabinoids,35-44,8,Age group
+40503,Cannabinoids,45-54,11,Age group
+40503,Cannabinoids,55-64,6,Age group
+40503,Cannabinoids,65+,1,Age group
+40503,Hallucinogens,25-34,1,Age group
+40503,Hallucinogens,35-44,1,Age group
+40503,Hallucinogens,45-54,1,Age group
+40503,Hallucinogens,55-64,1,Age group
+40503,Inhalants,25-34,1,Age group
+40503,Multiple drug use,15-24,8,Age group
+40503,Multiple drug use,25-34,7,Age group
+40503,Multiple drug use,35-44,10,Age group
+40503,Multiple drug use,45-54,8,Age group
+40503,Multiple drug use,55-64,4,Age group
+40503,Multiple drug use,65+,2,Age group
+40503,Non-opioid analgesic and antirheumatic,0-14,1,Age group
+40503,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40503,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40503,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40503,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40503,Non-opioid analgesic and antirheumatic,65+,3,Age group
+40503,Opioid,0-14,2,Age group
+40503,Opioid,15-24,4,Age group
+40503,Opioid,25-34,6,Age group
+40503,Opioid,35-44,11,Age group
+40503,Opioid,45-54,6,Age group
+40503,Opioid,55-64,1,Age group
+40503,Opioid,65+,4,Age group
+40503,Other,15-24,2,Age group
+40503,Other,25-34,3,Age group
+40503,Other,45-54,1,Age group
+40503,Psychostimulants,15-24,11,Age group
+40503,Psychostimulants,25-34,14,Age group
+40503,Psychostimulants,35-44,17,Age group
+40503,Psychostimulants,45-54,9,Age group
+40503,Psychostimulants,55-64,4,Age group
+40503,Psychostimulants,65+,6,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,5,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,3,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,2,Age group
+40503,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,3,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,4,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,3,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,7,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,3,Age group
+40503,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40503,Steroids or hormones,15-24,1,Age group
+40504,Alcohol,0-14,3,Age group
+40504,Alcohol,15-24,61,Age group
+40504,Alcohol,25-34,70,Age group
+40504,Alcohol,35-44,55,Age group
+40504,Alcohol,45-54,45,Age group
+40504,Alcohol,55-64,30,Age group
+40504,Alcohol,65+,21,Age group
+40504,All drug-related,0-14,5,Age group
+40504,All drug-related,15-24,130,Age group
+40504,All drug-related,25-34,173,Age group
+40504,All drug-related,35-44,142,Age group
+40504,All drug-related,45-54,96,Age group
+40504,All drug-related,55-64,59,Age group
+40504,All drug-related,65+,44,Age group
+40504,Anaesthetics,25-34,2,Age group
+40504,Anaesthetics,65+,1,Age group
+40504,Androgens and anabolic congeners,25-34,1,Age group
+40504,Androgens and anabolic congeners,55-64,1,Age group
+40504,Cannabinoids,15-24,10,Age group
+40504,Cannabinoids,25-34,9,Age group
+40504,Cannabinoids,35-44,16,Age group
+40504,Cannabinoids,45-54,5,Age group
+40504,Cannabinoids,55-64,7,Age group
+40504,Cannabinoids,65+,1,Age group
+40504,Hallucinogens,25-34,2,Age group
+40504,Hallucinogens,45-54,1,Age group
+40504,Hallucinogens,55-64,1,Age group
+40504,Inhalants,35-44,1,Age group
+40504,Inhalants,55-64,1,Age group
+40504,Inhalants,65+,1,Age group
+40504,Multiple drug use,15-24,8,Age group
+40504,Multiple drug use,25-34,13,Age group
+40504,Multiple drug use,35-44,8,Age group
+40504,Multiple drug use,45-54,6,Age group
+40504,Multiple drug use,65+,2,Age group
+40504,Non-opioid analgesic and antirheumatic,15-24,9,Age group
+40504,Non-opioid analgesic and antirheumatic,25-34,8,Age group
+40504,Non-opioid analgesic and antirheumatic,35-44,7,Age group
+40504,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40504,Non-opioid analgesic and antirheumatic,65+,2,Age group
+40504,Opioid,15-24,9,Age group
+40504,Opioid,25-34,18,Age group
+40504,Opioid,35-44,11,Age group
+40504,Opioid,45-54,4,Age group
+40504,Opioid,55-64,3,Age group
+40504,Opioid,65+,5,Age group
+40504,Other,15-24,2,Age group
+40504,Other,25-34,2,Age group
+40504,Other,35-44,2,Age group
+40504,Other,45-54,1,Age group
+40504,Other,55-64,1,Age group
+40504,Other,65+,1,Age group
+40504,Psychostimulants,0-14,2,Age group
+40504,Psychostimulants,15-24,14,Age group
+40504,Psychostimulants,25-34,28,Age group
+40504,Psychostimulants,35-44,27,Age group
+40504,Psychostimulants,45-54,19,Age group
+40504,Psychostimulants,55-64,10,Age group
+40504,Psychostimulants,65+,7,Age group
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,5,Age group
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,9,Age group
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,5,Age group
+40504,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,12,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,10,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,10,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,10,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,2,Age group
+40504,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,3,Age group
+40504,Steroids or hormones,25-34,1,Age group
+40601,Alcohol,0-14,1,Age group
+40601,Alcohol,15-24,24,Age group
+40601,Alcohol,25-34,21,Age group
+40601,Alcohol,35-44,13,Age group
+40601,Alcohol,45-54,18,Age group
+40601,Alcohol,55-64,8,Age group
+40601,Alcohol,65+,2,Age group
+40601,All drug-related,0-14,2,Age group
+40601,All drug-related,15-24,38,Age group
+40601,All drug-related,25-34,53,Age group
+40601,All drug-related,35-44,31,Age group
+40601,All drug-related,45-54,27,Age group
+40601,All drug-related,55-64,23,Age group
+40601,All drug-related,65+,8,Age group
+40601,Cannabinoids,15-24,4,Age group
+40601,Cannabinoids,25-34,4,Age group
+40601,Cannabinoids,35-44,5,Age group
+40601,Cannabinoids,45-54,2,Age group
+40601,Cannabinoids,55-64,3,Age group
+40601,Cannabinoids,65+,2,Age group
+40601,Hallucinogens,15-24,1,Age group
+40601,Hallucinogens,35-44,1,Age group
+40601,Multiple drug use,15-24,2,Age group
+40601,Multiple drug use,25-34,5,Age group
+40601,Multiple drug use,35-44,1,Age group
+40601,Multiple drug use,45-54,1,Age group
+40601,Multiple drug use,55-64,2,Age group
+40601,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40601,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40601,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40601,Non-opioid analgesic and antirheumatic,55-64,1,Age group
+40601,Opioid,25-34,4,Age group
+40601,Opioid,55-64,2,Age group
+40601,Opioid,65+,1,Age group
+40601,Psychostimulants,0-14,1,Age group
+40601,Psychostimulants,15-24,5,Age group
+40601,Psychostimulants,25-34,10,Age group
+40601,Psychostimulants,35-44,4,Age group
+40601,Psychostimulants,45-54,3,Age group
+40601,Psychostimulants,55-64,3,Age group
+40601,Psychostimulants,65+,2,Age group
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,1,Age group
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,3,Age group
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40601,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,1,Age group
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,2,Age group
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,2,Age group
+40601,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,3,Age group
+40602,Alcohol,0-14,1,Age group
+40602,Alcohol,15-24,47,Age group
+40602,Alcohol,25-34,60,Age group
+40602,Alcohol,35-44,41,Age group
+40602,Alcohol,45-54,47,Age group
+40602,Alcohol,55-64,16,Age group
+40602,Alcohol,65+,20,Age group
+40602,All drug-related,0-14,2,Age group
+40602,All drug-related,15-24,104,Age group
+40602,All drug-related,25-34,130,Age group
+40602,All drug-related,35-44,106,Age group
+40602,All drug-related,45-54,89,Age group
+40602,All drug-related,55-64,31,Age group
+40602,All drug-related,65+,35,Age group
+40602,Anaesthetics,65+,1,Age group
+40602,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40602,Cannabinoids,15-24,8,Age group
+40602,Cannabinoids,25-34,11,Age group
+40602,Cannabinoids,35-44,11,Age group
+40602,Cannabinoids,45-54,9,Age group
+40602,Cannabinoids,55-64,2,Age group
+40602,Cannabinoids,65+,2,Age group
+40602,Hallucinogens,25-34,3,Age group
+40602,Hallucinogens,35-44,1,Age group
+40602,Inhalants,55-64,1,Age group
+40602,Multiple drug use,15-24,9,Age group
+40602,Multiple drug use,25-34,11,Age group
+40602,Multiple drug use,35-44,12,Age group
+40602,Multiple drug use,45-54,5,Age group
+40602,Multiple drug use,55-64,3,Age group
+40602,Multiple drug use,65+,2,Age group
+40602,Non-opioid analgesic and antirheumatic,15-24,2,Age group
+40602,Non-opioid analgesic and antirheumatic,25-34,1,Age group
+40602,Non-opioid analgesic and antirheumatic,35-44,5,Age group
+40602,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40602,Non-opioid analgesic and antirheumatic,55-64,2,Age group
+40602,Non-opioid analgesic and antirheumatic,65+,2,Age group
+40602,Opioid,15-24,9,Age group
+40602,Opioid,25-34,14,Age group
+40602,Opioid,35-44,13,Age group
+40602,Opioid,45-54,3,Age group
+40602,Opioid,55-64,2,Age group
+40602,Opioid,65+,2,Age group
+40602,Other,15-24,1,Age group
+40602,Other,35-44,1,Age group
+40602,Other,45-54,1,Age group
+40602,Psychostimulants,15-24,17,Age group
+40602,Psychostimulants,25-34,16,Age group
+40602,Psychostimulants,35-44,12,Age group
+40602,Psychostimulants,45-54,14,Age group
+40602,Psychostimulants,55-64,5,Age group
+40602,Psychostimulants,65+,4,Age group
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,3,Age group
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,8,Age group
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40602,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,1,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,8,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,6,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,5,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,6,Age group
+40602,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,1,Age group
+40701,Alcohol,0-14,4,Age group
+40701,Alcohol,15-24,39,Age group
+40701,Alcohol,25-34,59,Age group
+40701,Alcohol,35-44,51,Age group
+40701,Alcohol,45-54,33,Age group
+40701,Alcohol,55-64,20,Age group
+40701,Alcohol,65+,10,Age group
+40701,All drug-related,0-14,8,Age group
+40701,All drug-related,15-24,95,Age group
+40701,All drug-related,25-34,119,Age group
+40701,All drug-related,35-44,103,Age group
+40701,All drug-related,45-54,78,Age group
+40701,All drug-related,55-64,40,Age group
+40701,All drug-related,65+,31,Age group
+40701,Anaesthetics,15-24,2,Age group
+40701,Anaesthetics,35-44,3,Age group
+40701,Anaesthetics,45-54,2,Age group
+40701,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40701,Cannabinoids,15-24,9,Age group
+40701,Cannabinoids,25-34,4,Age group
+40701,Cannabinoids,35-44,8,Age group
+40701,Cannabinoids,45-54,2,Age group
+40701,Cannabinoids,55-64,3,Age group
+40701,Cannabinoids,65+,4,Age group
+40701,Hallucinogens,15-24,3,Age group
+40701,Hallucinogens,25-34,1,Age group
+40701,Hallucinogens,35-44,3,Age group
+40701,Hallucinogens,45-54,1,Age group
+40701,Hallucinogens,65+,1,Age group
+40701,Inhalants,15-24,2,Age group
+40701,Inhalants,25-34,3,Age group
+40701,Inhalants,35-44,1,Age group
+40701,Multiple drug use,0-14,1,Age group
+40701,Multiple drug use,15-24,6,Age group
+40701,Multiple drug use,25-34,9,Age group
+40701,Multiple drug use,35-44,5,Age group
+40701,Multiple drug use,45-54,7,Age group
+40701,Multiple drug use,55-64,1,Age group
+40701,Multiple drug use,65+,1,Age group
+40701,Non-opioid analgesic and antirheumatic,0-14,2,Age group
+40701,Non-opioid analgesic and antirheumatic,15-24,3,Age group
+40701,Non-opioid analgesic and antirheumatic,25-34,1,Age group
+40701,Non-opioid analgesic and antirheumatic,35-44,2,Age group
+40701,Non-opioid analgesic and antirheumatic,45-54,2,Age group
+40701,Non-opioid analgesic and antirheumatic,65+,1,Age group
+40701,Opioid,15-24,8,Age group
+40701,Opioid,25-34,9,Age group
+40701,Opioid,35-44,4,Age group
+40701,Opioid,45-54,7,Age group
+40701,Opioid,55-64,4,Age group
+40701,Opioid,65+,3,Age group
+40701,Other,15-24,2,Age group
+40701,Other,25-34,1,Age group
+40701,Other,35-44,1,Age group
+40701,Other,45-54,1,Age group
+40701,Other,55-64,2,Age group
+40701,Psychostimulants,15-24,16,Age group
+40701,Psychostimulants,25-34,17,Age group
+40701,Psychostimulants,35-44,16,Age group
+40701,Psychostimulants,45-54,13,Age group
+40701,Psychostimulants,55-64,5,Age group
+40701,Psychostimulants,65+,5,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,5,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,5,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,5,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40701,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,3,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,1,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,9,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,4,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,8,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,4,Age group
+40701,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40701,Steroids or hormones,65+,1,Age group
+40702,Alcohol,0-14,1,Age group
+40702,Alcohol,15-24,33,Age group
+40702,Alcohol,25-34,39,Age group
+40702,Alcohol,35-44,34,Age group
+40702,Alcohol,45-54,14,Age group
+40702,Alcohol,55-64,9,Age group
+40702,Alcohol,65+,9,Age group
+40702,All drug-related,0-14,3,Age group
+40702,All drug-related,15-24,65,Age group
+40702,All drug-related,25-34,79,Age group
+40702,All drug-related,35-44,73,Age group
+40702,All drug-related,45-54,39,Age group
+40702,All drug-related,55-64,23,Age group
+40702,All drug-related,65+,23,Age group
+40702,Anaesthetics,15-24,1,Age group
+40702,Anaesthetics,25-34,1,Age group
+40702,Anaesthetics,45-54,1,Age group
+40702,Anaesthetics,55-64,1,Age group
+40702,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40702,Analeptics and opioid receptor antagonists,45-54,1,Age group
+40702,Cannabinoids,0-14,1,Age group
+40702,Cannabinoids,15-24,4,Age group
+40702,Cannabinoids,25-34,6,Age group
+40702,Cannabinoids,35-44,3,Age group
+40702,Cannabinoids,45-54,3,Age group
+40702,Cannabinoids,55-64,1,Age group
+40702,Cannabinoids,65+,2,Age group
+40702,Hallucinogens,15-24,1,Age group
+40702,Hallucinogens,35-44,1,Age group
+40702,Hallucinogens,55-64,2,Age group
+40702,Inhalants,25-34,2,Age group
+40702,Multiple drug use,15-24,4,Age group
+40702,Multiple drug use,25-34,4,Age group
+40702,Multiple drug use,35-44,7,Age group
+40702,Multiple drug use,45-54,2,Age group
+40702,Multiple drug use,55-64,3,Age group
+40702,Multiple drug use,65+,3,Age group
+40702,Non-opioid analgesic and antirheumatic,25-34,3,Age group
+40702,Non-opioid analgesic and antirheumatic,45-54,1,Age group
+40702,Opioid,0-14,1,Age group
+40702,Opioid,15-24,5,Age group
+40702,Opioid,25-34,8,Age group
+40702,Opioid,35-44,8,Age group
+40702,Opioid,45-54,6,Age group
+40702,Opioid,55-64,2,Age group
+40702,Opioid,65+,4,Age group
+40702,Other,35-44,1,Age group
+40702,Psychostimulants,15-24,9,Age group
+40702,Psychostimulants,25-34,13,Age group
+40702,Psychostimulants,35-44,15,Age group
+40702,Psychostimulants,45-54,7,Age group
+40702,Psychostimulants,55-64,5,Age group
+40702,Psychostimulants,65+,1,Age group
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,1,Age group
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,1,Age group
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,2,Age group
+40702,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,8,Age group
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,1,Age group
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,3,Age group
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,2,Age group
+40702,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,2,Age group
+40703,Alcohol,15-24,62,Age group
+40703,Alcohol,25-34,72,Age group
+40703,Alcohol,35-44,59,Age group
+40703,Alcohol,45-54,46,Age group
+40703,Alcohol,55-64,22,Age group
+40703,Alcohol,65+,28,Age group
+40703,All drug-related,0-14,6,Age group
+40703,All drug-related,15-24,131,Age group
+40703,All drug-related,25-34,162,Age group
+40703,All drug-related,35-44,124,Age group
+40703,All drug-related,45-54,86,Age group
+40703,All drug-related,55-64,40,Age group
+40703,All drug-related,65+,45,Age group
+40703,Anaesthetics,15-24,1,Age group
+40703,Anaesthetics,25-34,1,Age group
+40703,Anaesthetics,35-44,3,Age group
+40703,Anaesthetics,65+,1,Age group
+40703,Analeptics and opioid receptor antagonists,25-34,1,Age group
+40703,Analeptics and opioid receptor antagonists,35-44,2,Age group
+40703,Analeptics and opioid receptor antagonists,65+,1,Age group
+40703,Androgens and anabolic congeners,15-24,1,Age group
+40703,Cannabinoids,15-24,11,Age group
+40703,Cannabinoids,25-34,14,Age group
+40703,Cannabinoids,35-44,3,Age group
+40703,Cannabinoids,45-54,4,Age group
+40703,Cannabinoids,55-64,2,Age group
+40703,Cannabinoids,65+,1,Age group
+40703,Hallucinogens,15-24,2,Age group
+40703,Hallucinogens,25-34,2,Age group
+40703,Hallucinogens,35-44,1,Age group
+40703,Hallucinogens,45-54,1,Age group
+40703,Inhalants,15-24,1,Age group
+40703,Inhalants,25-34,4,Age group
+40703,Inhalants,45-54,1,Age group
+40703,Multiple drug use,0-14,1,Age group
+40703,Multiple drug use,15-24,9,Age group
+40703,Multiple drug use,25-34,14,Age group
+40703,Multiple drug use,35-44,10,Age group
+40703,Multiple drug use,45-54,7,Age group
+40703,Multiple drug use,55-64,3,Age group
+40703,Multiple drug use,65+,2,Age group
+40703,Non-opioid analgesic and antirheumatic,15-24,5,Age group
+40703,Non-opioid analgesic and antirheumatic,25-34,4,Age group
+40703,Non-opioid analgesic and antirheumatic,35-44,6,Age group
+40703,Non-opioid analgesic and antirheumatic,45-54,3,Age group
+40703,Non-opioid analgesic and antirheumatic,65+,2,Age group
+40703,Opioid,0-14,1,Age group
+40703,Opioid,15-24,11,Age group
+40703,Opioid,25-34,10,Age group
+40703,Opioid,35-44,10,Age group
+40703,Opioid,45-54,8,Age group
+40703,Opioid,55-64,1,Age group
+40703,Opioid,65+,3,Age group
+40703,Other,25-34,2,Age group
+40703,Other,45-54,1,Age group
+40703,Psychostimulants,0-14,2,Age group
+40703,Psychostimulants,15-24,15,Age group
+40703,Psychostimulants,25-34,21,Age group
+40703,Psychostimulants,35-44,19,Age group
+40703,Psychostimulants,45-54,11,Age group
+40703,Psychostimulants,55-64,9,Age group
+40703,Psychostimulants,65+,4,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15-24,7,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25-34,6,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35-44,3,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",45-54,1,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",55-64,1,Age group
+40703,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",65+,2,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",0-14,2,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",15-24,6,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",25-34,11,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",35-44,8,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",45-54,3,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",55-64,2,Age group
+40703,"Sedative-hypnotics, antiepileptics and antiparkinson",65+,1,Age group

@@ -1,0 +1,269 @@
+diagnosis_code,diagnosis_description,diagnosis_group
+E52,Niacin deficiency [pellagra],Alcohol
+F10.0,"Mental and behavioural disorders due to use of alcohol, acute intoxication",Alcohol
+F10.1,"Mental and behavioural disorders due to use of alcohol, harmful use",Alcohol
+F10.2,"Mental and behavioural disorders due to use of alcohol, dependence syndrome",Alcohol
+F10.3,"Mental and behavioural disorders due to use of alcohol, withdrawal state",Alcohol
+F10.4,"Mental and behavioural disorders due to use of alcohol, withdrawal state with delirium",Alcohol
+F10.5,"Mental and behavioural disorders due to use of alcohol, psychotic disorder",Alcohol
+F10.6,"Mental and behavioural disorders due to use of alcohol, amnesic syndrome",Alcohol
+F10.7,"Mental and behavioural disorders due to use of alcohol, residual and late-onset psychotic disorder",Alcohol
+F10.8,"Mental and behavioural disorders due to use of alcohol, other mental and behavioural disorders",Alcohol
+F10.9,"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder",Alcohol
+G31.2,Degeneration of nervous system due to alcohol,Alcohol
+G62.1,Alcoholic polyneuropathy,Alcohol
+G72.1,Alcoholic myopathy,Alcohol
+I42.6,Alcoholic cardiomyopathy,Alcohol
+K29.2,Alcoholic gastritis,Alcohol
+K29.20,Alcoholic gastritis (ICD-10-AM fifth-character subdivision 0),Alcohol
+K29.21,Alcoholic gastritis (ICD-10-AM fifth-character subdivision 1),Alcohol
+K70.0,Alcoholic fatty liver,Alcohol
+K70.1,Alcoholic hepatitis,Alcohol
+K70.2,Alcoholic fibrosis and sclerosis of liver,Alcohol
+K70.3,Alcoholic cirrhosis of liver,Alcohol
+K70.4,Alcoholic hepatic failure,Alcohol
+K70.9,"Alcoholic liver disease, unspecified",Alcohol
+K85.2,Alcohol-induced acute pancreatitis,Alcohol
+K86.0,Alcohol-induced chronic pancreatitis,Alcohol
+T51.0,Toxic effect of ethanol,Alcohol
+T51.1,Toxic effect of methanol,Alcohol
+T51.2,Toxic effect of 2-propanol,Alcohol
+X45,Accidental poisoning by and exposure to alcohol,Alcohol
+X65,Intentional self-poisoning by and exposure to alcohol,Alcohol
+T41.0,Poisoning by inhaled anaesthetics,Anaesthetics
+T41.1,Poisoning by intravenous anaesthetics,Anaesthetics
+T41.2,Poisoning by other and unspecified general anaesthetics,Anaesthetics
+T41.20,Poisoning by other and unspecified general anaesthetics (ICD-10-AM fifth-character subdivision 0),Anaesthetics
+T41.21,Poisoning by other and unspecified general anaesthetics (ICD-10-AM fifth-character subdivision 1),Anaesthetics
+T41.22,Poisoning by other and unspecified general anaesthetics (ICD-10-AM fifth-character subdivision 2),Anaesthetics
+T41.29,Poisoning by other and unspecified general anaesthetics (ICD-10-AM fifth-character subdivision 9),Anaesthetics
+T50.7,Poisoning by analeptics and opioid receptor antagonists,Analeptics and opioid receptor antagonists
+T38.7,Poisoning by androgens and anabolic congeners,Androgens and anabolic congeners
+F12.0,"Mental and behavioural disorders due to use of cannabinoids, acute intoxication",Cannabinoids
+F12.1,"Mental and behavioural disorders due to use of cannabinoids, harmful use",Cannabinoids
+F12.2,"Mental and behavioural disorders due to use of cannabinoids, dependence syndrome",Cannabinoids
+F12.3,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state",Cannabinoids
+F12.4,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium",Cannabinoids
+F12.5,"Mental and behavioural disorders due to use of cannabinoids, psychotic disorder",Cannabinoids
+F12.6,"Mental and behavioural disorders due to use of cannabinoids, amnesic syndrome",Cannabinoids
+F12.7,"Mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder",Cannabinoids
+F12.8,"Mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders",Cannabinoids
+F12.9,"Mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder",Cannabinoids
+T40.7,Poisoning by cannabis (derivatives),Cannabinoids
+F16.0,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication",Hallucinogens
+F16.1,"Mental and behavioural disorders due to use of hallucinogens, harmful use",Hallucinogens
+F16.2,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome",Hallucinogens
+F16.3,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state",Hallucinogens
+F16.4,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium",Hallucinogens
+F16.5,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder",Hallucinogens
+F16.6,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome",Hallucinogens
+F16.7,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder",Hallucinogens
+F16.8,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders",Hallucinogens
+F16.9,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder",Hallucinogens
+F16.00,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.01,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.09,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.11,"Mental and behavioural disorders due to use of hallucinogens, harmful use (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.19,"Mental and behavioural disorders due to use of hallucinogens, harmful use (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.20,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.21,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.29,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.30,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.31,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.39,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.40,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.41,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.49,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.51,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.59,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.60,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.61,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.69,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.70,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.71,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.79,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.80,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.81,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.89,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+F16.90,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 0)",Hallucinogens
+F16.91,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 1)",Hallucinogens
+F16.99,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 9)",Hallucinogens
+T40.8,Poisoning by lysergide [LSD],Hallucinogens
+T40.9,Poisoning by other and unspecified psychodysleptics [hallucinogens],Hallucinogens
+X42,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], NEC",Hallucinogens
+X62,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], NEC",Hallucinogens
+F18.0,"Mental and behavioural disorders due to use of volatile solvents, acute intoxication",Inhalants
+F18.1,"Mental and behavioural disorders due to use of volatile solvents, harmful use",Inhalants
+F18.2,"Mental and behavioural disorders due to use of volatile solvents, dependence syndrome",Inhalants
+F18.3,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state",Inhalants
+F18.4,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium",Inhalants
+F18.5,"Mental and behavioural disorders due to use of volatile solvents, psychotic disorder",Inhalants
+F18.6,"Mental and behavioural disorders due to use of volatile solvents, amnesic syndrome",Inhalants
+F18.7,"Mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder",Inhalants
+F18.8,"Mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders",Inhalants
+F18.9,"Mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder",Inhalants
+X46,Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours,Inhalants
+X66,Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours,Inhalants
+F19.0,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, acute intoxication",Multiple drug use
+F19.1,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, harmful use",Multiple drug use
+F19.2,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, dependence syndrome",Multiple drug use
+F19.3,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, withdrawal state",Multiple drug use
+F19.4,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, withdrawal state with delirium",Multiple drug use
+F19.5,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, psychotic disorder",Multiple drug use
+F19.6,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, amnesic syndrome",Multiple drug use
+F19.7,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, residual and late-onset psychotic disorder",Multiple drug use
+F19.8,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, other mental and behavioural disorders",Multiple drug use
+F19.9,"Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances, unspecified mental and behavioural disorder",Multiple drug use
+F55.2,Abuse of non-dependence-producing substances: analgesics,Non-opioid analgesic and antirheumatic
+T39.0,Poisoning by salicylates,Non-opioid analgesic and antirheumatic
+T39.1,Poisoning by 4-aminophenol derivatives,Non-opioid analgesic and antirheumatic
+T39.3,Poisoning by other nonsteroidal anti-inflammatory drugs [NSAID],Non-opioid analgesic and antirheumatic
+T39.4,"Poisoning by antirheumatics, not elsewhere classified",Non-opioid analgesic and antirheumatic
+T39.8,"Poisoning by other nonopioid analgesics and antipyretics, NEC",Non-opioid analgesic and antirheumatic
+T39.9,"Poisoning by nonopioid analgesic, antipyretic and antirheumatic, unspecified",Non-opioid analgesic and antirheumatic
+X40,"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",Non-opioid analgesic and antirheumatic
+X60,"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",Non-opioid analgesic and antirheumatic
+F11.0,"Mental and behavioural disorders due to use of opioids, acute intoxication",Opioid
+F11.1,"Mental and behavioural disorders due to use of opioids, harmful use",Opioid
+F11.2,"Mental and behavioural disorders due to use of opioids, dependence syndrome",Opioid
+F11.3,"Mental and behavioural disorders due to use of opioids, withdrawal state",Opioid
+F11.4,"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium",Opioid
+F11.5,"Mental and behavioural disorders due to use of opioids, psychotic disorder",Opioid
+F11.6,"Mental and behavioural disorders due to use of opioids, amnesic syndrome",Opioid
+F11.7,"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder",Opioid
+F11.8,"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders",Opioid
+F11.9,"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder",Opioid
+T40.0,Poisoning by opium,Opioid
+T40.1,Poisoning by heroin,Opioid
+T40.2,Poisoning by other opioids,Opioid
+T40.3,Poisoning by methadone,Opioid
+T40.4,Poisoning by other synthetic narcotics,Opioid
+T40.6,Poisoning by other and unspecified narcotics,Opioid
+F14.0,"Mental and behavioural disorders due to use of cocaine, acute intoxication",Psychostimulants
+F14.1,"Mental and behavioural disorders due to use of cocaine, harmful use",Psychostimulants
+F14.2,"Mental and behavioural disorders due to use of cocaine, dependence syndrome",Psychostimulants
+F14.3,"Mental and behavioural disorders due to use of cocaine, withdrawal state",Psychostimulants
+F14.4,"Mental and behavioural disorders due to use of cocaine, withdrawal state with delirium",Psychostimulants
+F14.5,"Mental and behavioural disorders due to use of cocaine, psychotic disorder",Psychostimulants
+F14.6,"Mental and behavioural disorders due to use of cocaine, amnesic syndrome",Psychostimulants
+F14.7,"Mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder",Psychostimulants
+F14.8,"Mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders",Psychostimulants
+F14.9,"Mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder",Psychostimulants
+F15.0,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication",Psychostimulants
+F15.1,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use",Psychostimulants
+F15.2,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome",Psychostimulants
+F15.3,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state",Psychostimulants
+F15.4,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium",Psychostimulants
+F15.5,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder",Psychostimulants
+F15.6,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome",Psychostimulants
+F15.7,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder",Psychostimulants
+F15.8,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders",Psychostimulants
+F15.9,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder",Psychostimulants
+F15.00,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.01,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.02,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.09,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.10,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.11,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.12,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.19,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.20,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.21,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.22,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.29,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.30,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.31,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.32,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.39,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.40,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.41,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.42,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.49,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.50,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.51,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.52,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.59,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.60,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.61,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.62,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.69,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.70,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.71,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.72,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.79,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.80,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.81,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.82,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.89,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+F15.90,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 0)",Psychostimulants
+F15.91,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 1)",Psychostimulants
+F15.92,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 2)",Psychostimulants
+F15.99,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 9)",Psychostimulants
+T40.5,Poisoning by cocaine,Psychostimulants
+T43.6,Poisoning by psychostimulants with abuse potential,Psychostimulants
+T43.60,Poisoning by psychostimulants with abuse potential (ICD-10-AM fifth-character subdivision 0),Psychostimulants
+T43.61,Poisoning by psychostimulants with abuse potential (ICD-10-AM fifth-character subdivision 1),Psychostimulants
+T43.62,Poisoning by psychostimulants with abuse potential (ICD-10-AM fifth-character subdivision 2),Psychostimulants
+T43.69,Poisoning by psychostimulants with abuse potential (ICD-10-AM fifth-character subdivision 9),Psychostimulants
+F55.0,Abuse of non-dependence-producing substances: antidepressants,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.0,Poisoning by tricyclic and tetracyclic antidepressants,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.1,Poisoning by monoamine-oxidase-inhibitor antidepressants,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.2,Poisoning by other and unspecified antidepressants,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.3,Poisoning by phenothiazine antipsychotics and neuroleptics,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.4,Poisoning by butyrophenone and thioxanthene neuroleptics,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.5,Poisoning by other and unspecified antipsychotics and neuroleptics,"Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.8,"Poisoning by other psychotropic drugs, not elsewhere classified","Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+T43.9,"Poisoning by psychotropic drug, unspecified","Psychotropics (antidepressants, antipsychotics and neuroleptics)"
+F13.0,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.1,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.2,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.3,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.4,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.5,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.6,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.7,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.8,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.9,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.00,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.01,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.09,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.10,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.11,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.19,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.20,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.21,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.29,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.30,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.31,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.39,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.40,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.41,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.49,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.50,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.51,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.59,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.60,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.61,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.69,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.70,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.71,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.79,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.80,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.81,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.89,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.90,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 0)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.91,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 1)","Sedative-hypnotics, antiepileptics and antiparkinson"
+F13.99,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder (ICD-10-AM fifth-character subdivision 9)","Sedative-hypnotics, antiepileptics and antiparkinson"
+T42.3,Poisoning by barbiturates,"Sedative-hypnotics, antiepileptics and antiparkinson"
+T42.4,Poisoning by benzodiazepines,"Sedative-hypnotics, antiepileptics and antiparkinson"
+T42.5,"Poisoning by mixed antiepileptics, not elsewhere classified","Sedative-hypnotics, antiepileptics and antiparkinson"
+T42.6,Poisoning by other antiepileptic and sedative-hypnotic drugs,"Sedative-hypnotics, antiepileptics and antiparkinson"
+T42.7,"Poisoning by antiepileptic and sedative-hypnotic drugs, unspecified","Sedative-hypnotics, antiepileptics and antiparkinson"
+X41,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, NEC","Sedative-hypnotics, antiepileptics and antiparkinson"
+X61,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, NEC","Sedative-hypnotics, antiepileptics and antiparkinson"
+F55.5,Abuse of non-dependence-producing substances: steroids or hormones,Steroids or hormones
+K85.3,Drug-induced acute pancreatitis,Other
+X43,Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system,Other
+X44,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",Other
+X63,Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system,Other
+X64,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",Other

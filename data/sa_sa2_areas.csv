@@ -1,0 +1,175 @@
+area_code,area_name,population,seifa_quintile,remoteness
+401011001,Adelaide,4147,Q2,Inner Regional Australia
+401011002,North Adelaide,9678,Q3,Outer Regional Australia
+401021003,Adelaide Hills,7607,Q4,Remote Australia
+401021004,Aldgate - Stirling,6446,Q5 - least disadvantaged,Very Remote Australia
+401021005,Hahndorf - Echunga,6259,Q1 - most disadvantaged,Very Remote Australia
+401021006,Lobethal - Woodside,11486,Q2,Very Remote Australia
+401021007,Mount Barker,12861,Q3,Major Cities of Australia
+401021008,Mount Barker Surrounds,4128,Q4,Inner Regional Australia
+401021009,Nairne,9833,Q5 - least disadvantaged,Outer Regional Australia
+401021010,Uraidla - Summertown,5579,Q1 - most disadvantaged,Remote Australia
+401031011,Burnside - Wattle Park,13603,Q2,Very Remote Australia
+401031012,Beaumont - Glen Osmond,13038,Q3,Very Remote Australia
+401031013,Toorak Gardens,9630,Q4,Very Remote Australia
+401041014,Athelstone,11032,Q5 - least disadvantaged,Major Cities of Australia
+401041015,Paradise - Newton,8181,Q1 - most disadvantaged,Inner Regional Australia
+401041016,Rostrevor - Magill,11910,Q2,Outer Regional Australia
+401051017,Norwood (SA),7380,Q3,Remote Australia
+401051018,Payneham - Felixstow,6065,Q4,Very Remote Australia
+401051019,St Peters - Marden,5334,Q5 - least disadvantaged,Very Remote Australia
+401061020,Nailsworth - Broadview,4715,Q1 - most disadvantaged,Very Remote Australia
+401061021,Prospect,8309,Q2,Major Cities of Australia
+401061022,Walkerville,7170,Q3,Inner Regional Australia
+401071023,Goodwood - Millswood,9958,Q4,Outer Regional Australia
+401071024,Unley - Parkside,2154,Q5 - least disadvantaged,Remote Australia
+402011025,Gawler - North,7372,Q1 - most disadvantaged,Very Remote Australia
+402011026,Gawler - South,6382,Q2,Very Remote Australia
+402011027,Lewiston - Two Wells,4344,Q3,Very Remote Australia
+402021028,Craigmore - Blakeview,9138,Q4,Major Cities of Australia
+402021029,Davoren Park,7223,Q5 - least disadvantaged,Inner Regional Australia
+402021030,Elizabeth,5599,Q1 - most disadvantaged,Outer Regional Australia
+402021031,Elizabeth East,4512,Q2,Remote Australia
+402021032,Munno Para West - Angle Vale,12495,Q3,Very Remote Australia
+402021033,One Tree Hill,11569,Q4,Very Remote Australia
+402021034,Smithfield - Elizabeth North,9280,Q5 - least disadvantaged,Very Remote Australia
+402021035,Virginia - Waterloo Corner,6141,Q1 - most disadvantaged,Major Cities of Australia
+402031036,Enfield - Blair Athol,13361,Q2,Inner Regional Australia
+402031038,Windsor Gardens,8760,Q4,Remote Australia
+402031175,Northgate - Northfield,7193,Q1 - most disadvantaged,Major Cities of Australia
+402031176,Valley View - Gilles Plains,12805,Q2,Inner Regional Australia
+402041039,Dry Creek - North,5832,Q5 - least disadvantaged,Very Remote Australia
+402041040,Ingle Farm,10351,Q1 - most disadvantaged,Very Remote Australia
+402041041,Para Hills,5765,Q2,Very Remote Australia
+402041042,Parafield,5138,Q3,Major Cities of Australia
+402041043,Parafield Gardens,10410,Q4,Inner Regional Australia
+402041044,Paralowie,4734,Q5 - least disadvantaged,Outer Regional Australia
+402041046,Salisbury,7917,Q2,Very Remote Australia
+402041047,Salisbury East,8960,Q3,Very Remote Australia
+402041048,Salisbury North,4266,Q4,Very Remote Australia
+402041171,Mawson Lakes - Globe Derby Park,10774,Q2,Remote Australia
+402041172,Pooraka - Cavan,8581,Q3,Very Remote Australia
+402051049,Golden Grove,9458,Q5 - least disadvantaged,Major Cities of Australia
+402051050,Greenwith,6465,Q1 - most disadvantaged,Inner Regional Australia
+402051051,Highbury - Dernancourt,7042,Q2,Outer Regional Australia
+402051052,Hope Valley - Modbury,7937,Q3,Remote Australia
+402051053,Modbury Heights,7639,Q4,Very Remote Australia
+402051054,Redwood Park,10107,Q5 - least disadvantaged,Very Remote Australia
+402051055,St Agnes - Ridgehaven,8926,Q1 - most disadvantaged,Very Remote Australia
+403011056,Brighton (SA),6995,Q2,Major Cities of Australia
+403011057,Glenelg (SA),2021,Q3,Inner Regional Australia
+403021058,Edwardstown,11528,Q4,Outer Regional Australia
+403021059,Hallett Cove,8232,Q5 - least disadvantaged,Remote Australia
+403021060,Marino - Seaview Downs,5918,Q1 - most disadvantaged,Very Remote Australia
+403021061,Mitchell Park,7999,Q2,Very Remote Australia
+403021062,Morphettville,3121,Q3,Very Remote Australia
+403021063,Sheidow Park - Trott Park,12856,Q4,Major Cities of Australia
+403021064,Warradale,13876,Q5 - least disadvantaged,Inner Regional Australia
+403031065,Belair,2704,Q1 - most disadvantaged,Outer Regional Australia
+403031066,Bellevue Heights,6298,Q2,Remote Australia
+403031067,Blackwood,10760,Q3,Very Remote Australia
+403031068,Colonel Light Gardens,5770,Q4,Very Remote Australia
+403031069,Mitcham (SA),8804,Q5 - least disadvantaged,Very Remote Australia
+403031070,Panorama,6998,Q1 - most disadvantaged,Major Cities of Australia
+403041071,Aberfoyle Park,11290,Q2,Inner Regional Australia
+403041072,Aldinga,13501,Q3,Outer Regional Australia
+403041073,Christie Downs,12660,Q4,Remote Australia
+403041074,Christies Beach,9451,Q5 - least disadvantaged,Very Remote Australia
+403041075,Clarendon,3923,Q1 - most disadvantaged,Very Remote Australia
+403041076,Coromandel Valley,13364,Q2,Very Remote Australia
+403041077,Flagstaff Hill,2283,Q3,Major Cities of Australia
+403041078,Hackham - Onkaparinga Hills,5572,Q4,Inner Regional Australia
+403041079,Hackham West - Huntfield Heights,5379,Q5 - least disadvantaged,Outer Regional Australia
+403041080,Happy Valley,10061,Q1 - most disadvantaged,Remote Australia
+403041081,Happy Valley Reservoir,7848,Q2,Very Remote Australia
+403041082,Lonsdale,3114,Q3,Very Remote Australia
+403041083,McLaren Vale,2154,Q4,Very Remote Australia
+403041084,Morphett Vale - East,9251,Q5 - least disadvantaged,Major Cities of Australia
+403041085,Morphett Vale - West,7897,Q1 - most disadvantaged,Inner Regional Australia
+403041086,Reynella,9216,Q2,Outer Regional Australia
+403041088,Willunga,8768,Q4,Very Remote Australia
+403041089,Woodcroft,12685,Q5 - least disadvantaged,Very Remote Australia
+403041177,Seaford - Seaford Meadows,13020,Q3,Outer Regional Australia
+403041178,Seaford Rise - Moana,4259,Q4,Remote Australia
+404011090,Beverley,13305,Q1 - most disadvantaged,Very Remote Australia
+404011091,Flinders Park,11452,Q2,Major Cities of Australia
+404011092,Henley Beach,9668,Q3,Inner Regional Australia
+404011093,Hindmarsh - Brompton,9915,Q4,Outer Regional Australia
+404011094,Royal Park - Hendon - Albert Park,8552,Q5 - least disadvantaged,Remote Australia
+404011095,Seaton - Grange,13007,Q1 - most disadvantaged,Very Remote Australia
+404011096,West Lakes,4799,Q2,Very Remote Australia
+404011097,Woodville - Cheltenham,9191,Q3,Very Remote Australia
+404021098,Dry Creek - South,11770,Q4,Major Cities of Australia
+404021099,Largs Bay - Semaphore,3617,Q5 - least disadvantaged,Inner Regional Australia
+404021100,North Haven,9386,Q1 - most disadvantaged,Outer Regional Australia
+404021101,Port Adelaide,6834,Q2,Remote Australia
+404021102,The Parks,11192,Q3,Very Remote Australia
+404021103,Torrens Island,2812,Q4,Very Remote Australia
+404031104,Adelaide Airport,9281,Q5 - least disadvantaged,Very Remote Australia
+404031105,Fulham,12284,Q1 - most disadvantaged,Major Cities of Australia
+404031106,Lockleys,9540,Q2,Inner Regional Australia
+404031107,Plympton,5856,Q3,Outer Regional Australia
+404031108,Richmond (SA),9869,Q4,Remote Australia
+404031109,West Beach,6057,Q5 - least disadvantaged,Very Remote Australia
+405011110,Barossa - Angaston,10023,Q1 - most disadvantaged,Very Remote Australia
+405011111,Light,3540,Q2,Very Remote Australia
+405011112,Lyndoch,5359,Q3,Major Cities of Australia
+405011113,Mallala,2392,Q4,Inner Regional Australia
+405011114,Nuriootpa,3006,Q5 - least disadvantaged,Outer Regional Australia
+405011115,Tanunda,8657,Q1 - most disadvantaged,Remote Australia
+405021116,Clare,4780,Q2,Very Remote Australia
+405021117,Gilbert Valley,8192,Q3,Very Remote Australia
+405021118,Goyder,9914,Q4,Very Remote Australia
+405021119,Wakefield - Barunga West,12574,Q5 - least disadvantaged,Major Cities of Australia
+405031120,Jamestown,6260,Q1 - most disadvantaged,Inner Regional Australia
+405031121,Peterborough - Mount Remarkable,5824,Q2,Outer Regional Australia
+405031122,Port Pirie,5764,Q3,Remote Australia
+405031123,Port Pirie Surrounds,3414,Q4,Very Remote Australia
+405041124,Kadina,9958,Q5 - least disadvantaged,Very Remote Australia
+405041125,Moonta,11835,Q1 - most disadvantaged,Very Remote Australia
+405041126,Wallaroo,7676,Q2,Major Cities of Australia
+405041127,Yorke Peninsula - North,8699,Q3,Inner Regional Australia
+405041128,Yorke Peninsula - South,13501,Q4,Outer Regional Australia
+406011129,Ceduna,10386,Q5 - least disadvantaged,Remote Australia
+406011130,Eyre Peninsula,10940,Q1 - most disadvantaged,Very Remote Australia
+406011131,Kimba - Cleve - Franklin Harbour,12673,Q2,Very Remote Australia
+406011132,Le Hunte - Elliston,4589,Q3,Very Remote Australia
+406011133,Port Lincoln,9801,Q4,Major Cities of Australia
+406011134,West Coast (SA),10608,Q5 - least disadvantaged,Inner Regional Australia
+406011135,Western,12106,Q1 - most disadvantaged,Outer Regional Australia
+406011136,Whyalla,6125,Q2,Remote Australia
+406011137,Whyalla - North,10265,Q3,Very Remote Australia
+406021138,APY Lands,9252,Q4,Very Remote Australia
+406021139,Coober Pedy,6912,Q5 - least disadvantaged,Very Remote Australia
+406021140,Quorn - Lake Gilles,3220,Q1 - most disadvantaged,Major Cities of Australia
+406021141,Outback,6236,Q2,Inner Regional Australia
+406021142,Port Augusta,13561,Q3,Outer Regional Australia
+406021143,Roxby Downs,4598,Q4,Remote Australia
+407011144,Goolwa - Port Elliot,3363,Q5 - least disadvantaged,Very Remote Australia
+407011145,Kangaroo Island,6412,Q1 - most disadvantaged,Very Remote Australia
+407011146,Strathalbyn,3211,Q2,Very Remote Australia
+407011147,Strathalbyn Surrounds,5206,Q3,Major Cities of Australia
+407011148,Victor Harbor,12973,Q4,Inner Regional Australia
+407011149,Yankalilla,5825,Q5 - least disadvantaged,Outer Regional Australia
+407021150,Grant,9030,Q1 - most disadvantaged,Remote Australia
+407021151,Kingston - Robe,4864,Q2,Very Remote Australia
+407021152,Millicent,10015,Q3,Very Remote Australia
+407021154,Naracoorte,3531,Q5 - least disadvantaged,Major Cities of Australia
+407021155,Naracoorte Surrounds,11477,Q1 - most disadvantaged,Inner Regional Australia
+407021156,Penola,7075,Q2,Outer Regional Australia
+407021157,Tatiara,4203,Q3,Remote Australia
+407021158,Wattle Range,11098,Q4,Very Remote Australia
+407021173,Mount Gambier - East,8651,Q4,Very Remote Australia
+407021174,Mount Gambier - West,7257,Q5 - least disadvantaged,Very Remote Australia
+407031159,Barmera,4887,Q5 - least disadvantaged,Very Remote Australia
+407031160,Berri,11376,Q1 - most disadvantaged,Very Remote Australia
+407031161,Karoonda - Lameroo,6383,Q2,Major Cities of Australia
+407031162,Loxton,2517,Q3,Inner Regional Australia
+407031163,Loxton Surrounds,13584,Q4,Outer Regional Australia
+407031164,Mannum,2365,Q5 - least disadvantaged,Remote Australia
+407031165,Murray Bridge,3445,Q1 - most disadvantaged,Very Remote Australia
+407031166,Murray Bridge Surrounds,7589,Q2,Very Remote Australia
+407031167,Renmark,4494,Q3,Very Remote Australia
+407031168,Renmark Surrounds,6021,Q4,Major Cities of Australia
+407031169,The Coorong,8810,Q5 - least disadvantaged,Inner Regional Australia
+407031170,Waikerie,13494,Q1 - most disadvantaged,Outer Regional Australia

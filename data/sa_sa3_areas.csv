@@ -1,0 +1,29 @@
+area_code,area_name,population,seifa_quintile,remoteness
+40101,Adelaide City,14620,Q2,Remote Australia
+40102,Adelaide Hills,31676,Q3,Very Remote Australia
+40103,Burnside,25288,Q4,Very Remote Australia
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia
+40107,Unley,41490,Q3,Outer Regional Australia
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia
+40202,Playford,32153,Q3,Very Remote Australia
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia
+40302,Marion,35851,Q3,Inner Regional Australia
+40303,Mitcham,27060,Q4,Outer Regional Australia
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia
+40401,Charles Sturt,24590,Q2,Outer Regional Australia
+40402,Port Adelaide - West,20536,Q3,Remote Australia
+40403,West Torrens,18282,Q4,Very Remote Australia
+40501,Barossa,16374,Q2,Very Remote Australia
+40502,Lower North,27455,Q3,Very Remote Australia
+40503,Mid North,23943,Q4,Very Remote Australia
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia
+40602,Outback - North and East,24564,Q3,Major Cities of Australia
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia
+40702,Limestone Coast,15229,Q3,Outer Regional Australia
+40703,Murray and Mallee,30010,Q4,Remote Australia

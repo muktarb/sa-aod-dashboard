@@ -1,0 +1,449 @@
+area_code,area_name,population,seifa_quintile,remoteness,drug_type,episodes,rate_per_100k,financial_year
+40101,Adelaide City,14620,Q2,Remote Australia,Alcohol,138,943.9,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Psychostimulants,36,246.2,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Opioid,19,130.0,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Hallucinogens,5,34.2,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Multiple drug use,26,177.8,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",4,27.4,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Non-opioid analgesic and antirheumatic,10,68.4,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Cannabinoids,23,157.3,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Other,5,34.2,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",21,143.6,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Steroids or hormones,0,0.0,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Inhalants,2,13.7,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Anaesthetics,1,6.8,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40101,Adelaide City,14620,Q2,Remote Australia,All drug-related,290,1983.6,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Alcohol,270,852.4,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Psychostimulants,101,318.9,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Opioid,44,138.9,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Hallucinogens,3,9.5,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Multiple drug use,42,132.6,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",24,75.8,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Non-opioid analgesic and antirheumatic,16,50.5,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Cannabinoids,52,164.2,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Other,7,22.1,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",40,126.3,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Inhalants,5,15.8,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Anaesthetics,2,6.3,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40102,Adelaide Hills,31676,Q3,Very Remote Australia,All drug-related,606,1913.1,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Alcohol,210,830.4,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Psychostimulants,72,284.7,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Opioid,39,154.2,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Hallucinogens,5,19.8,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Multiple drug use,37,146.3,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",30,118.6,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Non-opioid analgesic and antirheumatic,19,75.1,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Cannabinoids,32,126.5,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Other,7,27.7,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",33,130.5,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Inhalants,1,4.0,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Anaesthetics,3,11.9,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Analeptics and opioid receptor antagonists,1,4.0,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,Androgens and anabolic congeners,2,7.9,2024-25
+40103,Burnside,25288,Q4,Very Remote Australia,All drug-related,491,1941.6,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Alcohol,185,852.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Psychostimulants,58,267.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Opioid,43,198.1,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Hallucinogens,7,32.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Multiple drug use,25,115.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",9,41.5,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Non-opioid analgesic and antirheumatic,14,64.5,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Cannabinoids,35,161.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Other,7,32.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",36,165.8,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Inhalants,2,9.2,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Anaesthetics,1,4.6,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Analeptics and opioid receptor antagonists,1,4.6,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40104,Campbelltown (SA),21708,Q5 - least disadvantaged,Very Remote Australia,All drug-related,423,1948.6,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Alcohol,163,771.4,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Psychostimulants,56,265.0,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Opioid,32,151.4,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Hallucinogens,2,9.5,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Multiple drug use,32,151.4,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",11,52.1,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Non-opioid analgesic and antirheumatic,16,75.7,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Cannabinoids,26,123.0,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Other,5,23.7,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",24,113.6,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Steroids or hormones,0,0.0,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Inhalants,0,0.0,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Anaesthetics,2,9.5,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Analeptics and opioid receptor antagonists,3,14.2,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,Androgens and anabolic congeners,2,9.5,2024-25
+40105,Norwood - Payneham - St Peters,21131,Q1 - most disadvantaged,Major Cities of Australia,All drug-related,374,1769.9,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Alcohol,326,875.2,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Psychostimulants,102,273.8,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Opioid,65,174.5,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Hallucinogens,13,34.9,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Multiple drug use,54,145.0,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25,67.1,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Non-opioid analgesic and antirheumatic,28,75.2,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Cannabinoids,65,174.5,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Other,9,24.2,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",42,112.8,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Steroids or hormones,0,0.0,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Inhalants,5,13.4,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Anaesthetics,2,5.4,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Analeptics and opioid receptor antagonists,2,5.4,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,Androgens and anabolic congeners,2,5.4,2024-25
+40106,Prospect - Walkerville,37249,Q2,Inner Regional Australia,All drug-related,740,1986.6,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Alcohol,349,841.2,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Psychostimulants,122,294.0,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Opioid,74,178.4,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Hallucinogens,8,19.3,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Multiple drug use,49,118.1,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25,60.3,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Non-opioid analgesic and antirheumatic,19,45.8,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Cannabinoids,68,163.9,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Other,3,7.2,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",53,127.7,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Steroids or hormones,0,0.0,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Inhalants,4,9.6,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Anaesthetics,6,14.5,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Analeptics and opioid receptor antagonists,1,2.4,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40107,Unley,41490,Q3,Outer Regional Australia,All drug-related,781,1882.4,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Alcohol,116,796.6,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Psychostimulants,42,288.4,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Opioid,33,226.6,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Hallucinogens,6,41.2,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Multiple drug use,18,123.6,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",14,96.1,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Non-opioid analgesic and antirheumatic,13,89.3,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Cannabinoids,24,164.8,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Other,5,34.3,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",16,109.9,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Inhalants,1,6.9,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Anaesthetics,1,6.9,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Analeptics and opioid receptor antagonists,2,13.7,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40201,Gawler - Two Wells,14562,Q2,Very Remote Australia,All drug-related,291,1998.4,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Alcohol,278,864.6,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Psychostimulants,108,335.9,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Opioid,58,180.4,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Hallucinogens,4,12.4,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Multiple drug use,47,146.2,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",22,68.4,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Non-opioid analgesic and antirheumatic,28,87.1,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Cannabinoids,47,146.2,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Other,10,31.1,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",39,121.3,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Steroids or hormones,1,3.1,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Inhalants,8,24.9,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Anaesthetics,4,12.4,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Analeptics and opioid receptor antagonists,1,3.1,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40202,Playford,32153,Q3,Very Remote Australia,All drug-related,655,2037.1,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Alcohol,174,914.0,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Psychostimulants,57,299.4,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Opioid,32,168.1,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Hallucinogens,7,36.8,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Multiple drug use,20,105.1,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",7,36.8,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Non-opioid analgesic and antirheumatic,9,47.3,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Cannabinoids,35,183.9,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Other,7,36.8,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",19,99.8,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Steroids or hormones,0,0.0,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Inhalants,2,10.5,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Anaesthetics,2,10.5,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Analeptics and opioid receptor antagonists,1,5.3,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,Androgens and anabolic congeners,2,10.5,2024-25
+40203,Port Adelaide - East,19037,Q4,Major Cities of Australia,All drug-related,374,1964.6,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Alcohol,369,842.9,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Psychostimulants,127,290.1,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Opioid,65,148.5,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Hallucinogens,8,18.3,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Multiple drug use,82,187.3,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",28,64.0,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Non-opioid analgesic and antirheumatic,27,61.7,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Cannabinoids,67,153.0,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Other,11,25.1,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",56,127.9,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Steroids or hormones,0,0.0,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Inhalants,7,16.0,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Anaesthetics,4,9.1,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Analeptics and opioid receptor antagonists,1,2.3,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,Androgens and anabolic congeners,2,4.6,2024-25
+40204,Salisbury,43777,Q5 - least disadvantaged,Inner Regional Australia,All drug-related,854,1950.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Alcohol,382,908.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Psychostimulants,138,328.3,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Opioid,79,187.9,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Hallucinogens,2,4.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Multiple drug use,66,157.0,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",35,83.3,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Non-opioid analgesic and antirheumatic,19,45.2,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Cannabinoids,53,126.1,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Other,11,26.2,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",45,107.1,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Steroids or hormones,1,2.4,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Inhalants,4,9.5,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Anaesthetics,2,4.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Analeptics and opioid receptor antagonists,2,4.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,Androgens and anabolic congeners,2,4.8,2024-25
+40205,Tea Tree Gully,42034,Q1 - most disadvantaged,Outer Regional Australia,All drug-related,841,2000.8,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Alcohol,288,913.5,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Psychostimulants,97,307.7,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Opioid,54,171.3,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Hallucinogens,5,15.9,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Multiple drug use,50,158.6,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",19,60.3,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Non-opioid analgesic and antirheumatic,20,63.4,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Cannabinoids,46,145.9,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Other,6,19.0,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",54,171.3,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Steroids or hormones,1,3.2,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Inhalants,5,15.9,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Anaesthetics,5,15.9,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Analeptics and opioid receptor antagonists,1,3.2,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,Androgens and anabolic congeners,1,3.2,2024-25
+40301,Holdfast Bay,31527,Q2,Major Cities of Australia,All drug-related,652,2068.1,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Alcohol,326,909.3,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Psychostimulants,131,365.4,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Opioid,42,117.2,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Hallucinogens,9,25.1,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Multiple drug use,45,125.5,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",34,94.8,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Non-opioid analgesic and antirheumatic,21,58.6,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Cannabinoids,69,192.5,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Other,5,13.9,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",35,97.6,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Steroids or hormones,1,2.8,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Inhalants,3,8.4,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Anaesthetics,3,8.4,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Analeptics and opioid receptor antagonists,1,2.8,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,Androgens and anabolic congeners,1,2.8,2024-25
+40302,Marion,35851,Q3,Inner Regional Australia,All drug-related,726,2025.0,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Alcohol,236,872.1,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Psychostimulants,84,310.4,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Opioid,53,195.9,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Hallucinogens,5,18.5,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Multiple drug use,40,147.8,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",24,88.7,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Non-opioid analgesic and antirheumatic,12,44.3,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Cannabinoids,47,173.7,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Other,5,18.5,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",27,99.8,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Steroids or hormones,0,0.0,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Inhalants,4,14.8,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Anaesthetics,6,22.2,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Analeptics and opioid receptor antagonists,3,11.1,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,Androgens and anabolic congeners,1,3.7,2024-25
+40303,Mitcham,27060,Q4,Outer Regional Australia,All drug-related,547,2021.4,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Alcohol,360,933.7,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Psychostimulants,112,290.5,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Opioid,55,142.6,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Hallucinogens,9,23.3,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Multiple drug use,53,137.5,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25,64.8,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Non-opioid analgesic and antirheumatic,27,70.0,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Cannabinoids,56,145.2,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Other,12,31.1,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",40,103.7,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Steroids or hormones,1,2.6,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Inhalants,7,18.2,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Anaesthetics,2,5.2,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Analeptics and opioid receptor antagonists,4,10.4,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,Androgens and anabolic congeners,1,2.6,2024-25
+40304,Onkaparinga,38558,Q5 - least disadvantaged,Remote Australia,All drug-related,764,1981.4,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Alcohol,231,939.4,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Psychostimulants,74,300.9,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Opioid,48,195.2,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Hallucinogens,4,16.3,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Multiple drug use,35,142.3,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",21,85.4,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Non-opioid analgesic and antirheumatic,12,48.8,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Cannabinoids,32,130.1,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Other,9,36.6,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",27,109.8,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Steroids or hormones,1,4.1,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Inhalants,4,16.3,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Anaesthetics,4,16.3,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Analeptics and opioid receptor antagonists,2,8.1,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,Androgens and anabolic congeners,2,8.1,2024-25
+40401,Charles Sturt,24590,Q2,Outer Regional Australia,All drug-related,506,2057.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Alcohol,171,832.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Psychostimulants,62,301.9,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Opioid,25,121.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Hallucinogens,2,9.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Multiple drug use,28,136.3,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",13,63.3,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Non-opioid analgesic and antirheumatic,16,77.9,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Cannabinoids,31,151.0,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Other,10,48.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",20,97.4,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Steroids or hormones,0,0.0,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Inhalants,3,14.6,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Anaesthetics,3,14.6,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Analeptics and opioid receptor antagonists,2,9.7,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40402,Port Adelaide - West,20536,Q3,Remote Australia,All drug-related,386,1879.6,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Alcohol,148,809.5,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Psychostimulants,44,240.7,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Opioid,32,175.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Hallucinogens,2,10.9,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Multiple drug use,17,93.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",13,71.1,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Non-opioid analgesic and antirheumatic,18,98.5,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Cannabinoids,16,87.5,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Other,1,5.5,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",22,120.3,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Inhalants,0,0.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Anaesthetics,3,16.4,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40403,West Torrens,18282,Q4,Very Remote Australia,All drug-related,316,1728.5,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Alcohol,122,745.1,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Psychostimulants,46,280.9,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Opioid,21,128.3,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Hallucinogens,2,12.2,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Multiple drug use,20,122.1,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",15,91.6,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Non-opioid analgesic and antirheumatic,16,97.7,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Cannabinoids,25,152.7,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Other,4,24.4,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",18,109.9,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Inhalants,3,18.3,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Anaesthetics,1,6.1,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Analeptics and opioid receptor antagonists,1,6.1,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,Androgens and anabolic congeners,1,6.1,2024-25
+40501,Barossa,16374,Q2,Very Remote Australia,All drug-related,295,1801.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Alcohol,243,885.1,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Psychostimulants,69,251.3,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Opioid,37,134.8,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Hallucinogens,9,32.8,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Multiple drug use,32,116.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",21,76.5,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Non-opioid analgesic and antirheumatic,14,51.0,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Cannabinoids,41,149.3,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Other,4,14.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",42,153.0,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Inhalants,4,14.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Anaesthetics,1,3.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,Androgens and anabolic congeners,1,3.6,2024-25
+40502,Lower North,27455,Q3,Very Remote Australia,All drug-related,518,1886.7,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Alcohol,249,1040.0,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Psychostimulants,61,254.8,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Opioid,34,142.0,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Hallucinogens,4,16.7,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Multiple drug use,39,162.9,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",22,91.9,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Non-opioid analgesic and antirheumatic,11,45.9,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Cannabinoids,45,187.9,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Other,6,25.1,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",22,91.9,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Steroids or hormones,1,4.2,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Inhalants,1,4.2,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Anaesthetics,3,12.5,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Analeptics and opioid receptor antagonists,2,8.4,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40503,Mid North,23943,Q4,Very Remote Australia,All drug-related,500,2088.3,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Alcohol,285,875.9,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Psychostimulants,107,328.9,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Opioid,50,153.7,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Hallucinogens,4,12.3,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Multiple drug use,37,113.7,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",25,76.8,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Non-opioid analgesic and antirheumatic,28,86.1,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Cannabinoids,48,147.5,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Other,9,27.7,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",47,144.5,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Steroids or hormones,1,3.1,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Inhalants,3,9.2,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Anaesthetics,3,9.2,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,Androgens and anabolic congeners,2,6.1,2024-25
+40504,Yorke Peninsula,32537,Q5 - least disadvantaged,Major Cities of Australia,All drug-related,649,1994.7,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Alcohol,87,1026.5,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Psychostimulants,28,330.4,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Opioid,7,82.6,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Hallucinogens,2,23.6,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Multiple drug use,11,129.8,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",12,141.6,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Non-opioid analgesic and antirheumatic,7,82.6,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Cannabinoids,20,236.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Other,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",8,94.4,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Steroids or hormones,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Inhalants,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Anaesthetics,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Analeptics and opioid receptor antagonists,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40601,Eyre Peninsula and South West,8475,Q2,Very Remote Australia,All drug-related,182,2147.5,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Alcohol,232,944.5,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Psychostimulants,68,276.8,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Opioid,43,175.1,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Hallucinogens,4,16.3,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Multiple drug use,42,171.0,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",19,77.3,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Non-opioid analgesic and antirheumatic,13,52.9,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Cannabinoids,43,175.1,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Other,3,12.2,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",27,109.9,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Steroids or hormones,0,0.0,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Inhalants,1,4.1,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Anaesthetics,1,4.1,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Analeptics and opioid receptor antagonists,1,4.1,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40602,Outback - North and East,24564,Q3,Major Cities of Australia,All drug-related,497,2023.3,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Alcohol,216,1004.1,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Psychostimulants,72,334.7,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Opioid,35,162.7,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Hallucinogens,9,41.8,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Multiple drug use,30,139.5,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",21,97.6,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Non-opioid analgesic and antirheumatic,11,51.1,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Cannabinoids,30,139.5,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Other,7,32.5,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",28,130.2,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Steroids or hormones,1,4.6,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Inhalants,6,27.9,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Anaesthetics,7,32.5,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Analeptics and opioid receptor antagonists,1,4.6,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40701,Fleurieu - Kangaroo Island,21511,Q2,Inner Regional Australia,All drug-related,474,2203.5,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Alcohol,139,912.7,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Psychostimulants,50,328.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Opioid,34,223.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Hallucinogens,4,26.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Multiple drug use,23,151.0,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",6,39.4,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Non-opioid analgesic and antirheumatic,4,26.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Cannabinoids,20,131.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Other,1,6.6,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",16,105.1,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Steroids or hormones,0,0.0,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Inhalants,2,13.1,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Anaesthetics,4,26.3,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Analeptics and opioid receptor antagonists,2,13.1,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,Androgens and anabolic congeners,0,0.0,2024-25
+40702,Limestone Coast,15229,Q3,Outer Regional Australia,All drug-related,305,2002.8,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Alcohol,289,963.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Psychostimulants,81,269.9,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Opioid,44,146.6,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Hallucinogens,6,20.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Multiple drug use,46,153.3,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,"Psychotropics (antidepressants, antipsychotics and neuroleptics)",20,66.6,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Non-opioid analgesic and antirheumatic,20,66.6,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Cannabinoids,35,116.6,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Other,3,10.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,"Sedative-hypnotics, antiepileptics and antiparkinson",33,110.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Steroids or hormones,0,0.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Inhalants,6,20.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Anaesthetics,6,20.0,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Analeptics and opioid receptor antagonists,4,13.3,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,Androgens and anabolic congeners,1,3.3,2024-25
+40703,Murray and Mallee,30010,Q4,Remote Australia,All drug-related,594,1979.3,2024-25
