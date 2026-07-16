@@ -9,8 +9,7 @@ transparent PNG at `streamlit_app/assets/logo.png` (Streamlit) and `shiny_app/ww
 (Shiny) — apps run fine without one. Every chart also has Plotly's built-in camera icon
 (top-right on hover) to download a PNG for reports.
 
-Prototype replicating the [HealthStats NSW](https://www.healthstats.nsw.gov.au/) indicator page
-(*Alcohol and other drug-related hospitalisations*) for **South Australia**, built in both
+Prototype for **South Australia**, built in both
 **R Shiny** and **Python Streamlit** from the same synthetic data pipeline.
 
 **All data are synthetic** (fixed seed 2026). Do not interpret.
