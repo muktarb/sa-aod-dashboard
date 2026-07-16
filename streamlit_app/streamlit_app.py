@@ -7,7 +7,7 @@ v3: episode-derived data (AdmDateTime/DischSummaryDtm); mean bed days measure
 driven by diagnosis_ref.csv; Diagnosis reference tab; map docked as a right
 side panel (SA3 default, SA2 toggle) with the specified hover content.
 """
-
+import base64
 import json
 from pathlib import Path
 
