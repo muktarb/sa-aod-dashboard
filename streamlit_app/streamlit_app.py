@@ -48,7 +48,10 @@ META_P = DATA_DIR / "data_metadata.json"
 META = (json.loads(META_P.read_text()) if META_P.exists()
         else {"data_as_of": "n/a", "last_refresh": "n/a", "version": "v4"})
 LOGO = Path(__file__).parent / "assets" / "logo.png"
-
+LOGO_B64 = (base64.b64encode(LOGO.read_bytes()).decode()
+            if LOGO.exists() else None)
+logo_html = (f'<img class="mh-logo" src="data:image/png;base64,{LOGO_B64}">'
+             if LOGO_B64 else "")
 # ---- Design system (v4): official statistical-release look ---------------------
 st.markdown("""
 <style>
@@ -59,8 +62,11 @@ html, body, [class*="css"] { font-family: 'Public Sans', sans-serif; }
 h1, h2, h3 { font-family: 'Archivo', sans-serif; letter-spacing: -0.01em; }
 
 .masthead { background: linear-gradient(100deg, #003a70 0%, #00539f 70%, #006ba6 100%);
-  border-radius: 14px; padding: 22px 26px 18px 26px; margin-bottom: 14px;
-  border-bottom: 4px solid #00a9a5; }
+  border-radius: 14px; padding: 28px 26px 24px 26px; margin-bottom: 14px;
+  border-bottom: 4px solid #00a9a5; display: flex;
+  justify-content: space-between; align-items: center; gap: 18px; }
+.masthead .mh-logo { height: 92px; border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.35); flex-shrink: 0; }
 .masthead .eyebrow { color: #9fd9d7; font-family: 'IBM Plex Mono', monospace;
   font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; }
 .masthead h1 { color: #ffffff; font-size: 1.55rem; margin: 2px 0 10px 0; }
@@ -88,10 +94,6 @@ h1, h2, h3 { font-family: 'Archivo', sans-serif; letter-spacing: -0.01em; }
   padding: 18px 0 4px 0; font-family: 'IBM Plex Mono', monospace; }
 </style>
 """, unsafe_allow_html=True)
-
-if LOGO.exists():
-    st.logo(str(LOGO))
-
 
 def first_or_none(df):
     return df.iloc[0] if len(df) else None
