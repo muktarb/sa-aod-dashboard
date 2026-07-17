@@ -7,6 +7,7 @@ v3: episode-derived data (AdmDateTime/DischSummaryDtm); mean bed days measure
 driven by diagnosis_ref.csv; Diagnosis reference tab; map docked as a right
 side panel (SA3 default, SA2 toggle) with the specified hover content.
 """
+
 import base64
 import json
 from pathlib import Path
@@ -50,8 +51,7 @@ META = (json.loads(META_P.read_text()) if META_P.exists()
 LOGO = Path(__file__).parent / "assets" / "logo.png"
 LOGO_B64 = (base64.b64encode(LOGO.read_bytes()).decode()
             if LOGO.exists() else None)
-logo_html = (f'<img class="mh-logo" src="data:image/png;base64,{LOGO_B64}">'
-             if LOGO_B64 else "")
+
 # ---- Design system (v4): official statistical-release look ---------------------
 st.markdown("""
 <style>
@@ -63,9 +63,8 @@ h1, h2, h3 { font-family: 'Archivo', sans-serif; letter-spacing: -0.01em; }
 
 .masthead { background: linear-gradient(100deg, #003a70 0%, #00539f 70%, #006ba6 100%);
   border-radius: 14px; padding: 28px 26px 24px 26px; margin-bottom: 14px;
-  border-bottom: 4px solid #00a9a5; display: flex;
-  justify-content: space-between; align-items: center; gap: 18px; }
-.masthead .mh-logo { height: 92px; border-radius: 8px;
+  border-bottom: 4px solid #00a9a5; display: flex; justify-content: space-between; align-items: center; gap: 18px; }
+.masthead .mh-logo { height: 120px; border-radius: 8px;
   border: 1px solid rgba(255,255,255,0.35); flex-shrink: 0; }
 .masthead .eyebrow { color: #9fd9d7; font-family: 'IBM Plex Mono', monospace;
   font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; }
@@ -120,7 +119,8 @@ with st.sidebar:
     st.caption("DEMO — synthetic data for prototyping only. "
                "Not actual SA hospitalisation statistics.")
     if not LOGO.exists():
-        st.caption("logo at `streamlit_app/assets/logo.jpg` " "to brand the app.")
+        st.caption("Add your logo at `streamlit_app/assets/logo.png` "
+                   "to brand the app.")
 
 ycol, ylab = MEASURES[measure]
 is_rate = ycol == "rate_per_100k"
@@ -133,14 +133,20 @@ sel = trend[trend.lhn == lhn]
 row_latest = first_or_none(sel[sel.financial_year == LATEST])
 row_first = first_or_none(sel[sel.financial_year == FIRST])
 
+
+logo_html = (f'<img class="mh-logo" src="data:image/png;base64,{LOGO_B64}">'
+             if LOGO_B64 else "")
 st.markdown(f"""
 <div class="masthead">
-  <div class="eyebrow">SA Health Statistics · Preventive Health SA (demo)</div>
-  <h1>Alcohol and other drug-related hospitalisations</h1>
-  <span class="chip chip-demo">DEMO · SYNTHETIC DATA</span>
-  <span class="chip">Data as of {META['data_as_of']}</span>
-  <span class="chip">Last refresh: {META['last_refresh']}</span>
-  <span class="chip">{drug} · {lhn}</span>
+  <div>
+    <div class="eyebrow">SA Health Statistics · Preventive Health SA (demo)</div>
+    <h1>Alcohol and other drug-related hospitalisations</h1>
+    <span class="chip chip-demo">DEMO · SYNTHETIC DATA</span>
+    <span class="chip">Data as of {META['data_as_of']}</span>
+    <span class="chip">Last refresh: {META['last_refresh']}</span>
+    <span class="chip">{drug} · {lhn}</span>
+  </div>
+  {logo_html}
 </div>
 """, unsafe_allow_html=True)
 
