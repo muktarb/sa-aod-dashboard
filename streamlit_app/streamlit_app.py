@@ -42,8 +42,19 @@ def load(name, **kw):
 
 dat = load("sa_aod_hospitalisations.csv")
 ref = load("diagnosis_ref.csv")
+yr_levels = list(dict.fromkeys(dat["financial_year"]))
 lhn_all = [STATE] + sorted(x for x in dat.lhn.unique() if x != STATE)
 drug_all = [ALLDRUG] + sorted(x for x in dat.drug_type.unique() if x != ALLDRUG)
+
+LHN_COLOR = {l: PALETTE[i % len(PALETTE)] for i, l in enumerate(lhn_all)}
+LHN_SHORT = {l: ("SA (All LHNs)" if l == STATE else l.replace(" LHN", ""))
+             for l in lhn_all}
+
+
+def rgba(hex_c, a):
+    h = hex_c.lstrip("#")
+    return (f"rgba({int(h[0:2], 16)},{int(h[2:4], 16)},"
+            f"{int(h[4:6], 16)},{a})")
 
 META_P = DATA_DIR / "data_metadata.json"
 META = (json.loads(META_P.read_text()) if META_P.exists()
@@ -178,32 +189,44 @@ with left:
         ctype = st.radio("Chart type", ["Line", "Bar"], horizontal=True,
                          key="ct_trend")
         fig = go.Figure()
-        for i, l in enumerate(trend_lhns):
+        for l in trend_lhns:
             d = trend[trend.lhn == l]
-            colr = PALETTE[i % len(PALETTE)]
+            colr = LHN_COLOR[l]
             if ctype == "Line":
-                if show_ci and is_rate and l == lhn:
+                if show_ci and is_rate:                 # CIs on ALL lines
                     fig.add_trace(go.Scatter(x=d.financial_year, y=d.rate_ucl,
                                              line=dict(width=0),
                                              hoverinfo="skip",
                                              showlegend=False))
                     fig.add_trace(go.Scatter(x=d.financial_year, y=d.rate_lcl,
                                              fill="tonexty",
-                                             fillcolor="rgba(0,83,159,0.12)",
+                                             fillcolor=rgba(colr, 0.12),
                                              line=dict(width=0),
                                              hoverinfo="skip",
                                              showlegend=False))
                 fig.add_trace(go.Scatter(
                     x=d.financial_year, y=d[ycol], mode="lines+markers",
-                    name=l, line=dict(color=colr, width=3,
-                                      dash="dash" if l == STATE else "solid"),
+                    name=LHN_SHORT[l],
+                    line=dict(color=colr, width=3,
+                              dash="dash" if l == STATE else "solid"),
                     marker=dict(size=7)))
-            else:
-                fig.add_trace(go.Bar(x=d.financial_year, y=d[ycol], name=l,
-                                     marker_color=colr))
-        fig.update_layout(xaxis_title="Financial year", yaxis_title=ylab,
-                          yaxis_rangemode="tozero", hovermode="x unified",
-                          barmode="group", height=430, margin=dict(t=25),
+            else:                                       # horizontal bars
+                fig.add_trace(go.Bar(
+                    x=d[ycol], y=d.financial_year, orientation="h",
+                    name=LHN_SHORT[l], marker_color=colr,
+                    error_x=dict(array=d.rate_ucl - d.rate_per_100k,
+                                 arrayminus=d.rate_per_100k - d.rate_lcl,
+                                 color=SA_GREY)
+                    if (is_rate and show_ci) else None))
+        if ctype == "Line":
+            fig.update_layout(xaxis_title="Financial year", yaxis_title=ylab,
+                              yaxis_rangemode="tozero", hovermode="x unified")
+        else:
+            fig.update_layout(xaxis_title=ylab, yaxis_title="Financial year",
+                              barmode="group",
+                              yaxis=dict(categoryorder="array",
+                                         categoryarray=yr_levels[::-1]))
+        fig.update_layout(height=430, margin=dict(t=25),
                           legend=dict(orientation="h", y=-0.28))
         st.plotly_chart(fig, use_container_width=True)
 
@@ -214,7 +237,7 @@ with left:
         reg = totals[(totals.drug_type == drug) &
                      (totals.financial_year == LATEST) &
                      (totals.lhn != STATE)].sort_values(ycol)
-        hi_colors = [SA_BLUE if l == lhn else SA_TEAL for l in reg.lhn]
+        hi_colors = [LHN_COLOR[l] for l in reg.lhn]
         if ctype == "Bar":
             fig = go.Figure(go.Bar(
                 x=reg[ycol], y=reg.lhn, orientation="h",
@@ -237,7 +260,7 @@ with left:
             fig = go.Figure(go.Pie(
                 labels=reg.lhn, values=reg[ycol],
                 pull=[0.12 if l == lhn else 0 for l in reg.lhn],
-                marker=dict(colors=PALETTE,
+                marker=dict(colors=[LHN_COLOR[l] for l in reg.lhn],
                             line=dict(color="white", width=1))))
             fig.update_layout(title=f"Share of {ylab.lower()} by LHN, "
                                     f"{LATEST} (selected LHN pulled out)")
@@ -265,41 +288,79 @@ with left:
 
         def strat_fig(strat, col):
             sd = dat[(dat.group_by == strat) & (dat.drug_type == drug) &
-                     (dat.lhn == lhn)].copy()
+                     (dat.lhn.isin(trend_lhns))].copy()
             sd["label"] = sd[col].map(lambda x: SHORT.get(x, x))
             order = [SHORT.get(x, x) for x in sorted(sd[col].unique())]
             latest_sd = sd[sd.financial_year == LATEST]
-            if ctype == "Bar":
-                f = go.Figure(go.Bar(
-                    x=latest_sd.label, y=latest_sd[ycol],
-                    marker_color=SA_TEAL,
-                    error_y=dict(
-                        array=latest_sd.rate_ucl - latest_sd.rate_per_100k,
-                        arrayminus=(latest_sd.rate_per_100k
-                                    - latest_sd.rate_lcl),
-                        color=SA_GREY) if (is_rate and show_ci) else None))
-                f.update_xaxes(categoryorder="array", categoryarray=order)
-            elif ctype.startswith("Line"):
+            multi = len(trend_lhns) > 1
+            DASH = ["solid", "dash", "dot", "dashdot", "longdash"]
+
+            if ctype == "Bar":                # grouped horizontal by LHN
+                f = go.Figure()
+                for l in trend_lhns:
+                    d = latest_sd[latest_sd.lhn == l]
+                    f.add_trace(go.Bar(
+                        x=d[ycol], y=d.label, orientation="h",
+                        name=LHN_SHORT[l], marker_color=LHN_COLOR[l],
+                        error_x=dict(
+                            array=d.rate_ucl - d.rate_per_100k,
+                            arrayminus=d.rate_per_100k - d.rate_lcl,
+                            color=SA_GREY)
+                        if (is_rate and show_ci) else None))
+                f.update_yaxes(categoryorder="array",
+                               categoryarray=order[::-1])
+                f.update_layout(barmode="group")
+            elif ctype.startswith("Line"):    # dash pattern per LHN
                 f = go.Figure()
                 for i, lev in enumerate(order):
-                    d = sd[sd.label == lev].sort_values("year_start")
-                    f.add_trace(go.Scatter(
-                        x=d.financial_year, y=d[ycol], mode="lines+markers",
-                        name=lev, marker=dict(size=5),
-                        line=dict(color=PALETTE[i % len(PALETTE)], width=2)))
+                    for j, l in enumerate(trend_lhns):
+                        d = sd[(sd.label == lev) &
+                               (sd.lhn == l)].sort_values("year_start")
+                        if not len(d):
+                            continue
+                        if show_ci and is_rate:
+                            f.add_trace(go.Scatter(
+                                x=d.financial_year, y=d.rate_ucl,
+                                line=dict(width=0), hoverinfo="skip",
+                                showlegend=False))
+                            f.add_trace(go.Scatter(
+                                x=d.financial_year, y=d.rate_lcl,
+                                fill="tonexty",
+                                fillcolor=rgba(PALETTE[i % len(PALETTE)],
+                                              0.10),
+                                line=dict(width=0), hoverinfo="skip",
+                                showlegend=False))
+                        f.add_trace(go.Scatter(
+                            x=d.financial_year, y=d[ycol],
+                            mode="lines+markers",
+                            name=(f"{lev} · {LHN_SHORT[l]}" if multi
+                                  else lev),
+                            marker=dict(size=5),
+                            line=dict(color=PALETTE[i % len(PALETTE)],
+                                      width=2, dash=DASH[j % len(DASH)])))
                 f.update_layout(hovermode="x unified")
-            else:
+            else:                             # pie: primary LHN only
+                d = latest_sd[latest_sd.lhn == lhn]
                 f = go.Figure(go.Pie(
-                    labels=latest_sd.label, values=latest_sd[ycol],
+                    labels=d.label, values=d[ycol],
                     marker=dict(colors=PALETTE,
                                 line=dict(color="white", width=1)),
                     textinfo="label+percent"))
             f.update_layout(
-                title=dict(text=strat, font=dict(size=15)), height=300,
-                margin=dict(l=10, r=10, t=40, b=10), showlegend=(
-                    ctype.startswith("Line")),
+                title=dict(text=strat + (" (pie: selected LHN)"
+                                         if ctype == "Pie" and multi else ""),
+                           font=dict(size=15)),
+                height=300, margin=dict(l=10, r=10, t=40, b=10),
+                showlegend=(ctype != "Pie" and (multi or
+                                                ctype.startswith("Line"))),
                 legend=dict(font=dict(size=10), orientation="h", y=-0.25))
             return f
+
+        if len(trend_lhns) > 1 and ctype == "Pie":
+            st.caption(f"Pie shows the selected LHN ({lhn}) only — "
+                       "overlaying multiple LHNs in one pie isn't "
+                       "meaningful. Switch to Bar or Line to compare "
+                       "across the added LHNs.")
 
         for row in (STRATS[:2], STRATS[2:4], STRATS[4:]):
             cols = st.columns(len(row))
